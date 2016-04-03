@@ -10,7 +10,7 @@ title:               foo
 #tagline:             'foo's website
 description:         Foo's blog...
 url: https://damianobacci.github.io
-baseurl: "/lanyon-plus"
+baseurl: 
 urlimg: https://damianobacci.github.io/images/
 markdown: kramdown
 paginate: 5
