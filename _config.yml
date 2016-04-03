@@ -6,12 +6,12 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               Damiano Bacci
+title:               foo
 #tagline:             'foo's website
-description:         Damiano Bacci
-url: https://damianobacci.github.io
-baseurl: 
-urlimg: https://damianobacci.github.io/images/
+description:         Foo's blog...
+url: https://dyndna.github.io/lanyon-plus
+baseurl: "/lanyon-plus"
+urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -33,24 +33,24 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Damiano Bacci
-  url:               https://twitter.com/DamianoBacci
+  name:              Foo Boo
+  url:               https://twitter.com/abcd
   avatar:         foo.png
-  email:          damiano.bacci@gmail.com 
+  #email:           
 
 # Owner/author information
 owner:
-  name:           Damiano Bacci
+  name:           Foo Boo
   avatar:         foo.png
-  email:          damiano.bacci@gmail.com 
+  #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        DamianoBacci
+  twitter:        abcd
   facebook:       
-  github:         damianobacci
+  github:         xyz123abc
   stackexchange:  
-  linkedin:       https://www.linkedin.com/in/damianobacci
+  linkedin:       https://www.linkedin.com/in/foo
   instagram:      
   flickr:
   tumblr:  
