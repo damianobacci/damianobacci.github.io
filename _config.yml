@@ -33,22 +33,22 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Damiano Bacci
-  url:               https://twitter.com/DamianoBacci
+  name: Damiano Bacci
+  url: https://twitter.com/DamianoBacci
   avatar:         foo.png
   #email:           
 
 # Owner/author information
 owner:
-  name:           Damiano Bacci
-  avatar:         foo.png
-  email:          damiano.bacci@gmail.com
+  name: Damiano Bacci
+  avatar: foo.png
+  email: damiano.bacci@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        DamianoBacci
+  twitter: https://twitter.com/DamianoBacci
   facebook:       
-  github:         damianobacci
+  github: damianobacci
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/damianobacci
   instagram:      
