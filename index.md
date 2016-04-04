@@ -7,7 +7,7 @@ description: a simple yet efficient datablog by Damiano Bacci
 
 ## Welcome
 
-A collection of data journalism bits scattered around, make sure to check [my website] (http://damianobacci.net) for the complete list of my projects.
+A collection of data journalism bits scattered around, make sure to check [my website](http://damianobacci.net) for the complete list of my projects.
 
 {% if site.twitter_widget_id %}
 <div class="text-tweets">
