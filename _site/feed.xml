@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>foo</title>
-    <description>Foo&#39;s blog...</description>
-    <link>https://dyndna.github.io/lanyon-plus/lanyon-plus/</link>
-    <atom:link href="https://dyndna.github.io/lanyon-plus/lanyon-plus/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-03T21:11:56+02:00</updated>
-    <id>https://dyndna.github.io/lanyon-plus</id>
+    <title>data journalism for wannabes</title>
+    <description>a simple yet efficient datablog by Damiano Bacci</description>
+    <link>https://damianobacci.github.io/</link>
+    <atom:link href="https://damianobacci.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <updated>2016-04-04T15:55:10+02:00</updated>
+    <id>https://damianobacci.github.io</id>
     <author>
-      <name>Foo Boo</name>
+      <name>Damiano Bacci</name>
     </author>
     
       <item>
@@ -28,8 +28,8 @@
 </description>
         
         <pubDate>Sat, 31 Jan 2015 00:00:00 +0100</pubDate>
-        <link>https://dyndna.github.io/lanyon-plus/lanyon-plus/blog/2015/01/31/whats-jekyll/</link>
-        <guid isPermaLink="true">https://dyndna.github.io/lanyon-plus/lanyon-plus/blog/2015/01/31/whats-jekyll/</guid>
+        <link>https://damianobacci.github.io/blog/2015/01/31/whats-jekyll/</link>
+        <guid isPermaLink="true">https://damianobacci.github.io/blog/2015/01/31/whats-jekyll/</guid>
       </item>
     
       <item>
@@ -250,7 +250,7 @@ Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna m
 
 &lt;h3 id=&quot;embed-picture&quot;&gt;Embed picture&lt;/h3&gt;
 
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;https://dyndna.github.io/lanyon-plus/images//media/apple-icon.png&quot; alt=&quot;Toy example&quot; title=&quot;Toy example&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;https://damianobacci.github.io/images//media/apple-icon.png&quot; alt=&quot;Toy example&quot; title=&quot;Toy example&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;inline-css-attributes&quot;&gt;Inline css attributes&lt;/h3&gt;
 
@@ -322,7 +322,7 @@ Is it O.K.?&lt;/p&gt;
       &lt;p&gt;&lt;a href=&quot;http://lanyon.getpoole.com&quot;&gt;lanyon theme&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://dyndna.github.io/lanyon-plus/about&quot;&gt;About&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://damianobacci.github.io/about&quot;&gt;About&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
 
@@ -338,8 +338,8 @@ Is it O.K.?&lt;/p&gt;
 </description>
         
         <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-        <link>https://dyndna.github.io/lanyon-plus/lanyon-plus/blog/2013/01/01/example_content/</link>
-        <guid isPermaLink="true">https://dyndna.github.io/lanyon-plus/lanyon-plus/blog/2013/01/01/example_content/</guid>
+        <link>https://damianobacci.github.io/blog/2013/01/01/example_content/</link>
+        <guid isPermaLink="true">https://damianobacci.github.io/blog/2013/01/01/example_content/</guid>
       </item>
     
   </channel>

@@ -64,17 +64,12 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Home
     url: /
-  - title: <i class="iconside iconm-user"></i> About
-    url: /about/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/
   - title: <i class="fa fa-tags"></i> Tags
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
-    external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
@@ -88,7 +83,7 @@ links:
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
-#twitter_widget_id: xyz123abc
+twitter_widget_id: 401057985373282304
 
 # Add disqus username for Disqus comment board:
 disqus_shortname: Damiano
