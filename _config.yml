@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #permalink:           pretty
-permalink: /blog/:year/:month/:day/:title/
+permalink: /data-stories/:title/
 relative_permalinks: false
 
 # Setup
@@ -64,8 +64,8 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Home
     url: /
-  - title: <i class="iconside iconm-quill"></i> Blog
-    url: /blog/
+  - title: <i class="iconside iconm-quill"></i> Data Stories
+    url: /data-stories/
   - title: <i class="fa fa-tags"></i> Tags
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive

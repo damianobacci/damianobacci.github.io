@@ -1,17 +1,17 @@
 - name: Twitter
   url: https://twitter.com/DamianoBacci
   class: fa fa-twitter-square
-  title: "Follow me @foo"
+  title: "Follow me @DamianoBacci"
 
 - name: GitHub
   url: https://github.com/damianobacci
   class: fa fa-github-square
-  title: Code repository
+  title: "My personal GitHub"
 
 - name: Contact
   url: "/contact/"
   class: fa fa-envelope-square
-  title: "Reach Us"
+  title: "Contact me"
 
 - name: RSS
   url: "/feed.xml"
