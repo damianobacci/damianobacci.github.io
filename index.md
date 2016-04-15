@@ -7,7 +7,7 @@ description: a simple yet efficient datablog by damiano Bacci
 
 ## Welcome!
 
-"data journalism for wannabes" is collection of data stories, experiments and tutorials
+"data journalism for wannabes" is collection of data stories, experiments and tutorials.
 
 The blog used [Wordpress](http://wordpress.org) as a platform, but since it's very limited I decided to migrate to [Jekyll](https://jekyllrb.com), which was the best decision ever. Enjoy some data stories!
 
