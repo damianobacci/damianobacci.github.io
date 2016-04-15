@@ -1,19 +1,15 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
-description: "Blogging on ...."
+title: data journalism for wannabes
+description: a simple yet efficient datablog by damiano Bacci
 ---
 
-## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
+## Welcome!
 
-Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
+"data journalism for wannabes" is collection of data stories, experiments and tutorials
 
-* add-ons by [Samir Amin](http://sbamin.com)
-* [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
-* License: Open sourced under the [MIT license](http://sbamin.com/disclosure/#theme-major-credit--license). 
-
-Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
+The blog used [Wordpress](http://wordpress.org) as platform, but since it's very limited I decided to migrate to [Jekyll](https://jekyllrb.com), which was the best decision ever. Enjoy some data stories!
 
 {% if site.twitter_widget_id %}
 <div class="text-tweets">
