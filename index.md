@@ -67,7 +67,7 @@ Twitter stream will show up here if `twitter_widget_id` is present is `_config.y
 </div>
 <h3 class="post-title">
 <div class="pagination" style="margin: 0.5rem;">
-    <a class="pagination-item older" href="{{ site.url }}/blog"><i class="fa fa-edit"> Data Stories</i></a>
+    <a class="pagination-item older" href="{{ site.url }}/data-stories"><i class="fa fa-edit"> Data Stories</i></a>
     <a class="pagination-item newer" href="{{ site.url }}/tags"><i class="fa fa-tags"> Tags</i></a>
 </div>
 </h3>
