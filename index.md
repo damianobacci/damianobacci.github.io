@@ -1,13 +1,19 @@
 ---
 layout: default
 permalink: index.html
-title: data journalism for wannabes
-description: a simple yet efficient datablog by Damiano Bacci
+title: Personal Homepage of foo boo
+description: "Blogging on ...."
 ---
 
-## Welcome
+## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
 
-A collection of data journalism bits scattered around, make sure to check [my website](http://damianobacci.net) for a complete list of my projects.
+Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
+
+* add-ons by [Samir Amin](http://sbamin.com)
+* [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
+* License: Open sourced under the [MIT license](http://sbamin.com/disclosure/#theme-major-credit--license). 
+
+Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
 
 {% if site.twitter_widget_id %}
 <div class="text-tweets">
@@ -67,7 +73,7 @@ Twitter stream will show up here if `twitter_widget_id` is present is `_config.y
 </div>
 <h3 class="post-title">
 <div class="pagination" style="margin: 0.5rem;">
-    <a class="pagination-item older" href="{{ site.url }}/data-stories"><i class="fa fa-edit"> Data Stories</i></a>
+    <a class="pagination-item older" href="{{ site.url }}/blog"><i class="fa fa-edit"> Blog</i></a>
     <a class="pagination-item newer" href="{{ site.url }}/tags"><i class="fa fa-tags"> Tags</i></a>
 </div>
 </h3>

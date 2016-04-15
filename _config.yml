@@ -2,14 +2,14 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #permalink:           pretty
-permalink: /data-stories/:title/
+permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
 title:               data journalism for wannabes
 #tagline:             'foo's website
-description:         a simple yet efficient datablog by Damiano Bacci
-url: https://damianobacci.github.io
+description:         a simple yet efficient datablog by damiano bacci
+url: https://damianobacci.github.io/
 baseurl: 
 urlimg: https://damianobacci.github.io/images/
 markdown: kramdown
@@ -33,28 +33,28 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name: Damiano Bacci
-  url: https://twitter.com/DamianoBacci
+  name:              damiano bacci
+  url:               https://twitter.com/DamianoBacci
   avatar:         foo.png
-  #email:           
+  email:           damiano.bacci@gmail.com
 
 # Owner/author information
 owner:
-  name: Damiano Bacci
-  avatar: foo.png
-  email: damiano.bacci@gmail.com
+  name:           damiano bacci
+  avatar:         foo.png
+  email:          damiano.bacci@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter: DamianoBacci
-  facebook:       
-  github: damianobacci
+  twitter:        DamianoBacci
+  facebook:       https://www.facebook.com/damiano.bacci
+  github:         damianobacci
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/damianobacci
   instagram:      
   flickr:
   tumblr:  
-  google_plus:    https://plus.google.com/+DamianoBacci
+  google_plus:    
   # orcid and google scholar IDs are different than standard username.
   orcid: xyz123abc
   gscholar: xyz123abc
@@ -64,16 +64,14 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Home
     url: /
-  - title: <i class="iconside iconm-quill"></i> Data Stories
-    url: /data-stories/
-  - title: <i class="fa fa-tags"></i> Tags
-    url: /tags/
+  - title: <i class="iconside iconm-quill"></i> Blog
+    url: /blog/
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/DamianoBacci
+    url: https://twitter.com/abcd
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
