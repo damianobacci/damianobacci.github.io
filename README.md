@@ -1,3 +1,3 @@
 ## damianobacci.github.io
 
-The personal website of Damiano Bacci
+A simple yet efficient datablog by damiano bacci
