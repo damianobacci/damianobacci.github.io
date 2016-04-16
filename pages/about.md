@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 show_meta: true
 # imagefeature path is relative to images/ directory.
-imagefeature: foo.png
+imagefeature: data-journalism-for-wannabes.png
 published: true
 description: "about damiano bacci"
 category: views
@@ -17,8 +17,8 @@ sitemap:
     lastmod: 2016-02-13
 # tags will be used as html meta keywords.    
 tags:
-  - "foo boo"
-  - "city tx"
+  - "damiano bacci"
+  - "data journalism for wannabes"
 ---
 
 <div class="post-author text-center">                       

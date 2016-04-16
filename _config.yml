@@ -35,13 +35,13 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:              damiano bacci
   url:               https://twitter.com/DamianoBacci
-  avatar:         foo.png
+  avatar:         data-journalism-for-wannabes.png
   email:           damiano.bacci@gmail.com
 
 # Owner/author information
 owner:
   name:           damiano bacci
-  avatar:         foo.png
+  avatar:         data-journalism-for-wannabes.png
   email:          damiano.bacci@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
