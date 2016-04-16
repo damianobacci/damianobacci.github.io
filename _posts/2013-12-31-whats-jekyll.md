@@ -1,11 +1,13 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Data Journalism at #IJF16
 # date element overrides date in title format.
-date: 2015-1-31
+date: 2016-4-16
 tag:
-  - common_tag
-  - other_tag
+  - tutorial
+  - ijf16
+  - scraping
+  - python
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
