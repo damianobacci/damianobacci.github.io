@@ -29,6 +29,6 @@ tags:
 </span>
 </div>
 
-My name is Damiano, and I am a student at Sapienza University of Rome, currently  focusing on media, digital communication and journalism.
+My name is **Damiano**, and I am a student at [Sapienza University of Rome](http://www.coris.uniroma1.it/), currently  focusing on **media**, **digital communication** and **journalism**.
 
 *[volutpat]: Tooltip for abbreviation.
