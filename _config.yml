@@ -89,6 +89,6 @@ twitter_widget_id: 401057985373282304
 disqus_shortname: datajournalismforwannabes
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:   xyz123abc
+google_analytics: UA-54035493-5
 
 ## END ##
