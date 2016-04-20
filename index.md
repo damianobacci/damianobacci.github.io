@@ -11,6 +11,8 @@ description: A simple yet efficient datablog by Damiano Bacci
 
 At the beginning, this blog used [Wordpress](http://wordpress.org), but since it's very limited I decided to migrate to [Jekyll](https://jekyllrb.com), which was the best decision ever. Enjoy some data stories!
 
+If you want to check my other stuff, you can find everything on [my webpage](http://www.damianobacci.net).
+
 {% if site.twitter_widget_id %}
 <div class="text-tweets">
 <div class="tweets">
