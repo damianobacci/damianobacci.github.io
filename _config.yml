@@ -8,7 +8,7 @@ relative_permalinks: false
 # Setup
 title:               data journalism for wannabes
 #tagline:             'foo's website
-description:         a simple yet efficient datablog by Damiano Bacci
+description:         A simple yet efficient datablog by Damiano Bacci
 url: https://damianobacci.github.io
 baseurl: 
 urlimg: https://damianobacci.github.io/images/

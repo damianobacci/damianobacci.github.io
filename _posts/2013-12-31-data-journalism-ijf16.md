@@ -5,7 +5,6 @@ title: Data Journalism at IJF16
 date: 2016-4-16
 tag:
   - tutorial
-  - ijf16
   - scraping
   - python
 ---

@@ -2,7 +2,7 @@
 layout: default
 permalink: index.html
 title: data journalism for wannabes
-description: a simple yet efficient datablog by Damiano Bacci
+description: A simple yet efficient datablog by Damiano Bacci
 ---
 
 ## Welcome!

@@ -6,7 +6,7 @@ show_meta: true
 # imagefeature path is relative to images/ directory.
 imagefeature: data-journalism-for-wannabes.png
 published: true
-description: "about damiano bacci"
+description: "About Damiano Bacci"
 category: views
 comments: false
 mathjax: false

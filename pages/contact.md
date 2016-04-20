@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 show_meta: false
 published: true
-description: Contact damiano bacci
+description: Contact Damiano Bacci
 comments: false
 mathjax: false
 noindex: false
