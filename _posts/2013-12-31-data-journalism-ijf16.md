@@ -57,7 +57,9 @@ Let's dive in!
 
 * **Pivot Tables** in Google Spreadsheets
 * [**Python Pandas**](http://pandas.pydata.org/), huge tool using Python for statistical analysis (make sure to check [this book](http://shop.oreilly.com/product/0636920023784.do) for further infos)
-* [**GNU PSPP**](https://www.gnu.org/software/pspp/) for statistical analysis of big datasets
+* [**GNU PSPP**](https://www.gnu.org/software/pspp/) for statistical analysis of big datasets, based on [IBM's SPSS](https://en.wikipedia.org/wiki/SPSS)
 
-### 
+### Visualize data
+
+* [**Chartbuilder**](https://quartz.github.io/Chartbuilder/)
 
