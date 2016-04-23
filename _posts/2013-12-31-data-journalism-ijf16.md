@@ -25,3 +25,10 @@ Let's dive in!
 **Who**: [Andrea Nelson Mauro](https://twitter.com/nelsonmau), [Gianluca De Martino](https://twitter.com/glucademartino)
 
 **What**: Andrea opens the panel with a brief introduction about Dataninja and their past works, including the elearning platform [**Dataninja School**](http://school.dataninja.it/). Gianluca then talks about different scraping tools like [**Tabula**](http://tabula.technology/) and [**ScraperWiki**](https://scraperwiki.com/), and Andrea demonstrates how to use the [**Scraper** extension](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd) for Google Chrome. The resulting spreadsheet is then put on **Google Spreadsheets**, filtered and analyzed using a [**pivot table**](https://en.wikipedia.org/wiki/Pivot_table). They proceed to talk about [**OpenRefine**](http://openrefine.org/) and how it can be used to clean your data.
+
+### [Joining multiple Excel files with Python](http://www.journalismfestival.com/programme/2016/joining-multiple-excel-files-with-python-hands-on) ([slides available](https://goo.gl/Kl0RKs))
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/t5MBwcOsSF4' frameborder='0' allowfullscreen></iframe></div>
+**Who**: [Marco Túlio Pires](https://twitter.com/mtrpires)
+
+**What**: This session focus on using [**Python**](https://www.python.org/) to work with your spreadsheets data, an additional tutorial is available on [the relevent repository](https://github.com/mtrpires/pyPerugia16) on [Marco's GitHub page](https://github.com/mtrpires).
