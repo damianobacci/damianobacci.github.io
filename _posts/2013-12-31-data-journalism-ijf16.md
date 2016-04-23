@@ -15,6 +15,6 @@ The [International Journalism Festival](http://www.journalismfestival.com) (**IJ
 <!--more-->
 
 ### 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VRkImNi_O1g" frameborder="0" allowfullscreen></iframe>
 
 {% youtube VRkImNi_O1g %}
+
