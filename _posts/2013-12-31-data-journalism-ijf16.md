@@ -20,7 +20,7 @@ This year the festival was packed with data journalism events, I think it was th
 
 Let's dive in!
 
-### Tools for the collection, organization and analysis of data
+### Tools for the collection, organization and analysis of data ([slides available](http://slides.com/dataninja/tool-raccolta-analisi-dati#/))
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VRkImNi_O1g' frameborder='0' allowfullscreen></iframe></div>
 **Who**: [Andrea Nelson Mauro](https://twitter.com/nelsonmau), [Gianluca De Martino](https://twitter.com/glucademartino)
 
