@@ -31,4 +31,11 @@ Let's dive in!
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/t5MBwcOsSF4' frameborder='0' allowfullscreen></iframe></div>
 **Who**: [Marco Túlio Pires](https://twitter.com/mtrpires)
 
-**What**: This session focus on using [**Python**](https://www.python.org/) to work with your spreadsheets data, an additional tutorial is available on [the relevent repository](https://github.com/mtrpires/pyPerugia16) on [Marco's GitHub page](https://github.com/mtrpires).
+**What**: This session focus on using [**Python**](https://www.python.org/) to work with your spreadsheets data, an additional tutorial is available on [the relevent repository](https://github.com/mtrpires/pyPerugia16) on [Marco's GitHub page](https://github.com/mtrpires). A little knowledge of Python and [**regular expressions**](https://en.wikipedia.org/wiki/Regular_expression) is required, make sure to check [this course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7) on **edX** about computer science and Python.
+
+### [Free data journalism tools](http://www.journalismfestival.com/programme/2016/free-data-journalism-tools)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_HYiV_skkek' frameborder='0' allowfullscreen></iframe></div>
+**Who**: [Marco Túlio Pires](https://twitter.com/mtrpires)
+
+**What**:
