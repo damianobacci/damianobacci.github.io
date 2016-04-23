@@ -10,6 +10,7 @@ tag:
   - excel
   - cleaning
   - visualization
+  - qgis
 comments: true
 show_meta: true
 comments: true
