@@ -9,6 +9,14 @@ tag:
   - python
   - excel
   - cleaning
+comments: true
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
 ---
 
 The [International Journalism Festival](http://www.journalismfestival.com) (**IJF**) is a journalism festival held in [Perugia](https://en.wikipedia.org/wiki/Perugia) every year, with a moltitude of panel discussions, workshops and presentations done by over [500 speakers](http://www.journalismfestival.com/speaker-list/2016). In the 2016 edition I had the chance to volunteer at the festival, and so I was able to attend many sessions devoted to [data journalism topics](http://www.journalismfestival.com/programme/2016/category/data-journalism-school) Here's a list of what I found interesting.
