@@ -48,4 +48,11 @@ Let's dive in!
 
 ## Clean the data 
 
+* The evergreen [**OpenRefine**](http://openrefine.org/)
+* [Google Spreadsheets' **formulas**](https://support.google.com/docs/table/25273?hl=en), like `=split()`,`=trim()`,`=proper()` and `=clean`
+* [**DataWrangler**](http://vis.stanford.edu/wrangler/) from Stanford University
+
+## Analyze the data
+
+*
 
