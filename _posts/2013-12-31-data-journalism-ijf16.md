@@ -18,6 +18,6 @@ First of all, I have to tell you that you can view all past events of IJF **for 
 
 This year the festival was packed with data journalism events, I think it was the first time in which I was obliged to choose between two simultaneous panels that interested me. A lot of them were done by the amazing [**Dataninja**](http://www.dataninja.it/), an independent team of journalists and tech people focusing on **data journalism**, **visualizations**, **open data** and **geo data**. I had the opportunity to meet them and I can assure you about their passion and their knowledge. Other amazing workshops were done by [**Marco Túlio Pires**](https://twitter.com/mtrpires), manager of the [**School of Data**](http://schoolofdata.org/). Not only they were very **interesting and useful**, but Marco has an **amazing knack for teaching**.
 
-### 
+### Tools for the collection, organization and analysis of data
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/VRkImNi_O1g' frameborder='0' allowfullscreen></iframe></div>
