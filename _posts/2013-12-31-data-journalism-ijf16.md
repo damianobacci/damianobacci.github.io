@@ -9,6 +9,7 @@ tag:
   - python
   - excel
   - cleaning
+  - visualization
 comments: true
 show_meta: true
 comments: true
@@ -69,5 +70,19 @@ Let's dive in!
 
 ### Visualize data
 
-* [**Chartbuilder**](https://quartz.github.io/Chartbuilder/)
+* [**Chartbuilder**](https://quartz.github.io/Chartbuilder/) for simple data visualization
+* [**RAW**](http://raw.densitydesign.org/): the missing link between spreadsheets and vector graphics, for more complex visualization
+* [**CartoDB**](https://cartodb.com/) for maps
 
+### Tell the story
+
+* [**Atavist**](https://atavist.com/), a powerful tool for media-rich stories
+* [**Timeline.js**](https://timeline.knightlab.com/) for interactive timelines
+* [**Silk.co**](https://www.silk.co/) for interactive data visualization
+
+## [Fancy becoming a GEOrnalist?](http://www.journalismfestival.com/programme/2016/fancy-becoming-a-geornalist) ([slides available]())
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/g8etYruJrmA' frameborder='0' allowfullscreen></iframe></div>
+**Who**: [Andrea Borruso](https://twitter.com/aborruso)
+
+**What**: 
