@@ -14,9 +14,9 @@ The [International Journalism Festival](http://www.journalismfestival.com) (**IJ
 
 <!--more-->
 
-First of all, I have to tell you that you can view all the past events of IJF **for free** on [**its Youtube channel**](https://www.youtube.com/channel/UClUtH75j6Bd7_Ty17jHVDPg). Unfortunately there is **no translation available**, this means that even if there was a translation during the event you can only listen to the original audio. I hope they'll fix this problem in the future.
+First of all, I have to tell you that you can view all past events of IJF **for free** on [**its Youtube channel**](https://www.youtube.com/channel/UClUtH75j6Bd7_Ty17jHVDPg). Unfortunately there is **no translation available**, this means that even if there was a translation during the event you can only listen to the original audio. I hope they'll fix this problem in the future.
 
-This year the festival was packed with data journalism events, I think it was the first time in which I was obliged to choose between two simultaneous panels that interested me. 
+This year the festival was packed with data journalism events, I think it was the first time in which I was obliged to choose between two simultaneous panels that interested me. A lot of them were done by the amazing [**Dataninja**](http://www.dataninja.it/), an independent team of journalists and tech people focusing on **data journalism**, **visualizations**, **open data** and **geo data**. I had the opportunity to meet them and I can assure you about their passion and their knowledge. Other amazing workshops were done by [**Marco Túlio Pires**](https://twitter.com/mtrpires), manager of the [**School of Data**](http://schoolofdata.org/). Not only they were very **interesting and useful**, but Marco has an **amazing knack for teaching**.
 
 ### 
 
