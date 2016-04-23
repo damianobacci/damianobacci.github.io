@@ -14,7 +14,7 @@ The [International Journalism Festival](http://www.journalismfestival.com) (**IJ
 
 <!--more-->
 
-First of all, I have to tell you that you can view all the past events of IJF for free on [its Youtube channel](https://www.youtube.com/channel/UClUtH75j6Bd7_Ty17jHVDPg). Unfortunately there is no translation available, this means that even if there was a translation during the event you can only listen to the original audio. I hope they'll fix this problem in the future.
+First of all, I have to tell you that you can view all the past events of IJF **for free** on [**its Youtube channel**](https://www.youtube.com/channel/UClUtH75j6Bd7_Ty17jHVDPg). Unfortunately there is **no translation available**, this means that even if there was a translation during the event you can only listen to the original audio. I hope they'll fix this problem in the future.
 
 This year the festival was packed with data journalism events, I think it was the first time in which I was obliged to choose between two simultaneous panels that interested me. 
 
