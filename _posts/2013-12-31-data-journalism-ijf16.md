@@ -100,7 +100,7 @@ Let's dive in!
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/eo8Nfh5JtCA' frameborder='0' allowfullscreen></iframe></div>
 **Who**: [Marco Túlio Pires](https://twitter.com/mtrpires)
 
-**What**: 
+**What**: Marco goes in-depth about scraping. He starts with the concept of inspecting elements of the webpage to understand its structure. He proceeds with examples of **Google Spreadsheets scraping** using `=importHTML()`, [IFTTT](https://ifttt.com/) and the [**Web Scraper extension**](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn) for Google Chrome.
 
 ## [From statistical sources to APIs; extracting data from the web](http://www.journalismfestival.com/programme/2016/statistical-sources-instructions-for-use)
 
