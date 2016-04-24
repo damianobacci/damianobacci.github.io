@@ -93,4 +93,4 @@ Let's dive in!
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/yvrsK_vtDLk' frameborder='0' allowfullscreen></iframe></div>
 **Who**: [Bahareh Heravi](https://twitter.com/Bahareh360)
 
-**What**: Lots of examples of brilliant data journalism stories, coupled with a long list of tools available.
+**What**: Lots of examples of brilliant data journalism stories, coupled with a long list of tools available. Other useful inspirations: [**The Data Visualisation Catalogue**](http://www.datavizcatalogue.com/), [**Google Chart Gallery**](https://developers.google.com/chart/interactive/docs/gallery) and [**D3.js gallery**](http://christopheviau.com/d3list/gallery.html).
