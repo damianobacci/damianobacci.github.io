@@ -94,3 +94,8 @@ Let's dive in!
 **Who**: [Bahareh Heravi](https://twitter.com/Bahareh360)
 
 **What**: Lots of examples of brilliant data journalism stories, coupled with a long list of tools available. Other useful inspirations: [**The Data Visualisation Catalogue**](http://www.datavizcatalogue.com/), [**Google Chart Gallery**](https://developers.google.com/chart/interactive/docs/gallery) and [**D3.js gallery**](http://christopheviau.com/d3list/gallery.html).
+
+## [Easy point-and-click scraping](http://www.journalismfestival.com/programme/2016/easy-point-and-click-scraping-hands-on) ([slides available](https://goo.gl/FFvPsX))
+**Who**: [Marco Túlio Pires](https://twitter.com/mtrpires)
+
+**What**: Marco
