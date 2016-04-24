@@ -100,4 +100,18 @@ Let's dive in!
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/eo8Nfh5JtCA' frameborder='0' allowfullscreen></iframe></div>
 **Who**: [Marco Túlio Pires](https://twitter.com/mtrpires)
 
-**What**: Marco
+**What**: 
+
+## [From statistical sources to APIs; extracting data from the web](http://www.journalismfestival.com/programme/2016/statistical-sources-instructions-for-use)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/RngBhg7VCso' frameborder='0' allowfullscreen></iframe></div>
+**Who**: [Alessio Cimarelli](https://twitter.com/jenkin27), [Carlo Romagnoli](https://twitter.com/karlettin81)
+
+**What**: 
+
+## [The grammar of graphics: designing and transforming data](http://www.journalismfestival.com/programme/2016/the-grammar-of-graphics-making-plots-in-r-using-ggplot2)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/FZDl5dfwOlo' frameborder='0' allowfullscreen></iframe></div>
+**Who**: [Sandhya Kambhampati](https://twitter.com/sandhya__k), [Christine Zhang](https://twitter.com/christinezhang)
+
+**What**: 
