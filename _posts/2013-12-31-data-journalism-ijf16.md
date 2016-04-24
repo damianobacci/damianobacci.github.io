@@ -81,9 +81,16 @@ Let's dive in!
 * [**Timeline.js**](https://timeline.knightlab.com/) for interactive timelines
 * [**Silk.co**](https://www.silk.co/) for interactive data visualization
 
-## [Fancy becoming a GEOrnalist?](http://www.journalismfestival.com/programme/2016/fancy-becoming-a-geornalist) ([slides available]())
+## [Fancy becoming a GEOrnalist?](http://www.journalismfestival.com/programme/2016/fancy-becoming-a-geornalist)
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/g8etYruJrmA' frameborder='0' allowfullscreen></iframe></div>
 **Who**: [Andrea Borruso](https://twitter.com/aborruso)
 
-**What**: Andrea introduces [**QGIS**](http://qgis.org/) and demonstrates how it can be used to create beautiful maps. Recommended lectures: [QGIS Map Design](http://www.amazon.com/QGIS-Map-Design-Anita-Graser/dp/0989421759/ref=pd_sim_14_3/179-1268518-5643253?ie=UTF8&dpID=51gUMD6e2-L&dpSrc=sims&preST=_AC_UL160_SR131%2C160_&refRID=1SJB7JK72KCM7N5YVNBX) and [Learning QGIS Second Edition](http://www.amazon.com/Learning-QGIS-Second-Anita-Graser/dp/1784392030) by **Anita Graser**
+**What**: Andrea introduces [**QGIS**](http://qgis.org/) and various problems related to map and coordinates. He then demonstrates how it can be used to create beautiful maps, using geodata found in public datasets and data scraped from Twitter. Recommended lectures: [QGIS Map Design](http://www.amazon.com/QGIS-Map-Design-Anita-Graser/dp/0989421759/ref=pd_sim_14_3/179-1268518-5643253?ie=UTF8&dpID=51gUMD6e2-L&dpSrc=sims&preST=_AC_UL160_SR131%2C160_&refRID=1SJB7JK72KCM7N5YVNBX) and [Learning QGIS Second Edition](http://www.amazon.com/Learning-QGIS-Second-Anita-Graser/dp/1784392030) by **Anita Graser**.
+
+## [Tips and tricks for data-driven journalism starters](http://www.journalismfestival.com/programme/2016/tips-and-tricks-for-data-driven-journalism-starters)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/yvrsK_vtDLk' frameborder='0' allowfullscreen></iframe></div>
+**Who**: [Bahareh Heravi](https://twitter.com/Bahareh360)
+
+**What**: 
