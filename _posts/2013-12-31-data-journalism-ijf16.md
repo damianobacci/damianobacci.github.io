@@ -109,9 +109,9 @@ Let's dive in!
 
 **What**: Carlo presents his work as a desk researcher, and how his job evolved during the years. He then introduces many different sources of data, like institutional or government websites. Alessio instead focus his talk on [**APIs**](https://en.wikipedia.org/wiki/Application_programming_interface), what they are, how they work and how they can be used by data journalists.
 
-## [The grammar of graphics: designing and transforming data](http://www.journalismfestival.com/programme/2016/the-grammar-of-graphics-making-plots-in-r-using-ggplot2)
+## [The grammar of graphics: designing and transforming data](http://www.journalismfestival.com/programme/2016/the-grammar-of-graphics-making-plots-in-r-using-ggplot2) ([presentation available](https://github.com/OpenNewsLabs/Grammar-of-Graphics-Workshop))
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/FZDl5dfwOlo' frameborder='0' allowfullscreen></iframe></div>
 **Who**: [Sandhya Kambhampati](https://twitter.com/sandhya__k), [Christine Zhang](https://twitter.com/christinezhang)
 
-**What**: 
+**What**: Sandhya and Christine show how you can use the [**ggplot2 module**](http://ggplot2.org/) in [**R**](https://www.r-project.org/) to create graphics.
