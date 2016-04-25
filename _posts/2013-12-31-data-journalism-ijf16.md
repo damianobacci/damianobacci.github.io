@@ -16,11 +16,11 @@ tag:
   - qgis
   - ggplot2
 comments: true
+published: true
 show_meta: true
 comments: true
 mathjax: true
 gistembed: true
-published: true
 noindex: false
 nofollow: false
 ---
