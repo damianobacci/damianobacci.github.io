@@ -114,4 +114,4 @@ Let's dive in!
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/FZDl5dfwOlo' frameborder='0' allowfullscreen></iframe></div>
 **Who**: [Sandhya Kambhampati](https://twitter.com/sandhya__k), [Christine Zhang](https://twitter.com/christinezhang)
 
-**What**: Sandhya and Christine show how you can use the [**ggplot2 package**](http://ggplot2.org/) in [**R**](https://www.r-project.org/) to create graphics.
+**What**: Sandhya and Christine show how you can use the [**ggplot2 package**](http://ggplot2.org/) in [**R**](https://www.r-project.org/) to create simple graphics like scatter plots and bar charts.
