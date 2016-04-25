@@ -107,7 +107,7 @@ Let's dive in!
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/RngBhg7VCso' frameborder='0' allowfullscreen></iframe></div>
 **Who**: [Alessio Cimarelli](https://twitter.com/jenkin27), [Carlo Romagnoli](https://twitter.com/karlettin81)
 
-**What**: Carlo presents his work as a desk researcher, and how his job evolved during the years. He then introduces many different sources of data, like institutional or government websites. Alessio instead focus his talk on [**APIs**](https://en.wikipedia.org/wiki/Application_programming_interface)
+**What**: Carlo presents his work as a desk researcher, and how his job evolved during the years. He then introduces many different sources of data, like institutional or government websites. Alessio instead focus his talk on [**APIs**](https://en.wikipedia.org/wiki/Application_programming_interface), what they are, how they work and how they can be used by data journalists.
 
 ## [The grammar of graphics: designing and transforming data](http://www.journalismfestival.com/programme/2016/the-grammar-of-graphics-making-plots-in-r-using-ggplot2)
 
