@@ -11,6 +11,7 @@ tag:
   - cleaning
   - visualization
   - qgis
+  - ggplot2
 comments: true
 show_meta: true
 comments: true
