@@ -29,7 +29,7 @@ You can find pretty much **anything you want** on the Internet about data journa
 * Table of content
 {:toc}
 
-## Data Journalism
+# Data Journalism
 
 ### [The Data Journalism Handbook](http://www.amazon.com/gp/product/1449330061/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449330061&linkCode=as2&tag=damianobacci-20&linkId=ECEHKCYUVGXJW75U)
 
@@ -50,7 +50,7 @@ You can find pretty much **anything you want** on the Internet about data journa
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
-## Data Visualization
+# Data Visualization
 
 ### [The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures](http://www.amazon.com/gp/product/0393347281/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393347281&linkCode=as2&tag=damianobacci-20&linkId=NLAAVCYM4NOLOWJR)
 <a  href="http://www.amazon.com/gp/product/0393347281/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393347281&linkCode=as2&tag=damianobacci-20&linkId=NLAAVCYM4NOLOWJR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0393347281&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=0393347281" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -70,7 +70,7 @@ You can find pretty much **anything you want** on the Internet about data journa
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
-## QGIS
+# QGIS
 
 ### [Learning QGIS - Third Edition](http://www.amazon.com/gp/product/1785880330/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1785880330&linkCode=as2&tag=damianobacci-20&linkId=CR4636FWHHRAGWDR)
 <a  href="http://www.amazon.com/gp/product/1785880330/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1785880330&linkCode=as2&tag=damianobacci-20&linkId=CR4636FWHHRAGWDR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1785880330&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=1785880330" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -84,7 +84,7 @@ You can find pretty much **anything you want** on the Internet about data journa
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
-## Scraping
+# Scraping
 
 ### [Scraping for Journalists](http://www.amazon.com/gp/product/B00CQ6L4JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CQ6L4JW&linkCode=as2&tag=damianobacci-20&linkId=DF642Z6OCPJMH2EJ)
 <a  href="http://www.amazon.com/gp/product/B00CQ6L4JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CQ6L4JW&linkCode=as2&tag=damianobacci-20&linkId=DF642Z6OCPJMH2EJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CQ6L4JW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=B00CQ6L4JW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -93,7 +93,7 @@ You can find pretty much **anything you want** on the Internet about data journa
 </a>
 
 
-## Bonus! Libri in italiano
+# Bonus! Libri in italiano
 
 ### [Il potere dei dati. Il data journalism e le nuove forme del comunicare](http://www.amazon.it/gp/product/8898837216/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8898837216&linkCode=as2&tag=divagaz20-21)
 <a href="http://www.amazon.it/gp/product/8898837216/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8898837216&linkCode=as2&tag=divagaz20-21">
