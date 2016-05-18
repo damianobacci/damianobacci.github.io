@@ -3,6 +3,8 @@ layout: post
 title: "Every data journalism books available on the Internet"
 date: 2016-5-18
 description: "You can find pretty much **anything you want** on the Internet about data journalism. However, sometimes it's better to start from books, to get a clear view on the specific topic. Here's a list of must-read books about data journalism."
+category: 
+  - views
 tag:
   - book
 comments: true
