@@ -31,9 +31,9 @@ You can find pretty much **anything you want** on the Internet about data journa
 
 <a  href="http://www.amazon.com/gp/product/1449330061/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449330061&linkCode=as2&tag=damianobacci-20&linkId=ECEHKCYUVGXJW75U"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1449330061&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=1449330061" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-* <a  href="http://www.amazon.com/gp/product/1449330061/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449330061&linkCode=as2&tag=damianobacci-20&linkId=SAYOEEXY4OVT4OGZ">The Data Journalism Handbook</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=1449330061" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <a href="http://www.amazon.com/gp/product/1449330061/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449330061&linkCode=as2&tag=damianobacci-20&linkId=ECEHKCYUVGXJW75U">
+* <a  href="http://www.amazon.com/gp/product/1449330061/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449330061&linkCode=as2&tag=damianobacci-20&linkId=SAYOEEXY4OVT4OGZ">The Data Journalism Handbook</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=1449330061" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <left><a href="http://www.amazon.com/gp/product/1449330061/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449330061&linkCode=as2&tag=damianobacci-20&linkId=ECEHKCYUVGXJW75U">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
-</a>
+</a></left>
 
 Prova prova Prova prova Prova prova Prova prova Prova prova Prova prova Prova prova 
 
