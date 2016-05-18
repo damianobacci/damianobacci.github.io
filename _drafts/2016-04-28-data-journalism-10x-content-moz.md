@@ -1,8 +1,5 @@
 ---
 layout: post
-title: Data Journalism at IJF16
-# date element overrides date in title format.
-layout: post
 title: "Every data journalism books you must read"
 date: 2016-4-16
 category: 
