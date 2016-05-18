@@ -21,7 +21,7 @@ You can find pretty much **anything you want** on the Internet about data journa
 <!--more-->
 
 {:.text-center img}
-![Must read data journalism books]({{ site.urlimg }}/media/data-journalism-books-must-read.jpeg "Must read data journalism books")
+![Must read data journalism books]({{ site.urlimg }}media/data-journalism-books-must-read.jpeg "Must read data journalism books")
 
 
 * Table of content
