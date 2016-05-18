@@ -94,8 +94,7 @@ You can find pretty much **anything you want** on the Internet about data journa
 
 ## Bonus! Libri in italiano
 
-[Il potere dei dati. Il data journalism e le nuove forme del comunicare](http://www.amazon.it/gp/product/8898837216/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8898837216&linkCode=as2&tag=divagaz20-21)
-<iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=divagaz20-21&o=29&p=8&l=as1&m=amazon&f=ifr&ref=qf_sp_asin_til&asins=8898837216" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+### [Il potere dei dati. Il data journalism e le nuove forme del comunicare](http://www.amazon.it/gp/product/8898837216/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8898837216&linkCode=as2&tag=divagaz20-21)
 <a href="http://www.amazon.it/gp/product/8898837216/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8898837216&linkCode=as2&tag=divagaz20-21">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
