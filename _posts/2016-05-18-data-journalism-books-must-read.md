@@ -38,6 +38,8 @@ You can find pretty much **anything you want** on the Internet about data journa
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
+The **Data Journalism Handbook** is the perfect book to start digging into data journalism.
+
 ### [Data Journalism: Inside the global future](http://www.amazon.com/gp/product/1845496639/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1845496639&linkCode=as2&tag=damianobacci-20&linkId=YEMHJ5XABY534XP4)
 <a  href="http://www.amazon.com/gp/product/1845496639/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1845496639&linkCode=as2&tag=damianobacci-20&linkId=YEMHJ5XABY534XP4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1845496639&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=1845496639" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/1845496639/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1845496639&linkCode=as2&tag=damianobacci-20&linkId=YEMHJ5XABY534XP4">
