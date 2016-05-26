@@ -31,9 +31,7 @@ Moz started as a search marketing blog and now provides its clients with one of 
 
 *Why am I telling you all this stuff?*
 
-Because Rand recently made [an episode about *10X content*](https://moz.com/blog/how-to-create-10x-content-whiteboard-friday):
-
-<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/5zlnmyulwr" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe>
+Because Rand recently made [an episode about *10X content*](https://moz.com/blog/how-to-create-10x-content-whiteboard-friday)
 
 ## 10X Content
 
