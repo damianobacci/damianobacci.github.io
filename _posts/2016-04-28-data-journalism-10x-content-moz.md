@@ -33,16 +33,16 @@ Moz started as a search marketing blog and now provides its clients with one of 
 
 Because Rand recently made [an episode about *10X content*](https://moz.com/blog/how-to-create-10x-content-whiteboard-friday):
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe class='wistia_embed' name='wistia_embed' src='http://fast.wistia.net/embed/iframe/5zlnmyulwr' allowtransparency='true' frameborder='0' scrolling='no' width='480' height='298'></iframe></div>
+<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/5zlnmyulwr" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe>
 
 ## 10X Content
 
-> *It has to have great UI and UX on any device.
-*That content is generally a combination of high quality, trustworthy, it's useful, interesting, and remarkable. It doesn't have to be all of those but some combination of them.
-*It's got to be considerably different in scope and in detail from other works that are serving the same visitor or user intent.
-*It's got to create an emotional response. I want to feel awe. I want to feel surprise. I want to feel joy, anticipation, or admiration for that piece of content in order for it to be considered 10x.
-*It has to solve a problem or answer a question by providing that comprehensive, accurate, exceptional information or resources.
-*It's got to deliver content in a unique, remarkable, typically unexpectedly pleasurable style or medium.
+> * It has to have great UI and UX on any device.
+* That content is generally a combination of high quality, trustworthy, it's useful, interesting, and remarkable. It doesn't have to be all of those but some combination of them.
+* It's got to be considerably different in scope and in detail from other works that are serving the same visitor or user intent.
+* It's got to create an emotional response. I want to feel awe. I want to feel surprise. I want to feel joy, anticipation, or admiration for that piece of content in order for it to be considered 10x.
+* It has to solve a problem or answer a question by providing that comprehensive, accurate, exceptional information or resources.
+* It's got to deliver content in a unique, remarkable, typically unexpectedly pleasurable style or medium.
 
 
 
