@@ -56,19 +56,22 @@ The **Data Journalism Handbook** is the perfect book to start digging into data 
 
 # Data Visualization
 
-### [The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures](http://www.amazon.com/gp/product/0393347281/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393347281&linkCode=as2&tag=damianobacci-20&linkId=NLAAVCYM4NOLOWJR)
+### The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures
+
 <a  href="http://www.amazon.com/gp/product/0393347281/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393347281&linkCode=as2&tag=damianobacci-20&linkId=NLAAVCYM4NOLOWJR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0393347281&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=0393347281" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/0393347281/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393347281&linkCode=as2&tag=damianobacci-20&linkId=NLAAVCYM4NOLOWJR">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
-### [The Truthful Art: Data, Charts, and Maps for Communication](http://www.amazon.com/gp/product/0321934075/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321934075&linkCode=as2&tag=damianobacci-20&linkId=2GGPOEGUQHX4DJWG)
+### The Truthful Art: Data, Charts, and Maps for Communication
+
 <a  href="http://www.amazon.com/gp/product/0321934075/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321934075&linkCode=as2&tag=damianobacci-20&linkId=2GGPOEGUQHX4DJWG"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321934075&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=0321934075" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/0321934075/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321934075&linkCode=as2&tag=damianobacci-20&linkId=2GGPOEGUQHX4DJWG">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
-### [The Functional Art: An introduction to information graphics and visualization](http://www.amazon.com/gp/product/0321834739/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321834739&linkCode=as2&tag=damianobacci-20&linkId=4PDJRNFS2BGMYXNU)
+### The Functional Art: An introduction to information graphics and visualization
+
 <a  href="http://www.amazon.com/gp/product/0321834739/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321834739&linkCode=as2&tag=damianobacci-20&linkId=4PDJRNFS2BGMYXNU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321834739&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=0321834739" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/0321834739/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321834739&linkCode=as2&tag=damianobacci-20&linkId=4PDJRNFS2BGMYXNU">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
@@ -76,13 +79,15 @@ The **Data Journalism Handbook** is the perfect book to start digging into data 
 
 # QGIS
 
-### [Learning QGIS - Third Edition](http://www.amazon.com/gp/product/1785880330/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1785880330&linkCode=as2&tag=damianobacci-20&linkId=CR4636FWHHRAGWDR)
+### Learning QGIS - Third Edition
+
 <a  href="http://www.amazon.com/gp/product/1785880330/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1785880330&linkCode=as2&tag=damianobacci-20&linkId=CR4636FWHHRAGWDR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1785880330&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=1785880330" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/1785880330/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1785880330&linkCode=as2&tag=damianobacci-20&linkId=CR4636FWHHRAGWDR">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
-### [QGIS Map Design](http://www.amazon.com/gp/product/0989421759/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0989421759&linkCode=as2&tag=damianobacci-20&linkId=ESU4BR2UNR44LUL2)
+### QGIS Map Design
+
 <a  href="http://www.amazon.com/gp/product/0989421759/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0989421759&linkCode=as2&tag=damianobacci-20&linkId=ESU4BR2UNR44LUL2"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0989421759&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=0989421759" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/0989421759/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0989421759&linkCode=as2&tag=damianobacci-20&linkId=ESU4BR2UNR44LUL2">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
@@ -90,7 +95,8 @@ The **Data Journalism Handbook** is the perfect book to start digging into data 
 
 # Scraping
 
-### [Scraping for Journalists](http://www.amazon.com/gp/product/B00CQ6L4JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CQ6L4JW&linkCode=as2&tag=damianobacci-20&linkId=DF642Z6OCPJMH2EJ)
+### Scraping for Journalists
+
 <a  href="http://www.amazon.com/gp/product/B00CQ6L4JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CQ6L4JW&linkCode=as2&tag=damianobacci-20&linkId=DF642Z6OCPJMH2EJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CQ6L4JW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=B00CQ6L4JW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/B00CQ6L4JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CQ6L4JW&linkCode=as2&tag=damianobacci-20&linkId=DF642Z6OCPJMH2EJ">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
@@ -99,9 +105,10 @@ The **Data Journalism Handbook** is the perfect book to start digging into data 
 
 # Bonus! Libri in italiano
 
-### [Il potere dei dati. Il data journalism e le nuove forme del comunicare](http://www.amazon.it/gp/product/8898837216/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8898837216&linkCode=as2&tag=divagaz20-21)
+### Il potere dei dati. Il data journalism e le nuove forme del comunicare
+
 <a href="http://www.amazon.it/gp/product/8898837216/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8898837216&linkCode=as2&tag=divagaz20-21">
-  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Compra da Amazon.it">
 </a>
 
 
