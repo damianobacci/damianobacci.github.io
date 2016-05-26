@@ -33,7 +33,7 @@ Moz started as a search marketing blog and now provides its clients with one of 
 
 Because Rand recently made [an episode about *10X content*](https://moz.com/blog/how-to-create-10x-content-whiteboard-friday):
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe class='wistia_embed' name='wistia_embed' src='http://fast.wistia.net/embed/iframe/5zlnmyulwr' allowtransparency='true' frameborder='0' scrolling='no' width='480' height='298'></iframe></div>
+<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/5zlnmyulwr" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe>
 
 ## 10X Content
 
