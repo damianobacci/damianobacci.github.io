@@ -1,19 +1,9 @@
 ---
 layout: post
-title: "Every data journalism books you must read"
-date: 2016-4-16
-category: 
-  - views
-  - featured
+title: "How Randy Fishkin can help us be better journalists"
+date: 2016-5-26
 tag:
-  - tutorial
-  - scraping
-  - python
-  - excel
-  - cleaning
-  - visualization
-  - qgis
-  - ggplot2
+  - thoughts
 comments: true
 show_meta: true
 comments: true
