@@ -52,7 +52,7 @@ That striked me out: Rand is basically teaching us **how to create better conten
 
 It's not a matter of *old school vs new style of reporting*: we have to **cover the hell out of a story**, using every possible tool at our disposal to enhance the experience and overall comprension for readers.
 
-Just look at this [beautiful example](http://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family) from the Guardian: **text, audio, visual information and video** are **brilliantly put together** to create an immersive reporting experience. There are of course many questions with this type of reporting: is it too **time-consuming**? Can it effectively **engages the readers**? And if someone doesn't have the technical capabilities to achieve it?
+Just look at this [beautiful example](http://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family) from the Guardian: **text, audio, visual information and video** are **brilliantly put together** to create an immersive reporting experience. There are of course many questions with this type of reporting: is it too **time-consuming**? Can it effectively **engage the readers**? And if someone doesn't have the technical capabilities to achieve it?
 
 The matter remains open, but right now I'm pretty much sure that this is what we have to strive for. Just remember all the questions that Rand told you to ask yourself:
 
