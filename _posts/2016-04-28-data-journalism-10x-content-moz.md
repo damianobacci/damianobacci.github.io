@@ -66,3 +66,5 @@ The matter remains open, but right now I'm pretty much sure that this is what we
 Turns out that **they can help us to be better journalists**, if we focus on the **extreme quality** of our writing and how can we make the readers **more informed** on a specific topic. With the *transparency on data* and *methodology* that comes with data journalism, as data journalists we may be better prepared for the future of our job.
 
 
+
+
