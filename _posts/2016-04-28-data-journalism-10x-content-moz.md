@@ -56,12 +56,12 @@ Just look at this [beautiful example](http://www.theguardian.com/world/interacti
 
 The matter remains open, but right now I'm pretty much sure that this is what we have to strive for. Just remember all the questions that Rand told you to ask yourself:
 
-> * What questions are being asked and answered by these search results?
-* What sort of user experience is provided? I look at this in terms of speed, in terms of mobile friendliness, in terms of rendering, in terms of layout and design quality, in terms of what's required from the user to be able to get the information? Is it all right there, or do I need to click? Am I having trouble finding things?
-* What's the detail and thoroughness of the information that's actually provided? Is it lacking? Is it great?
-* What about use of visuals? Visual content can often take best in class all the way up to 10x if it's done right. So I might check out the use of visuals.
-* The quality of the writing.
-* I'm going to look at information and data elements. Where are they pulling from? What are their sources? What's the quality of that stuff? What types of information is there? What types of information is missing?
+> * What **questions** are being **asked** and **answered** by these search results?
+* What sort of **user experience** is provided? I look at this in terms of *speed*, in terms of *mobile friendliness*, in terms of *rendering*, in terms of *layout* and *design quality*, in terms of *what's required from the user to be able to get the information*? Is it all right there, or do I need to click? Am I having trouble finding things?
+* What's the **detail and thoroughness of the information** that's actually provided? Is it lacking? Is it great?
+* What about use of **visuals**? Visual content can often take best in class all the way up to 10x if it's done right. So I might check out the use of visuals.
+* **`The quality of the writing`{:.yelhglt}**.
+* I'm going to look at **information and data elements**. Where are they pulling from? **What are their sources**? **What's the quality of that stuff**? What types of information is there? **What types of information is missing**?
 
 Turns out that **they can help us to be better journalists**, if we focus on the **extreme quality** of our writing and how can we make the readers **more informed** on a specific topic. With the *transparency on data* and *methodology* that comes with data journalism, as data journalists we may be better prepared for the future of our job.
 
