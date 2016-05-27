@@ -63,6 +63,6 @@ The matter remains open, but right now I'm pretty much sure that this is what we
 * The quality of the writing.
 * I'm going to look at information and data elements. Where are they pulling from? What are their sources? What's the quality of that stuff? What types of information is there? What types of information is missing?
 
-Turns out that **they can help us to be better journalists**, if we focus on the **extreme quality** of our writing and how can we make the readers **more informed** on a specific topic.
+Turns out that **they can help us to be better journalists**, if we focus on the **extreme quality** of our writing and how can we make the readers **more informed** on a specific topic. With the *transparency on data* and *methodology* that comes with data journalism, as data journalists we may be better prepared for the future of our job.
 
 
