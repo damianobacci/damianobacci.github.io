@@ -35,12 +35,25 @@ Because Rand recently made [an episode about *10X content*](https://moz.com/blog
 
 ## 10X Content
 
-> * It has to have great UI and UX on any device.
-* That content is generally a combination of high quality, trustworthy, it's useful, interesting, and remarkable. It doesn't have to be all of those but some combination of them.
-* It's got to be considerably different in scope and in detail from other works that are serving the same visitor or user intent.
-* It's got to create an emotional response. I want to feel awe. I want to feel surprise. I want to feel joy, anticipation, or admiration for that piece of content in order for it to be considered 10x.
-* It has to solve a problem or answer a question by providing that comprehensive, accurate, exceptional information or resources.
+The idea behind 10X contents are really worth sharing:
+
+> * It has to have **great UI and UX** on any device.
+* That content is generally a combination of **high quality**, **trustworthy**, it's **useful**, **interesting**, and **remarkable**. It doesn't have to be all of those but some combination of them.
+* It's got to be **considerably different** in **scope** and in **detail** from other works that are serving the same visitor or user intent.
+* It's got to create an **emotional response**. I want to feel *awe*. I want to feel *surprise*. I want to feel *joy*, *anticipation*, or *admiration* for that piece of content in order for it to be considered 10x.
+* It has to **solve a problem or answer a question** by providing that comprehensive, accurate, exceptional information or resources.
 * It's got to deliver content in a unique, remarkable, typically unexpectedly pleasurable style or medium.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="qLZ3eDr"><a href="//imgur.com/qLZ3eDr">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Rand actually shared [a Google Doc file](https://docs.google.com/document/d/1Z2CSidq-6fxOY1YJLu-MY-DdTqWKiSL4gsuSGVC42r0/edit) with a list of 10X content. What stands out? Most of them are incredible journalistic pieces
+
+> * What questions are being asked and answered by these search results?
+* What sort of user experience is provided? I look at this in terms of speed, in terms of mobile friendliness, in terms of rendering, in terms of layout and design quality, in terms of what's required from the user to be able to get the information? Is it all right there, or do I need to click? Am I having trouble finding things?
+* What's the detail and thoroughness of the information that's actually provided? Is it lacking? Is it great?
+* What about use of visuals? Visual content can often take best in class all the way up to 10x if it's done right. So I might check out the use of visuals.
+* The quality of the writing.
+* I'm going to look at information and data elements. Where are they pulling from? What are their sources? What's the quality of that stuff? What types of information is there? What types of information is missing?
 
 
 
