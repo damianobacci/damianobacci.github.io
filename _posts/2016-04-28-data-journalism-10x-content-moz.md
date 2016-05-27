@@ -50,7 +50,7 @@ Rand actually shared [a Google Doc file](https://docs.google.com/document/d/1Z2C
 
 That striked me out: Rand is basically teaching us **how to create better contents for our readers**, especially Internet users who expect a tremendous quality in return for their time. If you want to *really* stand out in the world today, it's not required only to write decent stuff, but you have to really dig down on the subject, presenting informations graphically in a mobile-first environment, answering all questions.
 
-It's not a matter of *old school vs new style of reporting*: we have to **cover the hell out of a story**, using every possible tool at our disposal to enhance the experience and overall comprension for our readers.
+It's not a matter of *old school vs new style of reporting*: we have to **cover the hell out of a story**, using every possible tool at our disposal to enhance the experience and overall comprension for readers.
 
 Just look at this [beautiful example](http://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family) from the Guardian: **text, audio, visual information and video** are **brilliantly put together** to create an immersive reporting experience. There are of course many questions with this type of reporting: is it too **time-consuming**? Can it effectively **engages the readers**? And if someone doesn't have the technical capabilities to achieve it?
 
