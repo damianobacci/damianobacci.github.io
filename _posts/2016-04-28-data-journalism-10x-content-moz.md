@@ -2,11 +2,12 @@
 layout: post
 title: "How Rand Fishkin and Moz can help us be better journalists"
 date: 2016-5-26
+category: 
+  - views
 tag:
   - thoughts
 comments: true
 show_meta: true
-comments: true
 mathjax: true
 gistembed: true
 published: true
