@@ -25,7 +25,8 @@ nofollow: false
 [**Organized crimes**](https://en.wikipedia.org/wiki/Organized_crime_in_Italy) is still a big problem in Italy. Recently, the italian police seized [something like **500 million €**](http://www.globaltimes.cn/content/975192.shtml) (563 million $) in a raid against the Iannazzo crime family of the [**'Ndrangheta**](https://en.wikipedia.org/wiki/%27Ndrangheta), the most powerful crime syndicate in the country.
 
 > The seized assets included 53 plots of real estate and farmland, 24 commercial buildings, 27 vehicles and shares of at least 21 companies, the organized crime investigation group of Italy's finance police said in a statement. [...]
-Overall some 65 people and 44 companies were involved in the investigation that resulted in the raids, local media reported. [...]
+One of the region's largest shopping centers was among the properties taken by the Italian authorities. 
+
 
 Basically, [organized crime makes a ton of money every year](http://www.theguardian.com/world/2014/mar/26/ndrangheta-mafia-mcdonalds-deutsche-bank-study). A recent report by [The Organised Crime Portfolio](http://www.ocportfolio.eu/) estimates that the annual revenue for illicit markets in Italy may be as high as **29.480 millions €** (that includes *drugs, human and firearm trafficking*, *counterfeiting*, *extortion racketeering* and frauds*).
 
