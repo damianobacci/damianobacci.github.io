@@ -77,5 +77,7 @@ The intention of the civic activist's group is clear: **open data** on something
 
 The website also has a vibrant community, where everyone can help others reporting confiscated goods missing, monitor them or request other data from the public administration.
 
+You can find all the wonderful work of **Confiscati Bene** on [their website](http://www.confiscatibene.it/it), and follow them on Twitter at [@confiscatibene](https://twitter.com/confiscatibene)
+
 <a class="twitter-timeline" href="https://twitter.com/confiscatibene" data-widget-id="737046188306878465">Tweet di @confiscatibene</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
