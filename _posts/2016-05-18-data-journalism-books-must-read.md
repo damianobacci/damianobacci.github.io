@@ -54,6 +54,14 @@ The **Data Journalism Handbook** is the perfect book to start digging into data 
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
+### The Art and Science of Data-Driven Journalism
+
+You can read and download the book for free [on GitBook](https://www.gitbook.com/book/towcenter/the-art-and-science-of-data-driven-journalism/details).
+
+### The Curious Journalist's Guide to Data
+
+You can read and download the book for free [on GitBook](https://www.gitbook.com/book/towcenter/curious-journalist-s-guide-to-data/details).
+
 # Data Visualization
 
 ### The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures
