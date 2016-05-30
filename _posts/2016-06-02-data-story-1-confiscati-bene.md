@@ -71,6 +71,9 @@ Wow, that's plenty of data! It's a shame that some of the databases *don't provi
 
 ### Confiscati Bene ("Well Confiscated")
 
+{:.text-center img}
+![Map of Italy's confiscated goods]({{ site.urlimg }}media/confiscati-bene-map.png "Map of Italy's confiscated goods") Map of Italy's confiscated goods
+
 A group of italian journalists and civic activists decided to **help on this matter**: during the annual meeting on open data called [Spaghetti Open Data](http://www.spaghettiopendata.org/) they began to [scrape](http://damianobacci.github.io/tags/#scraping) the data from the ANBSC's website and publish it in *disaggregated format*, *refining and enriching* it with meta-informations (like geo-references) during the process. The resulting dataset was made public available on a [specific platform](http://www.confiscatibene.it/it/dataset), coupled with [choropleth maps](https://en.wikipedia.org/wiki/Choropleth_map).
 
 The intention of the civic activist's group is clear: **open data** on something so important as confiscated goods is crucial, because **transparency and availability** of these sort of informations can help the society in a variety of ways, from relocating the assets (often they find a way to NGOs and other social organizations) to sending a potent signal of disturbance to criminal activities. Also, **journalists** can take advantages of this dataset, to help searching and curating stories, fostering a collective storytelling.
