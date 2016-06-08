@@ -85,6 +85,27 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
+### Data at Work: Best practices for creating effective charts and information graphics in Microsoft Excel (Voices That Matter)
+
+<a href="https://www.amazon.com/gp/product/0134268636/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134268636&linkCode=as2&tag=damianobacci-20&linkId=493e45af73f9a55e4435bc1e4440cfb3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0134268636&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=0134268636" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/0134268636/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134268636&linkCode=as2&tag=damianobacci-20&linkId=493e45af73f9a55e4435bc1e4440cfb3">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
+### Effective Data Visualization: The Right Chart for the Right Data 
+
+<a href="https://www.amazon.com/gp/product/1506303056/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1506303056&linkCode=as2&tag=damianobacci-20&linkId=96f96c2515e68b7e46e0ed5fe02ac537"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1506303056&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1506303056" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1506303056/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1506303056&linkCode=as2&tag=damianobacci-20&linkId=96f96c2515e68b7e46e0ed5fe02ac537">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
+### Data Visualisation: A Handbook for Data Driven Design
+
+<a href="https://www.amazon.com/gp/product/1473912148/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1473912148&linkCode=as2&tag=damianobacci-20&linkId=f64feaeb6003aa56f479ea769abc04bf"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1473912148&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1473912148" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1473912148/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1473912148&linkCode=as2&tag=damianobacci-20&linkId=f64feaeb6003aa56f479ea769abc04bf">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
 # QGIS
 
 ### Learning QGIS - Third Edition
@@ -98,6 +119,15 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
 
 <a  href="http://www.amazon.com/gp/product/0989421759/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0989421759&linkCode=as2&tag=damianobacci-20&linkId=ESU4BR2UNR44LUL2"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0989421759&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=0989421759" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/0989421759/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0989421759&linkCode=as2&tag=damianobacci-20&linkId=ESU4BR2UNR44LUL2">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
+# Python
+
+### Geoprocessing with Python
+
+<a href="https://www.amazon.com/gp/product/1617292141/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292141&linkCode=as2&tag=damianobacci-20&linkId=0576182fc91f16bc00f9b9568225ebc9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1617292141&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1617292141" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1617292141/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292141&linkCode=as2&tag=damianobacci-20&linkId=0576182fc91f16bc00f9b9568225ebc9">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
