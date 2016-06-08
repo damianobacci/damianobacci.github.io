@@ -2,7 +2,7 @@
 layout: post
 title: Data Story n°2 - Rentswatch
 # date element overrides date in title format.
-date: 2016-6-7
+date: 2016-6-8
 description: "Data Story is a section of the website that provides an overview on a brilliant journalism project involving data. This time I talk about Confiscati Bene, an italian project collecting datasets of assets seized from the mafia."
 category:
   - views

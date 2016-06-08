@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Every data journalism books you must read"
+title: "The definitive data journalism resources' list"
 date: 2016-4-16
 category: 
   - views
@@ -13,7 +13,6 @@ tag:
   - cleaning
   - visualization
   - qgis
-  - ggplot2
 comments: true
 show_meta: true
 comments: true
@@ -32,19 +31,11 @@ You can find pretty much **anything you want** on the Internet about data journa
 * Table of content
 {:toc}
 
-## Data Journalism
-
-* <a  href="http://www.amazon.com/gp/product/1449330061/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449330061&linkCode=as2&tag=damianobacci-20&linkId=SAYOEEXY4OVT4OGZ">The Data Journalism Handbook</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=1449330061" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> {:.text-center img}
-![Toy example]({{ site.urlimg }}/media/apple-icon.png "Toy example")
+# Books
 
 
-## Data Visualization
 
-## QGIS
 
-## Scraping
-
-## Bonus! Libri in italiano
 
 
 

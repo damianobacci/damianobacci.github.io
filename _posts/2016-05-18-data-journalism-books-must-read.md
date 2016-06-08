@@ -131,6 +131,15 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
+# Excel
+
+### Excel 2010 Made Simple
+
+<a href="https://www.amazon.com/gp/product/1430235454/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430235454&linkCode=as2&tag=damianobacci-20&linkId=c5c809b4dec4fddb2e5e0cbd871f347d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1430235454&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1430235454" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1430235454/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430235454&linkCode=as2&tag=damianobacci-20&linkId=c5c809b4dec4fddb2e5e0cbd871f347d">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
 # Scraping
 
 ### Scraping for Journalists
