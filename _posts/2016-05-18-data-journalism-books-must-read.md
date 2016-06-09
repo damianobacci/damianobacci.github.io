@@ -85,7 +85,7 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
-### Data at Work: Best practices for creating effective charts and information graphics in Microsoft Excel (Voices That Matter)
+### Data at Work: Best practices for creating effective charts and information graphics in Microsoft Excel
 
 <a href="https://www.amazon.com/gp/product/0134268636/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134268636&linkCode=as2&tag=damianobacci-20&linkId=493e45af73f9a55e4435bc1e4440cfb3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0134268636&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=0134268636" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="https://www.amazon.com/gp/product/0134268636/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134268636&linkCode=as2&tag=damianobacci-20&linkId=493e45af73f9a55e4435bc1e4440cfb3">
@@ -132,6 +132,13 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
 </a>
 
 # Excel
+
+### Beginning Microsoft Excel 2010
+
+<a href="https://www.amazon.com/gp/product/B004VHAYM2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004VHAYM2&linkCode=as2&tag=damianobacci-20&linkId=2a3accbf41c364f9ff9a47970fc3e475"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B004VHAYM2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=B004VHAYM2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B004VHAYM2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004VHAYM2&linkCode=as2&tag=damianobacci-20&linkId=2a3accbf41c364f9ff9a47970fc3e475">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
 
 ### Excel 2010 Made Simple
 

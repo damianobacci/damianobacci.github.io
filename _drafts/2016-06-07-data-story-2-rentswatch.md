@@ -22,9 +22,9 @@ nofollow: false
 
 <!--more-->
 
-### Being young in Europe (and Italy [sigh])
+### Being young in Europe (and in Italy [sigh])
 
-I must say that I haven't any problems with rent prices because, at the age of **25**, I still live with my parents. **Are you surprised?** In Italy men tend to leave their home late in their 30s, as reported by [Eurostat](http://ec.europa.eu/eurostat/product?code=yth_demo_030&language=en&mode=view). Compared to other European countries we fair pretty poorly:
+I must say that I haven't any problems with rent prices because, at the age of **25**, *I still live with my parents*. **Are you surprised?** In Italy men tend to leave their home late in their 30s, as reported by [Eurostat](http://ec.europa.eu/eurostat/product?code=yth_demo_030&language=en&mode=view). Compared to other European countries we fair pretty poorly:
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -102,37 +102,12 @@ I must say that I haven't any problems with rent prices because, at the age of *
 
 </script>
 
+This phenomenon is known in Italy as being a *"bamboccione"* (big baby), and it's related to a tons of factors, first of all the lack of stabile income and a poor job market.The fact that the italian welfare system is [**profoundly unbalanced**](https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2013/paper-Ferrera.pdf) to older generations and some privileged professions of course doesn't help.
+
+Being an underprivileged generation, rent prices are a big problem for younger people, especially in big cities. I can count many examples of friends in **Rome** struggling to find a decent apartment at a fair price, battling illegal contracts against lunatic landlords. While this is happening on a daily basis everywhere, [some premium apartments are rented for **ridiculously low** prices](https://www.theguardian.com/world/2016/feb/03/rome-reveals-apartments-with-historic-views-rented-out-for-a-few-euros-a-month) in the middle of the historic centre because they probably know the *right people* to talk to.
+
+In the middle of this chaos, *how can we help as journalists?*
+
 ### Explaining Rentswatch
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_a7g69kXn_o' frameborder='0' allowfullscreen></iframe></div>
-
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-
-<script type="text/javascript">
-
-      google.charts.load("current", {packages:["corechart"]});
-
-      google.charts.setOnLoadCallback(drawChart);
-
-      function drawChart() {
-        var data = google.visualization.arrayToDataTable([
-          ['Task', 'Hours per Day'],
-          ['Work',     11],
-          ['Eat',      2],
-          ['Commute',  2],
-          ['Watch TV', 2],
-          ['Sleep',    7]
-        ]);
-
-        var options = {
-          title: 'My Daily Activities',
-          pieHole: 0.4,
-        };
-
-        var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
-        chart.draw(data, options);
-      }
-
-    </script>
-    
-<div id="donutchart" style="width: 900px; height: 500px;"></div>
