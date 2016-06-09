@@ -152,13 +152,6 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
-### Communicating Data with Tableau
-
-<a href="https://www.amazon.com/gp/product/1449372023/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449372023&linkCode=as2&tag=damianobacci-20&linkId=2e66dcec78c951d16bd1752f2381cc4b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1449372023&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1449372023" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<a href="https://www.amazon.com/gp/product/1449372023/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449372023&linkCode=as2&tag=damianobacci-20&linkId=2e66dcec78c951d16bd1752f2381cc4b">
-  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
-</a>
-
 # Python
 
 ### Geoprocessing with Python
