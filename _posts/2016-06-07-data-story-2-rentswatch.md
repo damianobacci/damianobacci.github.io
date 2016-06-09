@@ -24,7 +24,7 @@ nofollow: false
 
 # Being young in Europe (and Italy [sigh])
 
-I must say that I haven't any problems with rent prices because, at the age of **25**, I still live with my parents. **Are you surprised?** In Italy men tend to leave their home late in their 30s, as reported by [Eurostat]() (2013 data). Compared to other European countries we fair pretty poorly:
+I must say that I haven't any problems with rent prices because, at the age of **25**, I still live with my parents. **Are you surprised?** In Italy men tend to leave their home late in their 30s, as reported by [Eurostat](http://ec.europa.eu/eurostat/product?code=yth_demo_030&language=en&mode=view). Compared to other European countries we fair pretty poorly:
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 </script>
@@ -46,7 +46,7 @@ I must say that I haven't any problems with rent prices because, at the age of *
             text: 'Estimated mean age of leaving the parental household, by sex, 2015'
         },
         subtitle: {
-            text: 'Source: <a href="http://ec.europa.eu/eurostat/statistics-explained/index.php/Being_young_in_Europe_today_-_family_and_society">Eurostat</a>'
+            text: 'Source: <a href="http://ec.europa.eu/eurostat/product?code=yth_demo_030&language=en&mode=view">Eurostat</a>'
         },
         xAxis: {
             categories: [
@@ -78,7 +78,7 @@ I must say that I haven't any problems with rent prices because, at the age of *
         tooltip: {
             headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
             pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
-                '<td style="padding:0"><b>{point.y:.1f} agess</b></td></tr>',
+                '<td style="padding:0"><b>{point.y:.1f} mean age</b></td></tr>',
             footerFormat: '</table>',
             shared: true,
             useHTML: true
