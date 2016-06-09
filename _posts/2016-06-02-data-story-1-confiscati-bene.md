@@ -18,7 +18,7 @@ noindex: false
 nofollow: false
 ---
 
-*Data story* is a section of the website that provides an overview on **a brilliant journalism project involving data**. This time I talk about [**Confiscati Bene**](http://www.confiscatibene.it/), an italian project collecting datasets of assets seized from the mafia. 
+*Data Story* is a section of the website that provides an overview on **a brilliant journalism project involving data**. This time I talk about [**Confiscati Bene**](http://www.confiscatibene.it/), an italian project collecting datasets of assets seized from the mafia. 
 
 <!--more-->
 
@@ -67,7 +67,7 @@ These limitations still apply to Italy, even if in a smaller part. Italy has got
 * **ANBSC Database**, managed by the **ANBSC** – *Agenzia Nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalità organizzata*, of the *Minister of the Interior*
 * **Guardia di Finanza Database**
 
-Wow, that's plenty of data! It's a shame that some of the databases *don't provide an easy access to it. The first two don't provide publicly disaggregated information per each individual asset, while the Guardia di Finanza's one **is not even publicly available**! The ANBSC's one has got information at disaggregate level for each asset, but navigation is hard and confused. Last, neither of these informations is published in an **open format**.
+Wow, that's plenty of data! It's a shame that some of the databases *don't provide an easy access to it*. The first two don't provide publicly disaggregated information per each individual asset, while the Guardia di Finanza's one **is not even publicly available**! The ANBSC's one has got information at disaggregate level for each asset, but navigation is hard and confused. Last, neither of these informations is published in an **open format**.
 
 ### Confiscati Bene ("Well Confiscated")
 
