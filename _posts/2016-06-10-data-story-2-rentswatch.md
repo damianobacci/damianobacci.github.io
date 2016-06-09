@@ -127,9 +127,9 @@ First of all, it'll let you take [**a quiz**](http://www.rentswatch.com/#!/quiz/
 #### Map of rents in your city
 
 {:.text-center img}
-![Rentswatch's map]({{ site.urlimg }}media/rentswatch-map.png "Rentswatch's map") Rentswatch's map
+![Rentswatch's map]({{ site.urlimg }}media/rentswatch-map.png "Rentswatch's map") [Rentswatch's map](http://www.rentswatch.com/#!/city/)
 
-Rentswatch can show a map of the various rents in a given city (not just *administrative boundaries*, but also **the metropolitan area**), comparing them between districts.
+Rentswatch can show [**a map**](http://www.rentswatch.com/#!/city/) of the various rents in a given city (not just *administrative boundaries*, but also **the metropolitan area**), comparing them between districts.
 
 ## The Mission - "Rentswatch aims at fostering quality journalism on the housing crisis"
 
