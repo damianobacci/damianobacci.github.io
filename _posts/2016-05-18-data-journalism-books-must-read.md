@@ -186,6 +186,20 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
+### Web Scraping with Python: Collecting Data from the Modern Web
+
+<a href="https://www.amazon.com/gp/product/1491910291/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491910291&linkCode=as2&tag=damianobacci-20&linkId=197228918578a4f2d2f59e12da61a59e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1491910291&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1491910291" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1491910291/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491910291&linkCode=as2&tag=damianobacci-20&linkId=197228918578a4f2d2f59e12da61a59e">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
+### Web Scraping with Python
+
+<a href="https://www.amazon.com/gp/product/1782164367/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1782164367&linkCode=as2&tag=damianobacci-20&linkId=aee8bcc7fbb37f7cedcee475a0078453"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1782164367&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1782164367" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1782164367/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1782164367&linkCode=as2&tag=damianobacci-20&linkId=aee8bcc7fbb37f7cedcee475a0078453">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
 
 # Bonus! Libri in italiano
 

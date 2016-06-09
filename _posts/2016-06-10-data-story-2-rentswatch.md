@@ -2,7 +2,7 @@
 layout: post
 title: Data Story n°2 - Rentswatch
 # date element overrides date in title format.
-date: 2016-6-8
+date: 2016-6-10
 description: "Data Story is a section of the website that provides an overview on a brilliant journalism project involving data. This time I talk about Rentswatch, an project done by the folks at Journalism++ tracking rent's price in Europe."
 category:
   - views
@@ -129,12 +129,18 @@ First of all, it'll let you take [**a quiz**](http://www.rentswatch.com/#!/quiz/
 {:.text-center img}
 ![Rentswatch's map]({{ site.urlimg }}media/rentswatch-map.png "Rentswatch's map") Rentswatch's map
 
-Rentswatch can show a map of the various rents in a given city (not just *administrative boudaries*, but also **the metropolitan area**), comparing them between districts.
+Rentswatch can show a map of the various rents in a given city (not just *administrative boundaries*, but also **the metropolitan area**), comparing them between districts.
 
-#### The Mission - "Rentswatch aims at fostering quality journalism on the housing crisis"
+## The Mission - "Rentswatch aims at fostering quality journalism on the housing crisis"
 
-[**Nicolas Kayser-Bril**](https://twitter.com/nicolaskb), cofounder and CEO of Journalism++, in [the opening blog's post]() is making a clear statement:
+[**Nicolas Kayser-Bril**](https://twitter.com/nicolaskb), cofounder and CEO of Journalism++, in [the opening blog's post](http://blog.rentswatch.com/all-the-rents-all-the-time/) is making a clear statement:
 
 > Suprisingly, very little data exists regarding the price of rents. Cities do run studies on the topic. Countries do, too. But such data is rarely compatible (a rent in Berlin does not encompass the same elements as a rent in Bucharest). No single Europe-wide database is available for someone who ponders moving out of a city.
 
 We want to change that. We will provide a database of rents, all across Europe, all the time, for free. We will use all possible sources of information to achieve this. This will not solve the issue of unaffordable housing, but it will give a little more information - and power - to renters when they sign a contract.
+
+The database is *continuously growing in number*, and the data is available to media partners via the [**Rentwatch's API**](http://blog.rentswatch.com/api/). Overall, with the Rentswatch project we can see a **perfect example** of how we can use the technology to *collect and organize precious informations*, which otherwise could be **lost** in the sea of messy data that unfolds during our daily life. It's time for journalists *to harness to power of technology* to analyze this complex world better (and **faster**)than before. This project in *on the right track to do so*.
+
+You can find other examples in [the blog](http://blog.rentswatch.com/), and you can follow [**@rentswatch**](https://twitter.com/rentswatch) on Twitter for updates.
+
+<a class="twitter-timeline" href="https://twitter.com/rentswatch">Tweets by rentswatch</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
