@@ -41,7 +41,6 @@ I must say that I haven't any problems with rent prices because, at the age of *
 
 <script type="text/javascript">
 
-$(function () {
         $('#container').highcharts({
             title: {
                 text: 'Monthly Average Temperature',
@@ -88,6 +87,5 @@ $(function () {
                 data: [3.9, 4.2, 5.7, 8.5, 11.9, 15.2, 17.0, 16.6, 14.2, 10.3, 6.6, 4.8]
             }]
         });
-    });
 
 </script>
