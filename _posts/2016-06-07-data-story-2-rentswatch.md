@@ -22,7 +22,7 @@ nofollow: false
 
 <!--more-->
 
-# Being young in Europe (and Italy [sigh])
+### Being young in Europe (and Italy [sigh])
 
 I must say that I haven't any problems with rent prices because, at the age of **25**, I still live with my parents. **Are you surprised?** In Italy men tend to leave their home late in their 30s, as reported by [Eurostat](http://ec.europa.eu/eurostat/product?code=yth_demo_030&language=en&mode=view). Compared to other European countries we fair pretty poorly:
 
@@ -102,6 +102,6 @@ I must say that I haven't any problems with rent prices because, at the age of *
 
 </script>
 
-# Explaining Rentswatch
+### Explaining Rentswatch
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_a7g69kXn_o' frameborder='0' allowfullscreen></iframe></div>
