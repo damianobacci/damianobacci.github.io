@@ -117,17 +117,24 @@ In the middle of this chaos, *how can we help as journalists?*
 #### The quiz
 
 {:.text-center img}
-![Rentswatch's quiz]({{ site.urlimg }}media/rentswatch-quiz.png "Rentswatch's quiz") Rentswatch's quiz
+![Rentswatch's quiz]({{ site.urlimg }}media/rentswatch-quiz.png "Rentswatch's quiz") [Rentswatch's quiz](http://www.rentswatch.com/#!/quiz/)
 
-First of all, it'll let you take a quiz to determine if you pay *the right rent for the right flat*. It does so by analyzing your rent and flat's size, comparing them with the average of all the flats collected across Europe. The prices are scanned with a [*scraper*](http://blog.rentswatch.com/writing-scrapers/) coded with **Python**. But of course, prices can vary within different cities, so Rentswatch compare your price with the nearby apartments.
+First of all, it'll let you take [**a quiz**](http://www.rentswatch.com/#!/quiz/) to determine if you pay *the right rent for the right flat*. It does so by analyzing your rent and flat's size, comparing them with the average of all the flats collected across Europe. The prices are scanned with a [*scraper*](http://blog.rentswatch.com/writing-scrapers/) coded with **Python**. But of course, prices can vary within different cities, so Rentswatch compare your price with the nearby apartments.
 
 {:.text-center img}
-![Rentswatch's result]({{ site.urlimg }}media/rentswatch-result.png "Rentswatch's quiz") (Rentswatch's result)
+![Rentswatch's result]({{ site.urlimg }}media/rentswatch-result.png "Rentswatch's result") Rentswatch's result
 
 #### Map of rents in your city
 
 {:.text-center img}
-![Rentswatch's map]({{ site.urlimg }}media/rentswatch-map.png "Rentswatch's quiz") Rentswatch's map
+![Rentswatch's map]({{ site.urlimg }}media/rentswatch-map.png "Rentswatch's map") Rentswatch's map
 
-Rentswatch can show a map of the various rents in a given city (not just the administrative boudaries, but also the metropolitan area), comparing them between districts.
+Rentswatch can show a map of the various rents in a given city (not just *administrative boudaries*, but also **the metropolitan area**), comparing them between districts.
 
+#### The Mission - "Rentswatch aims at fostering quality journalism on the housing crisis"
+
+[**Nicolas Kayser-Bril**](https://twitter.com/nicolaskb), cofounder and CEO of Journalism++, in [the opening blog's post]() is making a clear statement:
+
+> Suprisingly, very little data exists regarding the price of rents. Cities do run studies on the topic. Countries do, too. But such data is rarely compatible (a rent in Berlin does not encompass the same elements as a rent in Bucharest). No single Europe-wide database is available for someone who ponders moving out of a city.
+
+We want to change that. We will provide a database of rents, all across Europe, all the time, for free. We will use all possible sources of information to achieve this. This will not solve the issue of unaffordable housing, but it will give a little more information - and power - to renters when they sign a contract.
