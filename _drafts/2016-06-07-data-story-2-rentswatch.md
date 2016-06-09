@@ -109,9 +109,11 @@ I must say that I haven't any problems with rent prices because, at the age of *
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
     <script type="text/javascript">
-    
+
       google.charts.load("current", {packages:["corechart"]});
+
       google.charts.setOnLoadCallback(drawChart);
+      
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
           ['Task', 'Hours per Day'],
@@ -130,6 +132,7 @@ I must say that I haven't any problems with rent prices because, at the age of *
         var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
         chart.draw(data, options);
       }
+
     </script>
 
     <div id="donutchart" style="width: 900px; height: 500px;"></div>
