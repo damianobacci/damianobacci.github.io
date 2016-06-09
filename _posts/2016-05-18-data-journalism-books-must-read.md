@@ -106,6 +106,27 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
+### Data Visualization with JavaScript
+
+<a href="https://www.amazon.com/gp/product/1593276052/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276052&linkCode=as2&tag=damianobacci-20&linkId=dfc6e201b0d17bf6c35a3a8d17818f75"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1593276052&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1593276052" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1593276052/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276052&linkCode=as2&tag=damianobacci-20&linkId=dfc6e201b0d17bf6c35a3a8d17818f75">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
+### Interactive Data Visualization for the Web
+
+<a href="https://www.amazon.com/gp/product/1449339735/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449339735&linkCode=as2&tag=damianobacci-20&linkId=e5814b6f3b445ac2f83141b4fd3a7559"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1449339735&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1449339735" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1449339735/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449339735&linkCode=as2&tag=damianobacci-20&linkId=e5814b6f3b445ac2f83141b4fd3a7559">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
+### D3.js in Action
+
+<a href="https://www.amazon.com/gp/product/1617292117/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292117&linkCode=as2&tag=damianobacci-20&linkId=8059460532f3b5d80df77b9a71067e43"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1617292117&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1617292117" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1617292117/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617292117&linkCode=as2&tag=damianobacci-20&linkId=8059460532f3b5d80df77b9a71067e43">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
 # QGIS
 
 ### Learning QGIS - Third Edition
@@ -119,6 +140,22 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
 
 <a  href="http://www.amazon.com/gp/product/0989421759/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0989421759&linkCode=as2&tag=damianobacci-20&linkId=ESU4BR2UNR44LUL2"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0989421759&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=damianobacci-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=as2&o=1&a=0989421759" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.com/gp/product/0989421759/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0989421759&linkCode=as2&tag=damianobacci-20&linkId=ESU4BR2UNR44LUL2">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
+# Tableau
+
+### Communicating Data with Tableau
+
+<a href="https://www.amazon.com/gp/product/1449372023/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449372023&linkCode=as2&tag=damianobacci-20&linkId=2e66dcec78c951d16bd1752f2381cc4b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1449372023&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1449372023" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1449372023/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449372023&linkCode=as2&tag=damianobacci-20&linkId=2e66dcec78c951d16bd1752f2381cc4b">
+  <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
+</a>
+
+### Communicating Data with Tableau
+
+<a href="https://www.amazon.com/gp/product/1449372023/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449372023&linkCode=as2&tag=damianobacci-20&linkId=2e66dcec78c951d16bd1752f2381cc4b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1449372023&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1449372023" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/1449372023/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449372023&linkCode=as2&tag=damianobacci-20&linkId=2e66dcec78c951d16bd1752f2381cc4b">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
