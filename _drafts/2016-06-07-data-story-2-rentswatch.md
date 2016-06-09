@@ -29,82 +29,78 @@ I must say that I haven't any problems with rent prices because, at the age of *
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_a7g69kXn_o' frameborder='0' allowfullscreen></iframe></div>
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-		<style type="text/css">
-${demo.css}
-		</style>
-		<script type="text/javascript">
-$(function () {
-    $('#container').highcharts({
-        chart: {
-            type: 'column'
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
+</script>
+<script src="https://code.highcharts.com/highcharts.js">
+</script>
+<script src="https://code.highcharts.com/modules/exporting.js">
+</script>
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">
+</div>
+
+<script type="text/javascript">
+
+        $('#container').highcharts({
+            chart: {
+            type: 'bar'
         },
         title: {
-            text: 'Monthly Average Rainfall'
+            text: 'Historic World Population by Region'
         },
         subtitle: {
-            text: 'Source: WorldClimate.com'
+            text: 'Source: <a href="https://en.wikipedia.org/wiki/World_population">Wikipedia.org</a>'
         },
         xAxis: {
-            categories: [
-                'Jan',
-                'Feb',
-                'Mar',
-                'Apr',
-                'May',
-                'Jun',
-                'Jul',
-                'Aug',
-                'Sep',
-                'Oct',
-                'Nov',
-                'Dec'
-            ],
-            crosshair: true
+            categories: ['Africa', 'America', 'Asia', 'Europe', 'Oceania'],
+            title: {
+                text: null
+            }
         },
         yAxis: {
             min: 0,
             title: {
-                text: 'Rainfall (mm)'
+                text: 'Population (millions)',
+                align: 'high'
+            },
+            labels: {
+                overflow: 'justify'
             }
         },
         tooltip: {
-            headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
-            pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
-                '<td style="padding:0"><b>{point.y:.1f} mm</b></td></tr>',
-            footerFormat: '</table>',
-            shared: true,
-            useHTML: true
+            valueSuffix: ' millions'
         },
         plotOptions: {
-            column: {
-                pointPadding: 0.2,
-                borderWidth: 0
+            bar: {
+                dataLabels: {
+                    enabled: true
+                }
             }
         },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'top',
+            x: -40,
+            y: 80,
+            floating: true,
+            borderWidth: 1,
+            backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
+            shadow: true
+        },
+        credits: {
+            enabled: false
+        },
         series: [{
-            name: 'Tokyo',
-            data: [49.9, 71.5, 106.4, 129.2, 144.0, 176.0, 135.6, 148.5, 216.4, 194.1, 95.6, 54.4]
-
+            name: 'Year 1800',
+            data: [107, 31, 635, 203, 2]
         }, {
-            name: 'New York',
-            data: [83.6, 78.8, 98.5, 93.4, 106.0, 84.5, 105.0, 104.3, 91.2, 83.5, 106.6, 92.3]
-
+            name: 'Year 1900',
+            data: [133, 156, 947, 408, 6]
         }, {
-            name: 'London',
-            data: [48.9, 38.8, 39.3, 41.4, 47.0, 48.3, 59.0, 59.6, 52.4, 65.2, 59.3, 51.2]
-
-        }, {
-            name: 'Berlin',
-            data: [42.4, 33.2, 34.5, 39.7, 52.6, 75.5, 57.4, 60.4, 47.6, 39.1, 46.8, 51.1]
-
+            name: 'Year 2012',
+            data: [1052, 954, 4250, 740, 38]
         }]
     });
-});
-		</script>
-	</head>
-	<body>
-<script src="https://code.highcharts.com/highcharts.js"></script>
-<script src="https://code.highcharts.com/modules/exporting.js"></script>
 
-<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+</script>
