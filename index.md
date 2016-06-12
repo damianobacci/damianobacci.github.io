@@ -7,7 +7,7 @@ description: A simple yet efficient datablog by Damiano Bacci
 
 ## Welcome!
 
-*data journalism for wannabes* is a collection of [data stories](https://damianobacci.github.io/tags/#data+stories), [thoughts](https://damianobacci.github.io/tags/#thoughts) and [tutorials](http://damianobacci.github.io/tags/#tutorial). It will serve as a platform to share my works and knowledge on various data journalism topics.
+*data journalism for wannabes* is a collection of [data stories](https://damianobacci.github.io/tags/#data+stories), [thoughts](https://damianobacci.github.io/tags/#thoughts) and [tutorials](http://damianobacci.github.io/tags/#tutorial). It will serve as a platform to share [my works](http://damianobacci.github.io/tags/#experiments) and knowledge on various data journalism topics.
 
 At the beginning, this blog used [Wordpress](http://wordpress.org), but since it's very limited I decided to migrate to [Jekyll](https://jekyllrb.com), which was the best decision ever. Enjoy some data stories!
 
