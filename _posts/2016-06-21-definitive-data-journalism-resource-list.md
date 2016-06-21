@@ -58,14 +58,14 @@ Since I strive to be *more international* every time I can, I also post content 
 
 ## Tutorials
 
-### Infographics
-
-* [Creating Infographics with Illustrator](https://www.lynda.com/Illustrator-tutorials/Creating-Infographics-Illustrator/119011-2.html)
-
 ### General tutorials about data journalism
 
 * [Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
 * [Managing Data Journalism Projects](http://learno.net/courses/managing-data-journalism-projects)
+
+### Infographics
+
+* [Creating Infographics with Illustrator](https://www.lynda.com/Illustrator-tutorials/Creating-Infographics-Illustrator/119011-2.html)
 
 ### Data cleansing
 
@@ -79,6 +79,10 @@ Since I strive to be *more international* every time I can, I also post content 
 ![Data journalism key people]({{ site.urlimg }}media/key-people-in-data-journalism.jpg "Data journalism key people")
 
 ## Key People
+
+* [Simon Rogers](https://twitter.com/smfrogers)
+* [Mike Bostock](https://twitter.com/mbostock)
+* [Martin Stabe](https://twitter.com/martinstabe)
 
 {:.text-center img}
 ![Data journalism websites]({{ site.urlimg }}media/data-journalism-website.jpeg "Data journalism websites")
