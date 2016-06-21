@@ -34,11 +34,15 @@ Through my research on the web, I stumble upon a lot of resources like tools, we
 
 ## Tutorials
 
-### [Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
+### General tutorials about data journalism
+
+[Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
 
 ## Websites
 
-http://datadrivenjournalism.net/ - 
+### General websites about data journalism
+
+[Data Driven Journalism](http://datadrivenjournalism.net/)
 
 ## 
 
