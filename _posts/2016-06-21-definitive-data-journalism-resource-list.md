@@ -30,6 +30,12 @@ Since I strive to be *more international* every time I can, I also post content 
 
 ## Tools
 
+### Charts
+
+* [Google Charts](https://developers.google.com/chart/)
+* [Highcharts](http://www.highcharts.com/)
+* [Chartblocks](http://www.chartblocks.com/en/)
+
 ## Tutorials
 
 ### Infographics
