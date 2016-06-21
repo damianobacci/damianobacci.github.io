@@ -25,10 +25,13 @@ Through my research on the web, I stumble upon a lot of resources like **tools**
 
 I don't want to use a Google Doc or a service like [Delicious](http://del.icio.us/), so I'll put everything here. I hope you will find it useful, if you have something interesting to add or you want to suggest how to make better this list **drop me a comment**! I enjoy talking and discussing with everybody.
 
-Since I strive to be *more international* every time I can, I also post content in **other languages**.
+Since I strive to be *more international* every time I can, I also post content in **other languages**. Use the *table of content* to navigate more easily.
 
 * Table of content
 {:toc}
+
+{:.text-center img}
+![Data journalism tools]({{ site.urlimg }}media/data-journalism-tool.jpg "Data journalism tools")
 
 ## Tools
 
@@ -50,6 +53,9 @@ Since I strive to be *more international* every time I can, I also post content 
 * [Quadrigram](http://www.quadrigram.com/)
 * [Atavist](https://atavist.com/)
 
+{:.text-center img}
+![Data journalism tutorials]({{ site.urlimg }}media/data-journalism-tutorial.jpg "Data journalism tutorials")
+
 ## Tutorials
 
 ### Infographics
@@ -69,7 +75,13 @@ Since I strive to be *more international* every time I can, I also post content 
 
 * [All the Wget Commands You Should Know](http://www.labnol.org/software/wget-command-examples/28750/)
 
+{:.text-center img}
+![Data journalism key people]({{ site.urlimg }}media/key-people-in-data-journalism.jpg "Data journalism key people")
+
 ## Key People
+
+{:.text-center img}
+![Data journalism websites]({{ site.urlimg }}media/data-journalism-website.jpeg "Data journalism websites")
 
 ## Websites
 
