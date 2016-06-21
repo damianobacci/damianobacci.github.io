@@ -7,12 +7,8 @@ category:
   - featured
 tag:
   - tutorial
-  - scraping
-  - python
-  - excel
-  - cleaning
-  - visualization
-  - qgis
+  - tool
+  - website
 comments: true
 show_meta: true
 comments: true
@@ -36,15 +32,14 @@ Through my research on the web, I stumble upon a lot of resources like tools, we
 
 ### General tutorials about data journalism
 
-[Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
+* [Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
 
 ## Websites
 
 ### General websites about data journalism
 
-[Data Driven Journalism](http://datadrivenjournalism.net/)
+* [Data Driven Journalism](http://datadrivenjournalism.net/)
 
-## 
 
 
 
