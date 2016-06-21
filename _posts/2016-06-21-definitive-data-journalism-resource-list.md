@@ -19,9 +19,11 @@ noindex: false
 nofollow: false
 ---
 
-Through my research on the web, I stumble upon a lot of resources like tools, websites and tutorials. I'm already covering books [in another post](https://damianobacci.github.io/blog/data-journalism-books-must-read), so I thought it would be interesting to collect all the other stuff here. I don't want to use a Google Doc or a service like [Delicious](http://del.icio.us/), so I'll put everything here. I hope you will find it useful, if you have something interesting to add drop me a comment!
+Through my research on the web, I stumble upon a lot of resources like **tools**, **websites** and **tutorials**. I'm already covering books [in another post](https://damianobacci.github.io/blog/data-journalism-books-must-read), I thought it would be interesting to collect *all the other stuff* here. I don't want to use a Google Doc or a service like [Delicious](http://del.icio.us/), so I'll put everything here. I hope you will find it useful, if you have something interesting to add drop me a comment!
 
 <!--more-->
+
+Since I strive to be *more international* every time I can, I also post content in **other languages**.
 
 * Table of content
 {:toc}
@@ -29,6 +31,10 @@ Through my research on the web, I stumble upon a lot of resources like tools, we
 ## Tools
 
 ## Tutorials
+
+### Infographics
+
+* [Creating Infographics with Illustrator](https://www.lynda.com/Illustrator-tutorials/Creating-Infographics-Illustrator/119011-2.html)
 
 ### General tutorials about data journalism
 
@@ -40,6 +46,11 @@ Through my research on the web, I stumble upon a lot of resources like tools, we
 
 * [Data Driven Journalism](http://datadrivenjournalism.net/)
 
+### Datablogs
+
+* [The Guardian Datablog](http://www.theguardian.com/data)
+* [The Upshot](http://www.nytimes.com/section/upshot)
+*
 
 
 
