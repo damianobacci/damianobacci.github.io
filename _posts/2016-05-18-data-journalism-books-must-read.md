@@ -62,6 +62,10 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
 
 You can read and download the book for free [on GitBook](https://www.gitbook.com/book/towcenter/curious-journalist-s-guide-to-data/details).
 
+### Teaching Data and Computational Journalism
+
+You can read and download the book for free [on GitBook](https://www.gitbook.com/book/columbiajournalism/teaching-data-computational-journalism/details).
+
 # Data Visualization
 
 ### The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures
