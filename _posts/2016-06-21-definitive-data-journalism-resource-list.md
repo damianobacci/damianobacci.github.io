@@ -40,6 +40,8 @@ Since I strive to be *more international* every time I can, I also post content 
 
 * [Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
 
+## Key People
+
 ## Websites
 
 ### General websites about data journalism
