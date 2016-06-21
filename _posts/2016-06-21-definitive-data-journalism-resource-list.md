@@ -19,9 +19,11 @@ noindex: false
 nofollow: false
 ---
 
-Through my research on the web, I stumble upon a lot of resources like **tools**, **websites** and **tutorials**. I'm already covering books [in another post](https://damianobacci.github.io/blog/data-journalism-books-must-read), I thought it would be interesting to collect *all the other stuff* here. I don't want to use a Google Doc or a service like [Delicious](http://del.icio.us/), so I'll put everything here. I hope you will find it useful, if you have something interesting to add drop me a comment!
+Through my research on the web, I stumble upon a lot of resources like **tools**, **websites** and **tutorials**. I'm already covering books [in another post](https://damianobacci.github.io/blog/data-journalism-books-must-read), I thought it would be interesting to collect *all the other stuff* here. 
 
 <!--more-->
+
+I don't want to use a Google Doc or a service like [Delicious](http://del.icio.us/), so I'll put everything here. I hope you will find it useful, if you have something interesting to add or you want to suggest how to make better this list **drop me a comment**! I enjoy talking and discussing with everybody.
 
 Since I strive to be *more international* every time I can, I also post content in **other languages**.
 
@@ -36,6 +38,18 @@ Since I strive to be *more international* every time I can, I also post content 
 * [Highcharts](http://www.highcharts.com/)
 * [Chartblocks](http://www.chartblocks.com/en/)
 
+### Scraping
+
+* [Tabula](http://tabula.dataninja.it/)
+* [Data Scraper](https://chrome.google.com/webstore/detail/data-scraper/nndknepjnldbdbepjfgmncbggmopgden)
+* [Table Capture](https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop)
+* [Wget](https://www.gnu.org/software/wget/manual/html_node/Overview.html#Overview)
+
+### Interactive data visualization
+
+* [Quadrigram](http://www.quadrigram.com/)
+* [Atavist](https://atavist.com/)
+
 ## Tutorials
 
 ### Infographics
@@ -45,10 +59,15 @@ Since I strive to be *more international* every time I can, I also post content 
 ### General tutorials about data journalism
 
 * [Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
+* [Managing Data Journalism Projects](http://learno.net/courses/managing-data-journalism-projects)
 
 ### Data cleansing
 
 * [Useful recipes for achieving certain tasks in OpenRefine](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
+
+### Scraping
+
+* [All the Wget Commands You Should Know](http://www.labnol.org/software/wget-command-examples/28750/)
 
 ## Key People
 
