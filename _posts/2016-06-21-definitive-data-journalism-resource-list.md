@@ -46,6 +46,10 @@ Since I strive to be *more international* every time I can, I also post content 
 
 * [Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
 
+### Data cleansing
+
+* [Useful recipes for achieving certain tasks in OpenRefine](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
+
 ## Key People
 
 ## Websites
@@ -58,7 +62,6 @@ Since I strive to be *more international* every time I can, I also post content 
 
 * [The Guardian Datablog](http://www.theguardian.com/data)
 * [The Upshot](http://www.nytimes.com/section/upshot)
-*
 
 
 
