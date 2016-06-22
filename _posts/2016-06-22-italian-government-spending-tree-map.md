@@ -37,11 +37,11 @@ Tree map delle spese del governo italiano (dati del 2012, cifre in milardi di ‚Ç
     {"value": 44, "name": "Istruzione e universit√†"},
     {"value": 19, "name": "Difesa"},
     {"value": 11, "name": "Interno"},
-    {"value": 7.6, "name": "Infrastrutture e trasporti"}
-    {"value": 7.2, "name": "Sviluppo economico"}
-    {"value": 7.2, "name": "Giustizia"}
-    {"value": 1.7, "name": "Affari esteri"}
-    {"value": 0.9, "name": "Salute"}
+    {"value": 8, "name": "Infrastrutture e trasporti"}
+    {"value": 7, "name": "Sviluppo economico"}
+    {"value": 7, "name": "Giustizia"}
+    {"value": 2, "name": "Affari esteri"}
+    {"value": 1, "name": "Salute"}
   ]
 
   var visualization = d3plus.viz()
