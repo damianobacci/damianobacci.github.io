@@ -26,7 +26,7 @@ Tree map delle spese del governo italiano (dati del 2012, cifre in milardi di â‚
 
 <script src="https://d3js.org/d3.v3.min.js"></script>
 
-<script src="https://www.d3plus.org/js/d3plus.js"></script>
+<script src="https://damianobacci.github.io/files/d3plus.js"></script>
 
 <div id="viz"></div>
 
