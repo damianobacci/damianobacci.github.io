@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Tree Map of the Italian government spendings"
+title: "A tree map of the Italian government spendings"
 date: 2016-6-22
 category: 
   - views
@@ -24,9 +24,9 @@ Tree map delle spese del governo italiano (dati del 2012, cifre in milardi di â‚
 
 ## Spese del governo italiano (dati del 2012, [fonte](http://www.oggi.it/attualita/notizie/2012/06/11/stato-sprecone-i-ministeri-ci-costano-un-miliardo-di-euro-al-giorno/))
 
-<script src="http://www.d3plus.org/js/d3.js"></script>
+<script src="https://www.d3plus.org/js/d3.js"></script>
 
-<script src="http://www.d3plus.org/js/d3plus.js"></script>
+<script src="https://www.d3plus.org/js/d3plus.js"></script>
 
 <div id="viz"></div>
 
