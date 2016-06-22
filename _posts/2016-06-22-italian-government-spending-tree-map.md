@@ -24,7 +24,7 @@ Tree map delle spese del governo italiano (dati del 2012, cifre in milardi di â‚
 
 ## Spese del governo italiano (dati del 2012, [fonte](http://www.oggi.it/attualita/notizie/2012/06/11/stato-sprecone-i-ministeri-ci-costano-un-miliardo-di-euro-al-giorno/))
 
-<script src="https://www.d3plus.org/js/d3.js"></script>
+<script src="https://d3js.org/d3.v3.min.js"></script>
 
 <script src="https://www.d3plus.org/js/d3plus.js"></script>
 
