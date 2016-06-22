@@ -49,8 +49,7 @@ Tree map delle spese del governo italiano.
     .data(sample_data)  
     .type("tree_map")   
     .id("name")         
-    .size("Spesa in miliardi")
-    .tooltip(["Spesa in milardi"])      
+    .size("Spesa in miliardi")     
     .draw()             
 </script>
 
@@ -85,9 +84,8 @@ Tree map delle spese del governo italiano.
     .container("#viz")  // container DIV to hold the viz
     .data(sample_data)  // data to use with the viz
     .type("tree_map")   // visualization type
-    .id("name")         // key for which our data is unique on
+    .id("name")     // key for which our data is unique on
     .size("Spesa in miliardi")    // sizing of blocks
-    .tooltip(["Spesa in milardi"])
     .draw()             // draw the viz!
 </script>
 {% endhighlight %}
