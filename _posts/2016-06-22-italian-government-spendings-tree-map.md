@@ -68,16 +68,16 @@ Tree map delle spese del governo italiano.
 <script>
   // sample data array
   var sample_data = [
-  {"value": 100, "name": "Lavoro e politiche sociali"},
-    {"value": 79, "name": "Economia e finanze"},
-    {"value": 44, "name": "Istruzione e università"},
-    {"value": 19, "name": "Difesa"},
-    {"value": 11, "name": "Interno"},
-    {"value": 7.6, "name": "Infrastrutture e trasporti"},
-    {"value": 7.2, "name": "Sviluppo economico"},
-    {"value": 7.2, "name": "Giustizia"},
-    {"value": 1.7, "name": "Affari esteri"},
-    {"value": 0.9, "name": "Salute"},
+    {"Spesa in miliardi": 100, "name": "Lavoro e politiche sociali"},
+    {"Spesa in miliardi": 79, "name": "Economia e finanze"},
+    {"Spesa in miliardi": 44, "name": "Istruzione e università"},
+    {"Spesa in miliardi": 19, "name": "Difesa"},
+    {"Spesa in miliardi": 11, "name": "Interno"},
+    {"Spesa in miliardi": 7.6, "name": "Infrastrutture e trasporti"},
+    {"Spesa in miliardi": 7.2, "name": "Sviluppo economico"},
+    {"Spesa in miliardi": 7.2, "name": "Giustizia"},
+    {"Spesa in miliardi": 1.7, "name": "Affari esteri"},
+    {"Spesa in miliardi": 0.9, "name": "Salute"},
   ]
   // instantiate d3plus
   var visualization = d3plus.viz()
@@ -85,7 +85,7 @@ Tree map delle spese del governo italiano.
     .data(sample_data)  // data to use with the viz
     .type("tree_map")   // visualization type
     .id("name")         // key for which our data is unique on
-    .size("value")      // sizing of blocks
+    .size("Spesa in miliardi")    // sizing of blocks
     .draw()             // draw the viz!
 </script>
 {% endhighlight %}
