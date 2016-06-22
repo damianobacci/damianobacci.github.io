@@ -47,10 +47,16 @@ Since I strive to be *more international* every time I can, I also post content 
 * [Data Scraper](https://chrome.google.com/webstore/detail/data-scraper/nndknepjnldbdbepjfgmncbggmopgden)
 * [Table Capture](https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop)
 * [Wget](https://www.gnu.org/software/wget/manual/html_node/Overview.html#Overview)
+* [Portia](http://scrapinghub.com/portia/)
 
 ### Interactive data visualization
 
 * [Quadrigram](http://www.quadrigram.com/)
+* [SandDance](https://www.sanddance.ms/)
+
+### Digital storytelling
+
+* [Pageflow](http://pageflow.io/en)
 * [Atavist](https://atavist.com/)
 
 {:.text-center img}
@@ -92,6 +98,10 @@ Since I strive to be *more international* every time I can, I also post content 
 ### General websites about data journalism
 
 * [Data Driven Journalism](http://datadrivenjournalism.net/)
+
+### Data visualization
+
+* [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
 
 ### Datablogs
 
