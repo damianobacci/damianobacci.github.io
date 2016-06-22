@@ -53,6 +53,44 @@ Tree map delle spese del governo italiano (dati del 2012, cifre in milardi di ‚Ç
     .draw()             
 </script>
 
+## Code
+
+{% highlight js %}
+<!-- load D3js -->
+<script src="https://d3js.org/d3.v3.min.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="https://damianobacci.github.io/files/d3plus.js"></script>
+
+<!-- create container element for visualization -->
+<div id="viz"></div>
+
+<script>
+  // sample data array
+  var sample_data = [
+  {"value": 100, "name": "Lavoro e politiche sociali"},
+    {"value": 79, "name": "Economia e finanze"},
+    {"value": 44, "name": "Istruzione e universit√†"},
+    {"value": 19, "name": "Difesa"},
+    {"value": 11, "name": "Interno"},
+    {"value": 7.6, "name": "Infrastrutture e trasporti"},
+    {"value": 7.2, "name": "Sviluppo economico"},
+    {"value": 7.2, "name": "Giustizia"},
+    {"value": 1.7, "name": "Affari esteri"},
+    {"value": 0.9, "name": "Salute"},
+  ]
+  // instantiate d3plus
+  var visualization = d3plus.viz()
+    .container("#viz")  // container DIV to hold the visualization
+    .data(sample_data)  // data to use with the visualization
+    .type("tree_map")   // visualization type
+    .id("name")         // key for which our data is unique on
+    .size("value")      // sizing of blocks
+    .draw()             // finally, draw the visualization!
+</script>
+{% endhighlight %}
+
+
 
 
 
