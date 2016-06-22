@@ -46,7 +46,7 @@ Tree map delle spese del governo italiano.
 
   var visualization = d3plus.viz()
     .container("#viz")  
-    .data("sample_data")  
+    .data(sample_data)  
     .type("tree_map")   
     .id("name")         
     .size("Spesa in miliardi")     
@@ -82,7 +82,7 @@ Tree map delle spese del governo italiano.
   // instantiate d3plus
   var visualization = d3plus.viz()
     .container("#viz")  // container DIV to hold the viz
-    .data("sample_data")  // data to use with the viz
+    .data(sample_data)  // data to use with the viz
     .type("tree_map")   // visualization type
     .id("name")     // key for which our data is unique on
     .size("Spesa in miliardi")    // sizing of blocks
