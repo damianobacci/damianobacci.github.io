@@ -20,9 +20,9 @@ Using [D3plus](http://d3plus.org/) I try to give a figure on the **spendings** o
 
 <!--more-->
 
-Tree map delle spese del governo italiano (dati del 2012, cifre in milardi di €)
+Tree map delle spese del governo italiano.
 
-## Spese del governo italiano (dati del 2012, [fonte](http://www.oggi.it/attualita/notizie/2012/06/11/stato-sprecone-i-ministeri-ci-costano-un-miliardo-di-euro-al-giorno/))
+## Spese del governo italiano (dati del 2012, cifre in miliardi di €, [fonte](http://www.oggi.it/attualita/notizie/2012/06/11/stato-sprecone-i-ministeri-ci-costano-un-miliardo-di-euro-al-giorno/))
 
 <script src="https://d3js.org/d3.v3.min.js"></script>
 
