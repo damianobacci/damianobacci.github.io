@@ -35,6 +35,8 @@ Since I strive to be *more international* every time I can, I also post content 
 
 ## Tools
 
+A quick take on the **tools section**: there are so many out there that it is virtually impossible to list everyone of them. Here I list of my personal favourites (based on my limited experience), but you can find many more on [Data Journalism Tools](http://data-journalism-tools.silk.co/) and [journalismtools.io](http://journalismtools.io/). In the future I'll add **WHY** these are the best for me, which I think it's more interesting rather than a list of names you can find anywhere.
+
 ### Charts
 
 * [Google Charts](https://developers.google.com/chart/)
@@ -53,6 +55,7 @@ Since I strive to be *more international* every time I can, I also post content 
 
 * [Quadrigram](http://www.quadrigram.com/)
 * [SandDance](https://www.sanddance.ms/)
+* [Exploratory.io](https://exploratory.io/)
 
 ### Digital storytelling
 
