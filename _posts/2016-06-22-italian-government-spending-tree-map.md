@@ -81,12 +81,12 @@ Tree map delle spese del governo italiano (dati del 2012, cifre in milardi di â‚
   ]
   // instantiate d3plus
   var visualization = d3plus.viz()
-    .container("#viz")  // container DIV to hold the visualization
-    .data(sample_data)  // data to use with the visualization
+    .container("#viz")  // container DIV to hold the viz
+    .data(sample_data)  // data to use with the viz
     .type("tree_map")   // visualization type
     .id("name")         // key for which our data is unique on
     .size("value")      // sizing of blocks
-    .draw()             // finally, draw the visualization!
+    .draw()             // draw the viz!
 </script>
 {% endhighlight %}
 
