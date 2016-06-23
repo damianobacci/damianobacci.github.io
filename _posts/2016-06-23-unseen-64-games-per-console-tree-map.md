@@ -22,7 +22,7 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
 
 ## Unseen64 Games Archive (per console data)
 
-<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="https://code.jquery.com/jquery-1.9.1.js"></script>
 
 <script src="https://code.highcharts.com/highcharts.js"></script>
 
