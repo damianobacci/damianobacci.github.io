@@ -62,7 +62,7 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
             }, {
                 id: 'S',
                 name: 'Sony',
-                color: '#003791'
+                color: '#000000'
             }, {
                 id: 'SG',
                 name: 'Sega',
