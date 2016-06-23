@@ -107,7 +107,6 @@ $(function () {
             text: 'Fruit consumption'
         }
     });
-});
 </script>
 ## Code
 
