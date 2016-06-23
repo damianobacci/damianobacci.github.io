@@ -112,8 +112,7 @@ $(function () {
         title: {
             text: 'Fruit consumption'
         }
-    })
-});
+    });
 </script>
 
 ## Code
