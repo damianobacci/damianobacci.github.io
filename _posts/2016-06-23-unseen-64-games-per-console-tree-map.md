@@ -112,7 +112,7 @@ $(function () {
 
 <script src="https://code.highcharts.com/modules/treemap.js"></script>
 
-<div id="container"</div>
+<div id="container"></div>
 
 ## Code
 
