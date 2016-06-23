@@ -28,8 +28,6 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
 
 <script src="https://code.highcharts.com/modules/treemap.js"></script>
 
-<div id="container" style="min-width: 300px; max-width: 600px; margin: 0 auto"></div>
-
 <script>
 $(function () {
     $('#container').highcharts({
@@ -111,6 +109,9 @@ $(function () {
     });
 });
 </script>
+
+<div id="container" style="min-width: 300px; max-width: 600px; margin: 0 auto"></div>
+
 ## Code
 
 {% highlight js %}
