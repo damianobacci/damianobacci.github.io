@@ -184,6 +184,15 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
 
 {% highlight js %}
 
+<script src="https://code.jquery.com/jquery-1.9.1.js"></script>
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+
+<script src="https://code.highcharts.com/modules/treemap.js"></script>
+
+<div id="container" style="min-width: 300px; max-width: 700px; margin: 0 auto">
+</div>
+
 <script type="text/javascript">
 
     $('#container').highcharts({
