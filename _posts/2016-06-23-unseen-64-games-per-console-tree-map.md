@@ -103,7 +103,6 @@ $(function () {
             text: 'Fruit consumption'
         }
     });
-});
         </script>
 
 <script src="https://code.highcharts.com/highcharts.js"></script>
