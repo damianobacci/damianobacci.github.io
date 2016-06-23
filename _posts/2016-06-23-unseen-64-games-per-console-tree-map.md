@@ -54,23 +54,23 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
             data: [{
                 id: 'MS',
                 name: 'Microsoft',
-                color: "#EC2500"
+                color: "#107c10"
             }, {
                 id: 'N',
                 name: 'Nintendo',
-                color: "#ECE100"
+                color: "#D20014"
             }, {
                 id: 'S',
                 name: 'Sony',
-                color: '#EC9800'
+                color: '#003791'
             }, {
                 id: 'SG',
                 name: 'Sega',
-                color: '#EC9800'
+                color: '#17569b'
             }, {
                 id: 'O',
                 name: 'Others',
-                color: '#EC9800'
+                color: '#BECCD1'
             }, {
                 name: 'Xbox',
                 parent: 'MS',
