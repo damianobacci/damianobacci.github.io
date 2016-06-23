@@ -22,14 +22,16 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
 
 ## Unseen64 Games Archive (per console data)
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
-</script>
+
 
 <script src="https://code.highcharts.com/highcharts.js"></script>
 
 <script src="https://code.highcharts.com/modules/exporting.js"></script>
 
 <script src="https://code.highcharts.com/modules/treemap.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
+</script>
 
 <div id="container" style="min-width: 300px; max-width: 600px; margin: 0 auto;">
 </div>
@@ -41,7 +43,7 @@ $(function () {
     $('#container').highcharts({
 
         series: [{
-            
+
             type: "treemap",
             layoutAlgorithm: 'stripes',
             alternateStartingDirection: true,
