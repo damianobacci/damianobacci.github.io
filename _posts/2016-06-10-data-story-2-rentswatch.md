@@ -37,85 +37,69 @@ I must say that I haven't any problems with rent prices because, at the age of *
 </div>
 
 <script type="text/javascript">
-$(function () {
-    $('#container').highcharts({
-        series: [{
-            type: "treemap",
-            layoutAlgorithm: 'stripes',
-            alternateStartingDirection: true,
-            levels: [{
-                level: 1,
-                layoutAlgorithm: 'sliceAndDice',
-                dataLabels: {
-                    enabled: true,
-                    align: 'left',
-                    verticalAlign: 'top',
-                    style: {
-                        fontSize: '15px',
-                        fontWeight: 'bold'
-                    }
-                }
-            }],
-            data: [{
-                id: 'A',
-                name: 'Apples',
-                color: "#EC2500"
-            }, {
-                id: 'B',
-                name: 'Bananas',
-                color: "#ECE100"
-            }, {
-                id: 'O',
-                name: 'Oranges',
-                color: '#EC9800'
-            }, {
-                name: 'Anne',
-                parent: 'A',
-                value: 5
-            }, {
-                name: 'Rick',
-                parent: 'A',
-                value: 3
-            }, {
-                name: 'Peter',
-                parent: 'A',
-                value: 4
-            }, {
-                name: 'Anne',
-                parent: 'B',
-                value: 4
-            }, {
-                name: 'Rick',
-                parent: 'B',
-                value: 10
-            }, {
-                name: 'Peter',
-                parent: 'B',
-                value: 1
-            }, {
-                name: 'Anne',
-                parent: 'O',
-                value: 1
-            }, {
-                name: 'Rick',
-                parent: 'O',
-                value: 3
-            }, {
-                name: 'Peter',
-                parent: 'O',
-                value: 3
-            }, {
-                name: 'Susanne',
-                parent: 'Kiwi',
-                value: 2,
-                color: '#9EDE00'
-            }]
-        }],
+
+        $('#container').highcharts({
+        chart: {
+            type: 'column'
+        },
         title: {
-            text: 'Fruit consumption'
-        }
+            text: 'Estimated mean age of leaving the parental household, by sex, 2015'
+        },
+        subtitle: {
+            text: 'Source: <a href="http://ec.europa.eu/eurostat/product?code=yth_demo_030&language=en&mode=view">Eurostat</a>'
+        },
+        xAxis: {
+            categories: [
+                'EU-28',
+                'Croatia',
+                'Italy',
+                'Greece',
+                'Spain',
+                'Turkey',
+                'Austria',
+                'Belgium',
+                'United Kingdom',
+                'France',
+                'Germany',
+                'Netherlands',
+                'Estonia',
+                'Finland',
+                'Denmark',
+                'Sweden'
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Years'
+            }
+        },
+        tooltip: {
+            headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+            pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+                '<td style="padding:0"><b>{point.y:.1f} mean age</b></td></tr>',
+            footerFormat: '</table>',
+            shared: true,
+            useHTML: true
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 0
+            }
+        },
+        series: [{
+            name: 'Men',
+            data: [27.2, 33.0, 31.3, 30.8, 30.1, 29.8, 26.6, 25.8, 25.3, 24.8, 24.6, 24.5, 24.1, 22.6, 21.5, 19.7]
+
+        }, {
+            name: 'Women',
+            data: [25.1, 29.6, 29.0, 28.0, 28.0, 24.9, 24.3, 24.1, 23.6, 23.0, 22.9, 22.9, 23.1, 21.1, 20.8, 19.6]
+
+        }]
     });
-});
+
 </script>
 
 This phenomenon is known in Italy as being a *"bamboccione"* (big baby), and it's related to a tons of factors, first of all the lack of stabile income and a poor job market.The fact that the italian welfare system is [**profoundly unbalanced**](https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2013/paper-Ferrera.pdf) to older generations and some privileged professions of course doesn't help.

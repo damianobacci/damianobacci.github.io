@@ -31,11 +31,8 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
 </div>
 
 <script type="text/javascript">
-
 $(function () {
-
     $('#container').highcharts({
-
         series: [{
             type: "treemap",
             layoutAlgorithm: 'stripes',
@@ -113,7 +110,6 @@ $(function () {
         }
     });
 });
-
 </script>
 
 ## Code
