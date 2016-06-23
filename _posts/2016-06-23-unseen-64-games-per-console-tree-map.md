@@ -76,7 +76,7 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
                 parent: 'MS',
                 value: 307
             }, {
-                name: 'Xbox One',
+                name: 'Xbox 360',
                 parent: 'MS',
                 value: 296
             }, {
