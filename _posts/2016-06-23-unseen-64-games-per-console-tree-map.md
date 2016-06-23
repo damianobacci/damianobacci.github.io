@@ -37,7 +37,9 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
 <script type="text/javascript">
 
 $(function () {
+
     $('#container').highcharts({
+
         series: [{
             type: "treemap",
             layoutAlgorithm: 'stripes',
@@ -113,8 +115,8 @@ $(function () {
         title: {
             text: 'Fruit consumption'
         }
-  }]
     });
+});
 
 </script>
 
