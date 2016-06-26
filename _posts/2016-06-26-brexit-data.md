@@ -86,7 +86,7 @@ Brexit data
             tooltip: {
                 formatter: function () {
                     return '<b>' + this.series.name + ', age ' + this.point.category + '</b><br/>' +
-                        'Population: ' + Highcharts.numberFormat(Math.abs(this.point.y), 0 + '%');
+                        'Percentage of voters: ' + Highcharts.numberFormat(Math.abs(this.point.y) + '%');
                 }
             },
 
