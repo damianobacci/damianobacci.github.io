@@ -49,7 +49,7 @@ Brexit data
                 text: 'Vote breakdown across the UK'
             },
             subtitle: {
-                text: 'Source: <a href="http://www.bbc.com/news/uk-politics-32810887">The UK Referendum, all you need to know</a>'
+                text: 'Source: <a href="http://www.bbc.com/news/uk-politics-32810887">BBB - The UK Referendum, all you need to know</a>'
             },
             xAxis: [{
                 categories: categories,
