@@ -37,21 +37,19 @@ Brexit data
 // Data gathered from http://populationpyramid.net/germany/2015/
     // Age categories
 
-    var categories = ['0-4', '5-9', '10-14', '15-19',
-            '20-24', '25-29', '30-34', '35-39', '40-44',
-            '45-49', '50-54', '55-59', '60-64', '65-69',
-            '70-74', '75-79', '80-84', '85-89', '90-94',
-            '95-99', '100 + '];
+    var categories = ['West Midlands', 'East Midlands', 'North East', 'Yorkshire and The Humber',
+            'East', 'North West', 'South West', 'Wales', 'South East',
+            'Northern Ireland', 'London', 'Scotland'];
 
         $('#container').highcharts({
             chart: {
                 type: 'bar'
             },
             title: {
-                text: 'Population pyramid for Germany, 2015'
+                text: 'Vote breakdown across the UK'
             },
             subtitle: {
-                text: 'Source: <a href="http://populationpyramid.net/germany/2015/">Population Pyramids of the World from 1950 to 2100</a>'
+                text: 'Source: <a href="http://www.bbc.com/news/uk-politics-32810887">The UK Referendum, all you need to know</a>'
             },
             xAxis: [{
                 categories: categories,
@@ -88,7 +86,7 @@ Brexit data
             tooltip: {
                 formatter: function () {
                     return '<b>' + this.series.name + ', age ' + this.point.category + '</b><br/>' +
-                        'Population: ' + Highcharts.numberFormat(Math.abs(this.point.y), 0);
+                        'Population: ' + Highcharts.numberFormat(Math.abs(this.point.y), 0 + '%');
                 }
             },
 
