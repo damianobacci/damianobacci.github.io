@@ -75,6 +75,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### Infographics
 
 * [Creating Infographics with Illustrator](https://www.lynda.com/Illustrator-tutorials/Creating-Infographics-Illustrator/119011-2.html)
+* [CS1501 graphics and data visualization at University of Virginia](http://kevin.4mcveys.com/CS1501/)
 
 ### Data cleansing
 
@@ -84,6 +85,10 @@ A quick take on the **tools section**: there are so many out there that it is vi
 
 * [All the Wget Commands You Should Know](http://www.labnol.org/software/wget-command-examples/28750/)
 
+### Others
+
+* [How to get started with GitHub for Dummies (Journalists)](http://www.interhacktives.com/2015/05/04/how-to-get-started-with-github-for-dummies-journalists/)
+
 {:.text-center img}
 ![Data journalism key people]({{ site.urlimg }}media/key-people-in-data-journalism.jpg "Data journalism key people")
 
@@ -92,6 +97,8 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Simon Rogers](https://twitter.com/smfrogers)
 * [Mike Bostock](https://twitter.com/mbostock)
 * [Martin Stabe](https://twitter.com/martinstabe)
+
+* [Gloal Data Journalists Directory](https://jplusplus.github.io/global-directory/)
 
 {:.text-center img}
 ![Data journalism websites]({{ site.urlimg }}media/data-journalism-website.jpeg "Data journalism websites")
@@ -110,6 +117,11 @@ A quick take on the **tools section**: there are so many out there that it is vi
 
 * [The Guardian Datablog](http://www.theguardian.com/data)
 * [The Upshot](http://www.nytimes.com/section/upshot)
+
+### Others
+
+* [A data journalism awesome list on GitHub](https://github.com/infoculture/awesome-datajournalism)
+
 
 
 
