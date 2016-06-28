@@ -85,6 +85,10 @@ A quick take on the **tools section**: there are so many out there that it is vi
 
 * [All the Wget Commands You Should Know](http://www.labnol.org/software/wget-command-examples/28750/)
 
+### Python
+
+* [Introduction to Data Science - Using Python in the newsroom](https://tswicegood.github.io/python-data-science-intro/index.html)
+
 ### Others
 
 * [How to get started with GitHub for Dummies (Journalists)](http://www.interhacktives.com/2015/05/04/how-to-get-started-with-github-for-dummies-journalists/)
