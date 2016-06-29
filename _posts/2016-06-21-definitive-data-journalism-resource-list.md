@@ -102,7 +102,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Mike Bostock](https://twitter.com/mbostock)
 * [Martin Stabe](https://twitter.com/martinstabe)
 
-* [Gloal Data Journalists Directory](https://jplusplus.github.io/global-directory/)
+* [Global Data Journalists Directory](https://jplusplus.github.io/global-directory/)
 
 {:.text-center img}
 ![Data journalism websites]({{ site.urlimg }}media/data-journalism-website.jpeg "Data journalism websites")
