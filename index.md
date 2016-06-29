@@ -11,7 +11,7 @@ description: A simple yet efficient datablog by Damiano Bacci
 
 ## I want to learn data journalism
 
-A good place to start is [**the definitive data journalism resources list**](https://damianobacci.github.io/blog/definitive-data-journalism-resource-list), updated nearly *every day*. Do you prefer printed content? Check the [**book's post**](https://damianobacci.github.io/blog/data-journalism-books-must-read) on the [blog](https://damianobacci.github.io/blog/)!
+A good place to start is [**the definitive data journalism resources list**](https://damianobacci.github.io/blog/definitive-data-journalism-resource-list), updated nearly *every day*. Otherwise you can take a seat in the [**Youtube channel**](https://www.youtube.com/channel/UCQxZG3hOv8nZvWdH9619dsw). Do you prefer printed content? Check the [**book's post**](https://damianobacci.github.io/blog/data-journalism-books-must-read) on the [blog](https://damianobacci.github.io/blog/)!
 
 ## What about you?
 
