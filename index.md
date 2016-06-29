@@ -9,11 +9,11 @@ description: A simple yet efficient datablog by Damiano Bacci
 
 *data journalism for wannabes* is a collection of [data stories](https://damianobacci.github.io/tags/#data+stories), [thoughts](https://damianobacci.github.io/tags/#thoughts) and [tutorials](http://damianobacci.github.io/tags/#tutorial). It will serve as a platform to share [my works](http://damianobacci.github.io/tags/#experiments) and knowledge on various data journalism topics. At the beginning, this blog used [Wordpress](http://wordpress.org), but since it's very limited I decided to migrate to [Jekyll](https://jekyllrb.com), which was the best decision ever. **Enjoy!**
 
-## I want to learn data journalism
+## "I want to learn data journalism"
 
 A good place to start is [**the definitive data journalism resources list**](https://damianobacci.github.io/blog/definitive-data-journalism-resource-list), updated nearly *every day*. Otherwise you can take a seat in the [**Youtube channel**](https://www.youtube.com/channel/UCQxZG3hOv8nZvWdH9619dsw). Do you prefer printed content? Check the [**book's post**](https://damianobacci.github.io/blog/data-journalism-books-must-read) on the [blog](https://damianobacci.github.io/blog/)!
 
-## What about you?
+## "What about you?"
 
 If you want to check my other stuff, you can find everything on [my personal webpage](http://www.damianobacci.net).
 
