@@ -79,6 +79,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### General tutorials about data journalism
 
 * [Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
+* [School of Data course](http://schoolofdata.org/courses/#SchoolOfDataJourn)
 * [Managing Data Journalism Projects](http://learno.net/courses/managing-data-journalism-projects)
 
 ### Infographics
@@ -88,10 +89,16 @@ A quick take on the **tools section**: there are so many out there that it is vi
 
 ### Data cleansing
 
+* [A Gentle Introduction to Data Cleaning](http://schoolofdata.org/courses/#IntroDataCleaning)
 * [Useful recipes for achieving certain tasks in OpenRefine](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
+
+### Mapping
+
+* [A Gentle Introduction to Mapping](http://schoolofdata.org/courses/#GentleIntroMapping)
 
 ### Scraping
 
+* [A gentle Introduction into Extracting Data](http://schoolofdata.org/courses/#GentleIntroExtractingData)
 * [Making data on the web useful: scraping](http://schoolofdata.org/handbook/courses/scraping/)
 * [HTML Scraping — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/scenarios/scrape/)
 * [Beginner's guide to Web Scraping in Python (using BeautifulSoup)](http://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
@@ -101,6 +108,10 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### Python
 
 * [Introduction to Data Science - Using Python in the newsroom](https://tswicegood.github.io/python-data-science-intro/index.html)
+
+### Database
+
+* [Introduction into Exploring Data](http://schoolofdata.org/courses/#IntroExploringData)
 
 ### Others
 
