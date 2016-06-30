@@ -83,10 +83,16 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [School of Data data journalism course](http://schoolofdata.org/courses/#SchoolOfDataJourn)
 * [Managing Data Journalism Projects](http://learno.net/courses/managing-data-journalism-projects)
 
-### Infographics
+### Data visualization
+
+#### Infographics
 
 * [Creating Infographics with Illustrator](https://www.lynda.com/Illustrator-tutorials/Creating-Infographics-Illustrator/119011-2.html)
 * [CS1501 graphics and data visualization at University of Virginia](http://kevin.4mcveys.com/CS1501/)
+
+#### D3.js
+
+* [A playlist of D3.js' tutorials on Youtube](https://www.youtube.com/playlist?list=PLBaP9n-tgnz_z0KjJX6AfD3PGSJ_judmR)
 
 ### Data cleansing
 
@@ -109,6 +115,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### Python
 
 * [Introduction to Data Science - Using Python in the newsroom](https://tswicegood.github.io/python-data-science-intro/index.html)
+* [A playlist of Python's tutorials on Youtube](https://www.youtube.com/playlist?list=PLBaP9n-tgnz9iBXJPfDQBehg0j2DWbOpX)
 
 ### Database
 
