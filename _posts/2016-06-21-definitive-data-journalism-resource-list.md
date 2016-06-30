@@ -42,6 +42,8 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Google Charts](https://developers.google.com/chart/)
 * [Highcharts](http://www.highcharts.com/)
 * [Chartblocks](http://www.chartblocks.com/en/)
+* [D3.js](https://d3js.org/)
+* [D3plus](http://d3plus.org/)
 
 ### Scraping
 
@@ -50,6 +52,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Table Capture](https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop)
 * [Wget](https://www.gnu.org/software/wget/manual/html_node/Overview.html#Overview)
 * [Portia](http://scrapinghub.com/portia/)
+* [Import.io](https://www.import.io/)
 
 ### Interactive data visualization
 
@@ -61,6 +64,11 @@ A quick take on the **tools section**: there are so many out there that it is vi
 
 * [Pageflow](http://pageflow.io/en)
 * [Atavist](https://atavist.com/)
+* [Timeline JS](https://timeline.knightlab.com/)
+
+### Data Cleansing
+
+* [OpenRefine](http://openrefine.org/)
 
 {:.text-center img}
 ![Data journalism tutorials]({{ site.urlimg }}media/data-journalism-tutorial.jpg "Data journalism tutorials")
@@ -83,6 +91,10 @@ A quick take on the **tools section**: there are so many out there that it is vi
 
 ### Scraping
 
+* [Making data on the web useful: scraping](http://schoolofdata.org/handbook/courses/scraping/)
+* [HTML Scraping — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/scenarios/scrape/)
+* [Beginner's guide to Web Scraping in Python (using BeautifulSoup)](http://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
+* [Scraping and Data Mining for Beginners and Pros ](https://www.udemy.com/scraping-and-data-mining-for-beginners-and-pros/)
 * [All the Wget Commands You Should Know](http://www.labnol.org/software/wget-command-examples/28750/)
 
 ### Python
@@ -116,6 +128,9 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### Data visualization
 
 * [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
+* [A Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html)
+* [A curated list of awesome data visualization libraries and resources](https://github.com/fasouto/awesome-dataviz)
+* [A Survival Guide for Data Visualisation](http://datadrivenjournalism.net/resources/A_Survival_Guide_for_Data_Visualisation)
 
 ### Datablogs
 
