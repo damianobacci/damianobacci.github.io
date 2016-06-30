@@ -44,6 +44,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Chartblocks](http://www.chartblocks.com/en/)
 * [D3.js](https://d3js.org/)
 * [D3plus](http://d3plus.org/)
+* [Datamatic](http://datamatic.co/)
 
 ### Scraping
 
@@ -66,7 +67,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Atavist](https://atavist.com/)
 * [Timeline JS](https://timeline.knightlab.com/)
 
-### Data Cleansing
+### Data cleansing
 
 * [OpenRefine](http://openrefine.org/)
 
