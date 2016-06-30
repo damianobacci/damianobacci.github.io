@@ -79,7 +79,8 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### General tutorials about data journalism
 
 * [Doing Journalism with Data: First Steps, Skills and Tools](http://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools)
-* [School of Data course](http://schoolofdata.org/courses/#SchoolOfDataJourn)
+* [School of Data introduction to data](http://schoolofdata.org/courses/#DataFundamentals)
+* [School of Data data journalism course](http://schoolofdata.org/courses/#SchoolOfDataJourn)
 * [Managing Data Journalism Projects](http://learno.net/courses/managing-data-journalism-projects)
 
 ### Infographics
