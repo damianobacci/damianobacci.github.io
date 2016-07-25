@@ -89,10 +89,15 @@ A quick take on the **tools section**: there are so many out there that it is vi
 
 * [Creating Infographics with Illustrator](https://www.lynda.com/Illustrator-tutorials/Creating-Infographics-Illustrator/119011-2.html)
 * [CS1501 graphics and data visualization at University of Virginia](http://kevin.4mcveys.com/CS1501/)
+* [Alberto Cairo's collection of Illustrator tutorials](http://www.thefunctionalart.com/p/instructors-guide.html)
 
 #### D3.js
 
 * [A playlist of D3.js' tutorials on Youtube](https://www.youtube.com/playlist?list=PLBaP9n-tgnz_z0KjJX6AfD3PGSJ_judmR)
+
+#### R
+
+* [Alberto Cairo's personal collection of R resources](https://www.dropbox.com/s/gyqyz3hei7lhhmt/R_RESOURCES.txt?dl=0)
 
 ### Data cleansing
 
