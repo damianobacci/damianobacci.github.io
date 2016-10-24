@@ -20,4 +20,4 @@ As I'm currently writing **my thesis** on data journalism (hence the *brief hiat
 
 <!--more-->
 
-Applegreen, Nygrem; (*Data Journalism in Sweden*)[http://prova.com]
+Applegreen, Nygrem; [*Data Journalism in Sweden*](http://prova.com)
