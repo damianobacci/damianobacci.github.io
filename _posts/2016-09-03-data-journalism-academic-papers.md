@@ -2,7 +2,7 @@
 layout: post
 title: "A comprehensive list of data journalism-related academic papers"
 date: 2016-9-3
-category: 
+category:
   - views
 tag:
   - thoughts
@@ -19,3 +19,5 @@ nofollow: false
 As I'm currently writing **my thesis** on data journalism (hence the *brief hiatius* of the blog) **tools** I made this post to collect **every academic paper** related to data journalism.
 
 <!--more-->
+
+Applegreen, Nygrem; (*Data Journalism in Sweden*)[http://prova.com]
