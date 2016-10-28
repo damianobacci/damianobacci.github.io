@@ -16,7 +16,7 @@ noindex: false
 nofollow: false
 ---
 
-As I'm currently writing **my thesis** on data journalism (hence the *brief hiatius* of the blog) **tools** I made this post to collect **every academic paper** related to data journalism.
+As I'm currently writing **my thesis** on data journalism (hence the *brief hiatius* of the blog) I made this post to collect **every academic paper** related to data journalism.
 
 <!--more-->
 
