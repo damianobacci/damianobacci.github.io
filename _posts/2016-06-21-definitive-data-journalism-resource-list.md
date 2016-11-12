@@ -2,7 +2,7 @@
 layout: post
 title: "The definitive data journalism resources list"
 date: 2016-6-21
-category: 
+category:
   - views
   - featured
 tag:
@@ -19,7 +19,7 @@ noindex: false
 nofollow: false
 ---
 
-Through my research on the web, I stumble upon a lot of resources like **tools**, **websites** and **tutorials**. I'm already covering books [in another post](https://damianobacci.github.io/blog/data-journalism-books-must-read), I thought it would be interesting to collect *all the other stuff* here. 
+Through my research on the web, I stumble upon a lot of resources like **tools**, **websites** and **tutorials**. I'm already covering books [in another post](https://damianobacci.github.io/blog/data-journalism-books-must-read), I thought it would be interesting to collect *all the other stuff* here.
 
 <!--more-->
 
@@ -139,6 +139,8 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Simon Rogers](https://twitter.com/smfrogers)
 * [Mike Bostock](https://twitter.com/mbostock)
 * [Martin Stabe](https://twitter.com/martinstabe)
+* [Nicolas Kayser-Bril](https://twitter.com/nicolaskb)
+* []()
 
 * [Global Data Journalists Directory](https://jplusplus.github.io/global-directory/)
 
@@ -166,9 +168,5 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### Others
 
 * [A data journalism awesome list on GitHub](https://github.com/infoculture/awesome-datajournalism)
-
-
-
-
-
-
+* [JQuest: a elearning data journalism platform for students](http://www.jquestapp.com/)
+* []()
