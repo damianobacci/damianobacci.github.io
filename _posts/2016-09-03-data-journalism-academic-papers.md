@@ -20,6 +20,8 @@ As I'm currently writing **my thesis** on data journalism (hence the *brief hiat
 
 <!--more-->
 
+*Currently collecting links*
+
 - Antenore, M. (2015), **Data Journalism**, in «*Problemi dell’Informazione*», 3, pp. 664-667.
 - Appelgren, E., Nygren, G. (2014), **Data Journalism in Sweden: Introducing New Methods and Genres of Journalism into ‘Old’ Organizations**, in «*Digital Journalism*», 2, 3, pp. 394-405.
 - Di Salvo, P. (2014), **Piattaforme per il whistleblowing digitale** in «*Problemi dell’Informazione*», 3, pp. 461-465.
