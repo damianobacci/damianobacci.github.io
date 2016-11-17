@@ -3,7 +3,7 @@ layout: post
 title: Data Journalism at IJF16
 # date element overrides date in title format.
 date: 2016-4-16
-category: 
+category:
   - views
 tag:
   - tutorial
@@ -60,7 +60,7 @@ Let's dive in!
 * [**WebScraper extension**](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn) for Google Chrome
 * [**If This Then That**](https://ifttt.com/): an amazing website that connects a whole bunch of services on the Internet. As soon as something that you set up happens or triggers, it does something else (like collecting all Instagram pictures in a determined location)
 
-### Clean the data 
+### Clean the data
 
 * The evergreen [**OpenRefine**](http://openrefine.org/)
 * [Google Spreadsheets' **formulas**](https://support.google.com/docs/table/25273?hl=en), like `=split()`,`=trim()`,`=proper()` and `=clean`
