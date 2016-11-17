@@ -24,6 +24,8 @@ nofollow: false
 
 *Berlin, 12 – 20 November 2016*
 
+<!--more-->
+
 **People**
 *Nika* - Media production
 *Anastasia* - Schedule related
