@@ -19,7 +19,6 @@ nofollow: false
 Using [D3js](https://d3js.org/) I made this wordcloud from my notes at the [#DDJCamp in Berlin](http://www.youthpress.org/call-participants-data-driven-journalism/).
 
 <!--more-->
-<fieldset>
+
 <img src="https://damianobacci.github.io/images/wordcloud.svg" width="100%" height="auto">
 </img>
-</fieldset>
