@@ -20,6 +20,6 @@ Using [D3js](https://d3js.org/) I made this wordcloud from my notes at the [#DDJ
 
 <!--more-->
 
-<iframe src="https://damianobacci.github.io/images/wordcloud.svg">
+<iframe src="https://damianobacci.github.io/images/wordcloud.svg" width="500" height="500">
   Your browser does not support iframes
 </iframe>
