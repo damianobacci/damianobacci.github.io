@@ -21,4 +21,3 @@ Using [D3js](https://d3js.org/) I made this wordcloud from my notes at the [#DDJ
 <!--more-->
 
 <img src="https://damianobacci.github.io/images/wordcloud.svg" width="100%" height="auto">
-</img>
