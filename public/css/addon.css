@@ -1,1 +1,12 @@
 /*CSS pending minification*/
+
+iframe {
+    width:100%;
+    height:500px;
+}
+fieldset, legend {
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+}
