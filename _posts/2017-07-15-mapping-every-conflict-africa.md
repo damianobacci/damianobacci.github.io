@@ -29,7 +29,9 @@ There are many things that **I don't like** with this visualization, that mainly
 
 * the size of the circle should be proportional to the number of casualties
 * there should be different colours for the different type of conflicts
+* there should be a better way of selecting the actors involved
+* I only used victims and perpetrators to filter the dataset, the [codebook](http://www.acleddata.com/wp-content/uploads/2017/01/ACLED_Codebook_2017.pdf) also lists *interaction codes* (Military VS Military, Rebels VS Rioters, Military VS Civilians etc..) that are very interesting to investigate
 
-My plan is to build a lot of stories that can use this dataset (and a similar one of the [**Uppsala Conflict Data Program**](http://ucdp.uu.se/))
+My plan is to build various stories that can use this dataset as a source (and a similar one of the [**Uppsala Conflict Data Program**](http://ucdp.uu.se/)).
 
 <iframe width="100%" height="520" frameborder="0" src="https://damianobacci.carto.com/builder/9ea35fda-6d55-11e7-bcfc-0ef24382571b/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
