@@ -21,6 +21,8 @@ The **ACLED** (Armed Conflict Location and Data Event Project) is a project dire
 
 <!--more-->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CGNZnVduOc4" frameborder="0" allowfullscreen></iframe>
+
 This is a fantastic dataset that it's publicly available [here](http://www.acleddata.com/data/). You can feel that there is a huge number of stories about *struggle*, *death* and *conflicts* hidden between all those lines. It has been a big source for personal projects about Africa, and an invaluable piece of data that can help us understand what is going on through the entire continent.
 
 I tried to visualize here all the conflicts based on the number of fatalities on [CARTO](https://carto.com).
