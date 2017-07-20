@@ -3,7 +3,7 @@ layout: post
 title: Wrapping up 4 months in London (professionally speaking)
 # date element overrides date in title format.
 date: 2017-8-31
-description: "I 4 months I learned many things and met a lot of interesting people"
+description: "I 4 months I learned many things about this profession and met a lot of interesting people"
 category:
   - views
 tag:
