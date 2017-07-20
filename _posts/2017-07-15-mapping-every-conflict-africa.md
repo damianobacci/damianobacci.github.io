@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mapping every incidents in Africa"
-date: 2016-11-17
+date: 2017-07-15
 description: "Visualizing the troubled history of Africa"
 category:
   - views
