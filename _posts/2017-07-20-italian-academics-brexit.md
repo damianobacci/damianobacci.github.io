@@ -38,5 +38,3 @@ There are [multiple areas](https://www.theguardian.com/politics/ng-interactive/2
 Amidst all these negativity it's easy to imagine the academic sector in a similar situation: this is what is coming out from the survey of the **Impact of Brexit on Italian academics working in the UK**.
 
 To get a little bit of context, the Higher Education Statistics Agency ([HESA](https://www.hesa.ac.uk/data-and-analysis/staff)) has various statistics about the employment of the academic staff in British University.
-
-<iframe width="100%" height="520" frameborder="0" src="https://damianobacci.carto.com/builder/fa879806-6d56-11e7-8602-0e3a376473ab/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
