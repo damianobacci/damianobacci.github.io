@@ -20,8 +20,7 @@ nofollow: false
 The **ACLED** (Armed Conflict Location and Data Event Project) is a project directed by Professor [**Clionadh Raleigh**](http://www.sussex.ac.uk/profiles/320441) of the University of Sussex whose mission is to map every conflict event in Africa and South East Asia.
 
 <!--more-->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CGNZnVduOc4" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/CGNZnVduOc4' frameborder='0' allowfullscreen></iframe></div>
 (suggested listening)
 
 
