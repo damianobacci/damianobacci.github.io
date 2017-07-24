@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The definitive data journalism resources list"
-date: 2016-06-21
+date: "2016-06-21"
 category:
   - views
 tag:
