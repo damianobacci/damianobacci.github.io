@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Why AlboPop is very, very cool"
-date: "2017-07-24"
+title: Why AlboPop is very, very cool
+# date element overrides date in title format.
+date: 2017-7-24
 description: "AlboPop is a way of making "more popular" the official council board of Italian public administrations, often buried behind old and closed web services."
 category:
   - views

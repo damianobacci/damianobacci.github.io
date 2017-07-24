@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Italian academics and Brexit: an overview"
-date: "2017-07-20"
+title: Italian academics and Brexit: an overview
+# date element overrides date in title format.
+date: 2017-7-20
 description: "What is the future of a country who is kicking out academics?"
 category:
   - views
