@@ -4,7 +4,6 @@ title: "The definitive data journalism resources list"
 date: 2016-6-21
 category:
   - views
-  - featured
 tag:
   - tutorial
   - tool
