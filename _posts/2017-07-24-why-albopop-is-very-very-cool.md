@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Why AlboPop is very, very cool
-# date element overrides date in title format.
+title: "Why AlboPop is very, very cool"
 date: 2017-7-24
 description: "AlboPop is a way of making "more popular" the official council board of Italian public administrations, often buried behind old and closed web services."
 category:
@@ -35,7 +34,7 @@ You can think of the *albo pretorio* as a **public council noticeboard**, and I 
 {:.text-center img}
 ![Location of the Albo Pretorio on my municipality's website]({{ site.urlimg }}media/albo-pretorio-comune-narni.png "Location of the Albo Pretorio on my municipality's website") [Location of the Albo Pretorio on my municipality's website](http://www.comune.narni.tr.it/)
 
-All municipalities are required to have a link to the *albo pretorio* right on their homepage, but a problems arise when you 
+All municipalities are required to have a link to the *albo pretorio* right on their homepage, but a problems arise when you
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_a7g69kXn_o' frameborder='0' allowfullscreen></iframe></div>
 
