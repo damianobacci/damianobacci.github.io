@@ -41,15 +41,28 @@ All municipalities are required to have a link to the *albo pretorio* right on t
 Problems arise when you try to get updates on all the notices that are getting published every day (four or five per day): in the majority of *albi pretori* there is **no way in doing that**. That's because there is no standard for the platform of an online *albo pretorio*, so every municipality can potentially get a different system to manage it. Since every system work in a different way you can find yourself dealing with multiple way of organizing data, filtering and sorting it, etc...
 
 {:.text-center img}
-![Albo Pretorio of the Terni municipality]({{ site.urlimg }}media/albo-pretorio-terni.png "Albo Pretorio of the Terni municipality") [Albo Pretorio of the Terni municipality](http://www.comune.terni.it/albo-pretorio)
+![Albo Pretorio of Narni]({{ site.urlimg }}media/albo-pretorio-narni.png "Albo Pretorio of Narni") [Albo Pretorio of Narni](http://www.comune.terni.it/albo-pretorio)
 
-For example, here are other *albi pretori* from nearby *Comuni*:
+For example, here they are others *albi pretori* from nearby *Comuni*:
 
 {:.text-center img}
-![Location of the Albo Pretorio on my municipality's website]({{ site.urlimg }}media/albo-pretorio-comune-narni.png "Location of the Albo Pretorio on my municipality's website") [Location of the Albo Pretorio on my municipality's website](http://www.comune.narni.tr.it/)
+![Albo Pretorio of Terni]({{ site.urlimg }}media/albo-pretorio-terni.png "Albo Pretorio of Terni") [Albo Pretorio of Terni](http://www.comune.terni.it/albo-pretorio)
+
+{:.text-center img}
+![Albo Pretorio of Amelia]({{ site.urlimg }}media/albo-pretorio-amelia.png "Albo Pretorio of Amelia") [Albo Pretorio of Amelia](http://albopretorio.datamanagement.it/?ente=comunediamelia&tipoSubmit=ricerca)
+
+{:.text-center img}
+![Albo Pretorio of Spoleto]({{ site.urlimg }}media/albo-pretorio-spoleto.png "Albo Pretorio of Spoleto") [Albo Pretorio of Spoleto](http://www.comunespoleto.gov.it/nuovo-albo-pretorio/)
+
+{:.text-center img}
+![Albo Pretorio of Orvieto]({{ site.urlimg }}media/albo-pretorio-orvieto.png "Albo Pretorio of Orvieto") [Albo Pretorio of Orvieto](http://albopretorio.webred.it/albo-c001/home.html)
+
+As you can see, pretty much every *Comune* has a different method of managing its *albo pretorio*. Worst than that, there is no way to get updates when there is a new publication. Imagine being a citizen that wants to monitor public choices, contracts and so on: you are obliged to go to the website every day just to check if there are updates, and if you are not 100% committed you will probably lose interest during time.
+
+AlboPop is a way to overcome this situation. It will make "popular" the *albo pretorio* by integrating its feed in the social networks that you utilizes the most.
+
+### How AlboPop is done
+
 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_a7g69kXn_o' frameborder='0' allowfullscreen></iframe></div>
-
-{:.text-center img}
-![Rentswatch's quiz]({{ site.urlimg }}media/rentswatch-quiz.png "Rentswatch's quiz") [Rentswatch's quiz](http://www.rentswatch.com/#!/quiz/)
