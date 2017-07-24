@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A wordcloud made from notes of the #DDJCamp in Berlin"
-date: 2016-11-17
+title: A wordcloud made from notes of the #DDJCamp in Berlin
+date: "2016-11-17"
 category:
   - views
 tag:

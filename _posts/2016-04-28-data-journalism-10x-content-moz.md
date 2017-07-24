@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How Rand Fishkin and Moz can help us be better journalists"
-date: 2016-5-26
+date: "2016-5-26"
 description: "Are SEO and good journalism made of the same principles? Random thoughts about data journalism and 10X content."
-category: 
+category:
   - views
 tag:
   - thoughts
@@ -20,11 +20,11 @@ Are SEO and good journalism made of the same principles? Random thoughts about d
 
 <!--more-->
 
-As I approach **the end** of my master's degree, I realized that I studied a broad spectrum of things during these years. I chose my degree to focus on **traditional journalism** (my models were incredible people like [**Ryszard Kapuściński**](https://en.wikipedia.org/wiki/Ryszard_Kapu%C5%9Bci%C5%84ski), [**Anna Politkovskaya**](https://en.wikipedia.org/wiki/Anna_Politkovskaya) and [**Indro Montanelli**](https://en.wikipedia.org/wiki/Indro_Montanelli)) but I found myself really interested into other forms of journalism like **data journalism** (as this blog may have suggested to you), or even totally different subjects, like **social media management**, **digital marketing** and **web development**. 
+As I approach **the end** of my master's degree, I realized that I studied a broad spectrum of things during these years. I chose my degree to focus on **traditional journalism** (my models were incredible people like [**Ryszard Kapuściński**](https://en.wikipedia.org/wiki/Ryszard_Kapu%C5%9Bci%C5%84ski), [**Anna Politkovskaya**](https://en.wikipedia.org/wiki/Anna_Politkovskaya) and [**Indro Montanelli**](https://en.wikipedia.org/wiki/Indro_Montanelli)) but I found myself really interested into other forms of journalism like **data journalism** (as this blog may have suggested to you), or even totally different subjects, like **social media management**, **digital marketing** and **web development**.
 
-But let's not digress too much: with my interest in [**SEO**](https://en.wikipedia.org/wiki/Search_engine_optimization) growing and thanks to the help of my good friend [Monokoma](http://www.wearecomplicated.net/), who is a freelancer web developer and SEO consultant, I began to study on sites like [**Backlinko**](http://backlinko.com/), [**Search Engine Land**](http://searchengineland.com/) and of course the greatest of all: [**Moz**](https://moz.com/blog). 
+But let's not digress too much: with my interest in [**SEO**](https://en.wikipedia.org/wiki/Search_engine_optimization) growing and thanks to the help of my good friend [Monokoma](http://www.wearecomplicated.net/), who is a freelancer web developer and SEO consultant, I began to study on sites like [**Backlinko**](http://backlinko.com/), [**Search Engine Land**](http://searchengineland.com/) and of course the greatest of all: [**Moz**](https://moz.com/blog).
 
-## Moz and Rand Fishkin 
+## Moz and Rand Fishkin
 
 {:.text-center img}
 ![How Rand Fishkin and Moz can help us be better journalists]({{ site.urlimg }}media/rand-fishkin-moz-data-journalism.jpg "How Rand Fishkin and Moz can help us be better journalists") Image from [*Craft of Marketing*](http://craftofmarketing.com/rand-fishkin/)
@@ -66,7 +66,3 @@ The matter remains open, but right now I'm pretty much sure that this is what we
 * I'm going to look at **information and data elements**. Where are they pulling from? **What are their sources**? **What's the quality of that stuff**? What types of information is there? **What types of information is missing**?
 
 Turns out that **they can help us to be better journalists**, if we focus on the **extreme quality** of our writing and how can we make the readers **more informed** on a specific topic. With the *transparency on data* and *methodology* that comes with data journalism, as data journalists we may be better prepared for the future of our job.
-
-
-
-

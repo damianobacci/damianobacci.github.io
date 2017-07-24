@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "A tree map of the Italian government spendings"
-date: 2016-6-22
-category: 
+date: "2016-6-22"
+category:
   - views
 tag:
   - experiments
@@ -89,10 +89,3 @@ Tree map delle spese del governo italiano.
     .draw()             // draw the viz!
 </script>
 {% endhighlight %}
-
-
-
-
-
-
-

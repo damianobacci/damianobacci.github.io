@@ -2,7 +2,7 @@
 layout: post
 title: Data Story n°1 - Confiscati Bene
 # date element overrides date in title format.
-date: 2016-6-2
+date: "2016-6-2"
 description: "Data Story is a section of the website that provides an overview on a brilliant journalism project involving data. This time I talk about Confiscati Bene, an italian project collecting datasets of assets seized from the mafia."
 category:
   - views
@@ -18,7 +18,7 @@ noindex: false
 nofollow: false
 ---
 
-*Data Story* is a section of the website that provides an overview on **a brilliant journalism project involving data**. This time I talk about [**Confiscati Bene**](http://www.confiscatibene.it/), an italian project collecting datasets of assets seized from the mafia. 
+*Data Story* is a section of the website that provides an overview on **a brilliant journalism project involving data**. This time I talk about [**Confiscati Bene**](http://www.confiscatibene.it/), an italian project collecting datasets of assets seized from the mafia.
 
 <!--more-->
 
@@ -27,7 +27,7 @@ nofollow: false
 [**Organized crimes**](https://en.wikipedia.org/wiki/Organized_crime_in_Italy) is still a big problem in Italy. Recently, the italian police seized [something like **500 million €**](http://www.globaltimes.cn/content/975192.shtml) (563 million $) in a raid against the Iannazzo crime family of the [**'Ndrangheta**](https://en.wikipedia.org/wiki/%27Ndrangheta), the most powerful crime syndicate in the country.
 
 > The seized assets included 53 plots of real estate and farmland, 24 commercial buildings, 27 vehicles and shares of at least 21 companies, the organized crime investigation group of Italy's finance police said in a statement. [...]
-One of the region's largest shopping centers was among the properties taken by the Italian authorities. 
+One of the region's largest shopping centers was among the properties taken by the Italian authorities.
 
 
 Basically, [organized crime makes a ton of money every year](http://www.theguardian.com/world/2014/mar/26/ndrangheta-mafia-mcdonalds-deutsche-bank-study). A report by [The Organised Crime Portfolio](http://www.ocportfolio.eu/) (OCP) estimates that the annual revenue for illicit markets in Italy may be as high as **29.480 millions €** (that includes *drugs, human and firearm trafficking*, *counterfeiting*, *extortion racketeering* and frauds*).
@@ -60,7 +60,7 @@ ID code throughout the recovery process, and this makes
 it impossible tracing the assets throughout the whole
 process.
 
-These limitations still apply to Italy, even if in a smaller part. Italy has got **four databases about confiscated goods**: 
+These limitations still apply to Italy, even if in a smaller part. Italy has got **four databases about confiscated goods**:
 
 * **SIPPI (SIT-MP) Database**, managed by the *Ministry of Justice*
 * **SAC Database**, managed by the *Criminal Analysis Service – Servizio Analisi Criminale* (**SAC**) of the *Ministry of the Interior*

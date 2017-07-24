@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Every data journalism books available on the Internet"
-date: 2016-5-18
+date: "2016-5-18"
 description: "You can find pretty much anything you want on the Internet about data journalism. However, sometimes it's better to start from books, to get a clear view on the specific topic. Here's a list of must-read books about data journalism."
-category: 
+category:
   - views
 tag:
   - book
@@ -98,7 +98,7 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Buy from Amazon.com">
 </a>
 
-### Effective Data Visualization: The Right Chart for the Right Data 
+### Effective Data Visualization: The Right Chart for the Right Data
 
 <a href="https://www.amazon.com/gp/product/1506303056/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1506303056&linkCode=as2&tag=damianobacci-20&linkId=96f96c2515e68b7e46e0ed5fe02ac537"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1506303056&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=damianobacci-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=damianobacci-20&l=am2&o=1&a=1506303056" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="https://www.amazon.com/gp/product/1506303056/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1506303056&linkCode=as2&tag=damianobacci-20&linkId=96f96c2515e68b7e46e0ed5fe02ac537">
@@ -214,5 +214,3 @@ You can read and download the book for free [on GitBook](https://www.gitbook.com
 <a href="http://www.amazon.it/gp/product/8898837216/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8898837216&linkCode=as2&tag=divagaz20-21">
   <img src="https://damianobacci.github.io/images//media/amazon_button.png" alt="Compra da Amazon.it">
 </a>
-
-

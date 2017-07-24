@@ -2,7 +2,7 @@
 layout: post
 title: Data Story n°2 - Rentswatch
 # date element overrides date in title format.
-date: 2016-6-10
+date: "2016-6-10"
 description: "Data Story is a section of the website that provides an overview on a brilliant journalism project involving data. This time I talk about Rentswatch, an project done by the folks at Journalism++ tracking rent's price in Europe."
 category:
   - views

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "A tree map of the Unseen64 archive"
-date: 2016-6-23
-category: 
+date: "2016-6-23"
+category:
   - views
 tag:
   - experiments
@@ -30,7 +30,7 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
 
 <div id="container" style="min-width: 300px; max-width: 700px; margin: 0 auto">
 </div>
-        
+
 <script type="text/javascript">
 
     $('#container').highcharts({
@@ -334,10 +334,3 @@ Using [Highcharts](http://www.highcharts.com/) I picture all the games in the [U
 </script>
 
 {% endhighlight %}
-
-
-
-
-
-
-
