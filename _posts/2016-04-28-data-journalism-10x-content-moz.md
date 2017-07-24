@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Rand Fishkin and Moz can help us be better journalists"
-date: "2016-5-26"
+date: 2016-5-26
 description: "Are SEO and good journalism made of the same principles? Random thoughts about data journalism and 10X content."
 category:
   - views

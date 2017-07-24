@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A tree map of the Italian government spendings"
-date: "2016-6-22"
+date: 2016-6-22
 category:
   - views
 tag:

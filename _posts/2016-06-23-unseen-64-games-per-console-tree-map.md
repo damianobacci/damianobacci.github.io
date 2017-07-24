@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A tree map of the Unseen64 archive"
-date: "2016-6-23"
+date: 2016-6-23
 category:
   - views
 tag:
