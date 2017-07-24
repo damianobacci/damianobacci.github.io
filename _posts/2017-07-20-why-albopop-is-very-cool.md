@@ -21,6 +21,9 @@ nofollow: false
 
 <!--more-->
 
+{:.text-center img}
+![AlboPop]({{ site.urlimg }}media/albo-pop.png "AlboPop")
+
 ### What is an *Albo Pretorio*?
 
 In the Italian administrative system, an *albo pretorio* is a space where public administrations are obliged by law to publish all sorts of news and notices of public interest for the community.
@@ -38,7 +41,7 @@ All municipalities are required to have a link to the *albo pretorio* right on t
 {:.text-center img}
 ![Location of the Albo Pretorio on my municipality's website]({{ site.urlimg }}media/albo-pretorio-comune-narni.png "Location of the Albo Pretorio on my municipality's website") [Location of the Albo Pretorio on my municipality's website](http://www.comune.narni.tr.it/)
 
-Problems arise when you try to get updates on all the notices that are getting published every day (four or five per day): in the majority of *albi pretori* there is **no way in doing that**. That's because there is no standard for the platform of an online *albo pretorio*, so every municipality can potentially get a different system to manage it. Since every system work in a different way you can find yourself dealing with multiple way of organizing data, filtering and sorting it, etc...
+Problems arise when you try to get updates on all the notices that are getting published every day (four or five per day): in the majority of *albi pretori* there is **no way in doing that**. That's because there is no standard for the platform of an online *albo pretorio*, so every municipality can potentially get a different system to manage it. Since every system works in a different way you can find yourself dealing with multiple way of organizing data, filtering and sorting it, etc...
 
 {:.text-center img}
 ![Albo Pretorio of Narni]({{ site.urlimg }}media/albo-pretorio-narni.png "Albo Pretorio of Narni") [Albo Pretorio of Narni](http://www.comune.terni.it/albo-pretorio)
