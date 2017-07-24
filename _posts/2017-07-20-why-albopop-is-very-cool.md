@@ -23,18 +23,31 @@ nofollow: false
 
 ### What is an *Albo Pretorio*?
 
-In the Italian administrative system, an *albo pretorio* is a space where public administrations are obliged by law to publish all sorts of news and notices of public interest for the community. You ca
+In the Italian administrative system, an *albo pretorio* is a space where public administrations are obliged by law to publish all sorts of news and notices of public interest for the community.
 
 The *Comune* is the Italian word for municipality, a single urban administrative division having corporate status and powers of self-government or jurisdiction, and in Italy it represents the smallest administrative power. All *Comuni* are required to have an *albo pretorio* where they can publish their notices. These notices can be decrees, order, regulations, call for council meeting and many different public announcements concerning the local community.
 
 You can think of the *albo pretorio* as a **public council noticeboard**, and I think that a comparable example (albeit more limited) with the UK reality could be the [modern.gov app](https://play.google.com/store/apps/details?id=uk.co.moderngov.modgov&feature=search_result#?t=W251bGwsMSwyLDEsInVrLmNvLm1vZGVybmdvdi5tb2Rnb3YiXQ)
 
+The *albo pretorio* is an important way for the citizen to be aware and engaged about all the choices and process of the public administration, but unfortunately it's not so easy to have a proper access to these informations.
+
 #### Albo Pretorio Online
+
+All municipalities are required to have a link to the *albo pretorio* right on their homepage.
 
 {:.text-center img}
 ![Location of the Albo Pretorio on my municipality's website]({{ site.urlimg }}media/albo-pretorio-comune-narni.png "Location of the Albo Pretorio on my municipality's website") [Location of the Albo Pretorio on my municipality's website](http://www.comune.narni.tr.it/)
 
-All municipalities are required to have a link to the *albo pretorio* right on their homepage, but a problems arise when you
+Problems arise when you try to get updates on all the notices that are getting published every day (four or five per day): in the majority of *albi pretori* there is **no way in doing that**. That's because there is no standard for the platform of an online *albo pretorio*, so every municipality can potentially get a different system to manage it. Since every system work in a different way you can find yourself dealing with multiple way of organizing data, filtering and sorting it, etc...
+
+{:.text-center img}
+![Albo Pretorio of the Terni municipality]({{ site.urlimg }}media/albo-pretorio-terni.png "Albo Pretorio of the Terni municipality") [Albo Pretorio of the Terni municipality](http://www.comune.terni.it/albo-pretorio)
+
+For example, here are other *albi pretori* from nearby *Comuni*:
+
+{:.text-center img}
+![Location of the Albo Pretorio on my municipality's website]({{ site.urlimg }}media/albo-pretorio-comune-narni.png "Location of the Albo Pretorio on my municipality's website") [Location of the Albo Pretorio on my municipality's website](http://www.comune.narni.tr.it/)
+
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_a7g69kXn_o' frameborder='0' allowfullscreen></iframe></div>
 
