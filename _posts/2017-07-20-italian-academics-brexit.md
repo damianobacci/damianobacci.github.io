@@ -25,9 +25,6 @@ Unfortunately the picture that it's coming out from this survey is a little bit 
 
 The **negative effects** of Brexit are looming on the UK, and negotiations still have an aura of **terrible outcome**, judging from the interests at stake. British and EU officials met Monday in Brussels to discuss, and everyone was quick to roast the British delegation:
 
-<blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">EU Team: 100 pages of documents<br>Brexit Team: big smiles<a href="https://twitter.com/hashtag/preparation?src=hash">#preparation</a> <a href="https://twitter.com/FT">@FT</a><a href="https://t.co/0wNEjZ7Pow">https://t.co/0wNEjZ7Pow</a> <a href="https://t.co/scxKG5sqCx">pic.twitter.com/scxKG5sqCx</a></p>&mdash; Alberto Gallo (@macrocredit) <a href="https://twitter.com/macrocredit/status/886927230236061696">17 luglio 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">Ha! Very funny Michel. As if we would forget to bring our negotiating papers.... <a href="https://t.co/mcfjiHGyMb">pic.twitter.com/mcfjiHGyMb</a></p>&mdash; Alex Barker (@alexebarker) <a href="https://twitter.com/alexebarker/status/886868644935979008">17 luglio 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
