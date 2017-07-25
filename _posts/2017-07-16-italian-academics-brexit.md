@@ -35,7 +35,7 @@ There are [multiple areas](https://www.theguardian.com/politics/ng-interactive/2
 </div>
 
 <div class="mobileShow">
-<img src="uk-banking-jobs.png">
+<img src="https://damianobacci.github.io/images/media/uk-banking-jobs.png">
 </div>
 
 The **pharmacheutical industry** could also [follow them fast](http://bruegel.org/2017/05/pharmaceutical-industry-at-risk-from-brexit/):
