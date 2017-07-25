@@ -34,7 +34,7 @@ You can think of the *albo pretorio* as a **public council noticeboard**, and I 
 
 The *albo pretorio* is an **important way** for the citizen to be **aware** and **engaged** about all the choices and process of the public administration: it's a precise stream of informations and data that it's **vital** for citizens. Unfortunately it's not so easy to have a proper access to these informations, and this is **harming our power to be informed** and **made correct decisions**.
 
-#### Albo Pretorio Online
+### Albo Pretorio Online
 
 All municipalities are required to have a link to the *albo pretorio* right on their homepage:
 
@@ -59,10 +59,14 @@ For example, here are others *albi pretori* from Narni's nearby *Comuni*:
 
 As you can see, pretty much every *Comune* has a **different method** of managing its *albo pretorio*. Worst than that, there is **no way to get updates** when there is a new publication. Imagine being a citizen that wants to **monitor public choices, contracts** and so on: you are obliged to go to the website **every day** just to check if there are updates, and if you are not 100% committed you will probably lose interest during time.
 
-AlboPop is a way to overcome this situation. It will make "**popular**" the *albo pretorio* by **integrating its feed in the social networks** that you utilizes the most.
+**AlboPop** is a way to overcome this situation. It will make "**popular**" the *albo pretorio* by **integrating its feed in the social networks** that you utilizes the most.
 
 ### How AlboPop is done
 
+### Known Problems
 
+Of course nothing can be really safe forever when you are talking about **public administrations** and **computers**:
+
+* The scraper is currently collecting information based on a p
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_a7g69kXn_o' frameborder='0' allowfullscreen></iframe></div>

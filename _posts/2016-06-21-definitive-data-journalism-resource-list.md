@@ -44,6 +44,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [D3.js](https://d3js.org/)
 * [D3plus](http://d3plus.org/)
 * [Datamatic](http://datamatic.co/)
+* [Sankeymatic](http://sankeymatic.com)
 
 ### Scraping
 
@@ -65,6 +66,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Pageflow](http://pageflow.io/en)
 * [Atavist](https://atavist.com/)
 * [Timeline JS](https://timeline.knightlab.com/)
+* [Napa-Cards, Narrative Patterns for Data-Driven Storytelling](http://napa-cards.net/)
 
 ### Data cleansing
 
