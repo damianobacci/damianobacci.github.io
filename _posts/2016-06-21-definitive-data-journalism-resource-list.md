@@ -46,6 +46,10 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Datamatic](http://datamatic.co/)
 * [Sankeymatic](http://sankeymatic.com)
 
+### Mapping
+
+* [Blueshift.io](https://blueshift.io/)
+
 ### Scraping
 
 * [Tabula](http://tabula.dataninja.it/)
@@ -132,23 +136,11 @@ A quick take on the **tools section**: there are so many out there that it is vi
 
 * [How to get started with GitHub for Dummies (Journalists)](http://www.interhacktives.com/2015/05/04/how-to-get-started-with-github-for-dummies-journalists/)
 
-{:.text-center img}
-![Data journalism key people]({{ site.urlimg }}media/key-people-in-data-journalism.jpg "Data journalism key people")
+## Other stuff
 
-## Key People
-
-* [Simon Rogers](https://twitter.com/smfrogers)
-* [Mike Bostock](https://twitter.com/mbostock)
-* [Martin Stabe](https://twitter.com/martinstabe)
-* [Nicolas Kayser-Bril](https://twitter.com/nicolaskb)
-* []()
+### Key People
 
 * [Global Data Journalists Directory](https://jplusplus.github.io/global-directory/)
-
-{:.text-center img}
-![Data journalism websites]({{ site.urlimg }}media/data-journalism-website.jpeg "Data journalism websites")
-
-## Websites
 
 ### General websites about data journalism
 
@@ -161,13 +153,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [A curated list of awesome data visualization libraries and resources](https://github.com/fasouto/awesome-dataviz)
 * [A Survival Guide for Data Visualisation](http://datadrivenjournalism.net/resources/A_Survival_Guide_for_Data_Visualisation)
 
-### Datablogs
-
-* [The Guardian Datablog](http://www.theguardian.com/data)
-* [The Upshot](http://www.nytimes.com/section/upshot)
-
 ### Others
 
 * [A data journalism awesome list on GitHub](https://github.com/infoculture/awesome-datajournalism)
 * [JQuest: a elearning data journalism platform for students](http://www.jquestapp.com/)
-* []()
