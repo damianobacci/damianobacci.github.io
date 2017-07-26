@@ -45,63 +45,90 @@ The **pharmacheutical industry** could also [follow them fast](http://bruegel.or
 Amidst all these negativity it's easy to imagine the academic sector in a similar situation: this is what is coming out from the survey of the **Impact of Brexit on Italian academics working in the UK**.
 
 To get a little bit of context, the Higher Education Statistics Agency ([HESA](https://www.hesa.ac.uk/data-and-analysis/staff)) has various statistics about the employment of the academic staff in British University.
+<div id="pieChart"></div>
 
-<meta charset="utf-8">
-<style>
-
-.arc text {
-  font: 10px sans-serif;
-  text-anchor: middle;
-}
-
-.arc path {
-  stroke: #fff;
-}
-
-</style>
-<svg width="960" height="500"></svg>
-<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js"></script>
+<script src="http://damianobacci,github.io/files/d3pie.min.js"></script>
 <script>
-
-var svg = d3.select("svg"),
-    width = +svg.attr("width"),
-    height = +svg.attr("height"),
-    radius = Math.min(width, height) / 2,
-    g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-
-var color = d3.scaleOrdinal(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
-
-var pie = d3.pie()
-    .sort(null)
-    .value(function(d) { return d.population; });
-
-var path = d3.arc()
-    .outerRadius(radius - 10)
-    .innerRadius(0);
-
-var label = d3.arc()
-    .outerRadius(radius - 40)
-    .innerRadius(radius - 40);
-
-d3.csv("https://damianobacci.github.io/files/data.csv", function(d) {
-  d.population = +d.population;
-  return d;
-}, function(error, data) {
-  if (error) throw error;
-
-  var arc = g.selectAll(".arc")
-    .data(pie(data))
-    .enter().append("g")
-      .attr("class", "arc");
-
-  arc.append("path")
-      .attr("d", path)
-      .attr("fill", function(d) { return color(d.data.age); });
-
-  arc.append("text")
-      .attr("transform", function(d) { return "translate(" + label.centroid(d) + ")"; })
-      .attr("dy", "0.35em")
-      .text(function(d) { return d.data.age; });
+var pie = new d3pie("pieChart", {
+	"header": {
+		"title": {
+			"text": "Italian staff in UK: Distribution by ERC macro area",
+			"fontSize": 22,
+			"font": "verdana"
+		},
+		"subtitle": {
+			"color": "#999999",
+			"fontSize": 10,
+			"font": "verdana"
+		},
+		"titleSubtitlePadding": 12
+	},
+	"footer": {
+		"color": "#999999",
+		"fontSize": 11,
+		"font": "open sans",
+		"location": "bottom-center"
+	},
+	"size": {
+		"canvasHeight": 400,
+		"canvasWidth": 590,
+		"pieInnerRadius": "44%",
+		"pieOuterRadius": "96%"
+	},
+	"data": {
+		"content": [
+			{
+				"label": "Social Sciences and Humanities",
+				"value": 2052,
+				"color": "#7e3838"
+			},
+			{
+				"label": "Physics and Engineering",
+				"value": 1490,
+				"color": "#3b7e38"
+			},
+			{
+				"label": "Life Sciences",
+				"value": 1290,
+				"color": "#c1c52f"
+			}
+		]
+	},
+	"labels": {
+		"outer": {
+			"pieDistance": 32
+		},
+		"inner": {
+			"format": "value"
+		},
+		"mainLabel": {
+			"color": "#2f2c2c",
+			"font": "verdana"
+		},
+		"percentage": {
+			"color": "#e1e1e1",
+			"font": "verdana",
+			"decimalPlaces": 0
+		},
+		"value": {
+			"color": "#ffffff",
+			"font": "verdana"
+		},
+		"lines": {
+			"enabled": true,
+			"color": "#cccccc"
+		},
+		"truncation": {
+			"enabled": true
+		}
+	},
+	"effects": {
+		"pullOutSegmentOnClick": {
+			"effect": "linear",
+			"speed": 400,
+			"size": 8
+		}
+	}
 });
-
 </script>
