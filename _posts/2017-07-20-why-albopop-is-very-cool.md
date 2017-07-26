@@ -119,3 +119,9 @@ Or a **Telegram channel** (using a **Telegram bot**):
 
 {:.text-center img}
 ![Telegram channel of Narni's Albopop]({{ site.urlimg }}media/albopop-telegram.jpg "Telegram channel of Narni's Albopop")
+
+### So, why Albopop is very very cool?
+
+* Because now citizens have **another way to control** what their public administration is doing, it's **easier to get the notices** published on the *albo pretorio*, hence `the public administration is way more transparent`{:.yelhglt}.
+
+Technology has helped us to transform **closed (yet public) informations** to a **more viable format** that every citizen can now access, because it's now on a **more popular and shared platform**.
