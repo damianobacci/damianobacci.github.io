@@ -47,6 +47,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Sankeymatic](http://sankeymatic.com)
 * [d3pie.js](http://d3pie.org)
 * [dimple.js](http://dimplejs.org/)
+* [Bokeh](http://bokeh.pydata.org/en/latest/)
 
 ### Graphics
 
@@ -139,6 +140,10 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### Database
 
 * [Introduction into Exploring Data](http://schoolofdata.org/courses/#IntroExploringData)
+
+### Bots
+
+* [How to Make a Twitter Bot in Under an Hour](https://medium.com/science-friday-footnotes/how-to-make-a-twitter-bot-in-under-an-hour-259597558acf)
 
 ### Others
 
