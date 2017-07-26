@@ -46,6 +46,10 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Datamatic](http://datamatic.co/)
 * [Sankeymatic](http://sankeymatic.com)
 
+### Graphics
+
+* [Anime.js](http://animejs.com/)
+
 ### Mapping
 
 * [Blueshift.io](https://blueshift.io/)
@@ -135,6 +139,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### Others
 
 * [How to get started with GitHub for Dummies (Journalists)](http://www.interhacktives.com/2015/05/04/how-to-get-started-with-github-for-dummies-journalists/)
+* [An Introduction to APIs](https://zapier.com/learn/apis/)
 
 ## Other stuff
 
