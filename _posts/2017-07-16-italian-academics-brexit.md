@@ -46,7 +46,7 @@ Amidst all these negativity it's easy to imagine the academic sector in a simila
 
 To get a little bit of context, the Higher Education Statistics Agency ([HESA](https://www.hesa.ac.uk/data-and-analysis/staff)) has various statistics about the employment of the academic staff in British University.
 
-<div id="pieChart"></div>
+<div class="responsive" id="pieChart"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js"></script>
 <script src="https://damianobacci.github.io/files/d3pie.min.js"></script>
 <script>
