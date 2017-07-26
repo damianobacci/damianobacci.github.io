@@ -82,7 +82,7 @@ var label = d3.arc()
     .outerRadius(radius - 40)
     .innerRadius(radius - 40);
 
-d3.csv("http://damianobacci.github.io/files/it-academics.csv", function(d) {
+d3.csv("https://damianobacci.github.io/files/it-academics.csv", function(d) {
   d.population = +d.population;
   return d;
 }, function(error, data) {
