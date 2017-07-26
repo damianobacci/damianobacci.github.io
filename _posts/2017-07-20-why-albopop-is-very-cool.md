@@ -65,7 +65,7 @@ As you can see, pretty much every *Comune* has a **different method** of managin
 
 There are **multiple ways** to make an Albopop, but the key concept is always the same:
 
-* We have to build an `automatic scraper which goes to the webpage` of an albo pretorio and `scrapes particular informations that will be exported to a **Google Sheet**`{:.yelhglt}, a script will then `convert it to an **RSS feed** that can be published on **Facebook, Twitter and Telegram**`{:.yelhglt} using services like [**IFTTT**](https://ifttt.com/discover) or [**Zapier**](https://zapier.com/).
+* We have to build an `automatic scraper which goes to the webpage`{:.yelhglt} of an albo pretorio and `scrapes particular informations that will be exported to a Google Sheet`{:.yelhglt}, a script will then `convert it to an **RSS feed** that can be published on Facebook, Twitter and Telegram`{:.yelhglt} using services like [**IFTTT**](https://ifttt.com/discover) or [**Zapier**](https://zapier.com/).
 
 #### Known Problems
 
