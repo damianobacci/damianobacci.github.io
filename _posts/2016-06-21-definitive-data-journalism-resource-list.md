@@ -45,6 +45,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [D3plus](http://d3plus.org/)
 * [Datamatic](http://datamatic.co/)
 * [Sankeymatic](http://sankeymatic.com)
+* [d3pie.js](http://d3pie.org)
 
 ### Graphics
 

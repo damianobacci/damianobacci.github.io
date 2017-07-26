@@ -45,9 +45,9 @@ The **pharmacheutical industry** could also [follow them fast](http://bruegel.or
 Amidst all these negativity it's easy to imagine the academic sector in a similar situation: this is what is coming out from the survey of the **Impact of Brexit on Italian academics working in the UK**.
 
 To get a little bit of context, the Higher Education Statistics Agency ([HESA](https://www.hesa.ac.uk/data-and-analysis/staff)) has various statistics about the employment of the academic staff in British University.
-<div id="pieChart"></div>
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js"></script>
+<div id="pieChart"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js"></script>
 <script src="http://damianobacci,github.io/files/d3pie.min.js"></script>
 <script>
 var pie = new d3pie("pieChart", {
