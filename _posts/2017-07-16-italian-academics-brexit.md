@@ -59,9 +59,10 @@ To get a little bit of context, the Higher Education Statistics Agency ([HESA](h
 
 </style>
 <script src="https://d3js.org/d3.v4.min.js"></script>
+<svg id="viz" width="600" height="600"></svg>
 <script>
 
-var svg = d3.select("svg"),
+var svg = d3.select("#viz"),
     width = +svg.attr("width"),
     height = +svg.attr("height"),
     radius = Math.min(width, height) / 2,
@@ -102,4 +103,3 @@ d3.csv("https://damianobacci.github.io/files/it-academics.csv", function(d) {
       .text(function(d) { return d.data.age; });
 });
 </script>
-<svg width="600" height="600"></svg>
