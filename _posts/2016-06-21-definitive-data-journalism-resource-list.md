@@ -46,6 +46,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Datamatic](http://datamatic.co/)
 * [Sankeymatic](http://sankeymatic.com)
 * [d3pie.js](http://d3pie.org)
+* [dimple.js](http://dimplejs.org/)
 
 ### Graphics
 
@@ -104,6 +105,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 #### D3.js
 
 * [A playlist of D3.js' tutorials on Youtube](https://www.youtube.com/playlist?list=PLBaP9n-tgnz_z0KjJX6AfD3PGSJ_judmR)
+* [Scott Murray’s D3 Tutorials](http://alignedleft.com/tutorials/d3/)
 
 #### R
 

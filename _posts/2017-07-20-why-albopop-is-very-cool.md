@@ -63,10 +63,16 @@ As you can see, pretty much every *Comune* has a **different method** of managin
 
 ### How AlboPop is done
 
-### Known Problems
+There are **multiple ways** to make an Albopop, but the key concept is always the same:
 
-Of course nothing can be really safe forever when you are talking about **public administrations** and **computers**:
+* We have to build an `automatic scraper which goes to the webpage` of an albo pretorio and `scrapes particular informations that will be exported to a **Google Sheet**`{:.yelhglt}, a script will then `convert it to an **RSS feed** that can be published on **Facebook, Twitter and Telegram**`{:.yelhglt} using services like [**IFTTT**](https://ifttt.com/discover) or [**Zapier**](https://zapier.com/).
 
-* The scraper is currently collecting information based on a p
+#### Known Problems
+
+Of course there can be issues, especiallu when you are talking about **public administrations** and **computers**:
+
+* All the notices could be behind a system using cookies to validate the session
+* Infos could only be get through an AJAX request
+* The scraper could stop to work if the structure of the webpage is suddenly changes
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_a7g69kXn_o' frameborder='0' allowfullscreen></iframe></div>
