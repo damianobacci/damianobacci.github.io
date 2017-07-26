@@ -106,6 +106,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 
 * [A playlist of D3.js' tutorials on Youtube](https://www.youtube.com/playlist?list=PLBaP9n-tgnz_z0KjJX6AfD3PGSJ_judmR)
 * [Scott Murray’s D3 Tutorials](http://alignedleft.com/tutorials/d3/)
+* [D3.js Step by Step](http://zeroviscosity.com/d3-js-step-by-step/step-1-a-basic-pie-chart)
 
 #### R
 
@@ -160,6 +161,8 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [A Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html)
 * [A curated list of awesome data visualization libraries and resources](https://github.com/fasouto/awesome-dataviz)
 * [A Survival Guide for Data Visualisation](http://datadrivenjournalism.net/resources/A_Survival_Guide_for_Data_Visualisation)
+* [d3.js example list](http://christopheviau.com/d3list/gallery.html)
+* [Over 2000 D3.js Examples and Demos](http://techslides.com/over-2000-d3-js-examples-and-demos)
 
 ### Others
 

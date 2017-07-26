@@ -21,6 +21,8 @@ nofollow: false
 
 <!--more-->
 
+**AlboPop** is a way of making ‘more popular’ the **official council board** (also knows as *albo pretorio*) of Italian public administrations, often buried behind **old and closed web services**, by **integrating its feed into social networks**.
+
 {:.text-center img}
 ![AlboPop]({{ site.urlimg }}media/albo-pop.png "AlboPop")
 
@@ -65,14 +67,35 @@ As you can see, pretty much every *Comune* has a **different method** of managin
 
 There are **multiple ways** to make an Albopop, but the key concept is always the same:
 
-* We have to build an `automatic scraper which goes to the webpage`{:.yelhglt} of an albo pretorio and `scrapes particular informations that will be exported to a Google Sheet`{:.yelhglt}, a script will then `convert it to an **RSS feed** that can be published on Facebook, Twitter and Telegram`{:.yelhglt} using services like [**IFTTT**](https://ifttt.com/discover) or [**Zapier**](https://zapier.com/).
+* We have to build an `automatic scraper which goes to the webpage`{:.yelhglt} of an albo pretorio and `fetches particular informations that will be exported to a Google Sheet`{:.yelhglt}, a script will then `convert it to an RSS feed that can be published on Facebook, Twitter and Telegram`{:.yelhglt} using services like [**IFTTT**](https://ifttt.com/discover) or [**Zapier**](https://zapier.com/).
 
 #### Known Problems
 
 Of course there can be issues, especiallu when you are talking about **public administrations** and **computers**:
 
-* All the notices could be behind a system using cookies to validate the session
-* Infos could only be get through an AJAX request
-* The scraper could stop to work if the structure of the webpage is suddenly changes
+* All the notices could be behind a system using **cookies** to validate the session
+* Infos can only be get through an **AJAX request**
+* The scraper could stop to work if the **structure of the webpage is suddenly changed**
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_a7g69kXn_o' frameborder='0' allowfullscreen></iframe></div>
+### AlboPop of Narni
+
+Let's take a look on an easy example: the [AlboPop of Narni](http://albopop.it/comune/narni/).
+
+The *Albo Pretorio* of Narni's municipality is hosted on a **common management platform** for municipality in Italy called [**Halleyweb**](http://www.halley.it/home/include/mostra_foto_allegato.php?servizio_egov=sa&idtesto=63&&nodo=nodo26), and this makes easier to scrape information on the page.
+
+The basic part of the operations is having the `IMPORTXML` function on a Google Sheet to scrape content, and using **XPATH queries** to direct the scraping to the elements that we want (these will be the **description** of the notice, what **type** of notice is, the **publication and end date** and eventually a **link** to attachments)
+
+XPATH queries are located in a subsheet called *meta*, which contains other informations (author, specs, geolocation):
+
+{:.text-center img}
+![Google Sheet of an Albopop]({{ site.urlimg }}media/albopop-sheet.png "Google Sheet of an Albopop")
+
+All the informations are located in the subsheet *raccolta* (collection), and then they are refined and filtered in another subsheet called *clean*, so we can have exact and ordered infos:
+
+{:.text-center img}
+![Google Sheet of an Albopop]({{ site.urlimg }}media/albopop-sheet2.png "Google Sheet of an Albopop")
+
+Now it's time to **transform this text into a RSS feed**, and this process is done with a script created by [**Matteo Fortini**](https://twitter.com/matt_fortini):
+
+{:.text-center img}
+![2RSS script]({{ site.urlimg }}media/albopop-2rss.png "2RSS script")
