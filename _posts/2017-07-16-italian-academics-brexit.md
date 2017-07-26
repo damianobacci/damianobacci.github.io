@@ -46,6 +46,7 @@ Amidst all these negativity it's easy to imagine the academic sector in a simila
 
 To get a little bit of context, the Higher Education Statistics Agency ([HESA](https://www.hesa.ac.uk/data-and-analysis/staff)) has various statistics about the employment of the academic staff in British University.
 
+<meta charset="utf-8">
 <style>
 
 .arc text {
@@ -58,11 +59,11 @@ To get a little bit of context, the Higher Education Statistics Agency ([HESA](h
 }
 
 </style>
+<svg width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
-<svg id="viz" width="600" height="600"></svg>
 <script>
 
-var svg = d3.select("#viz"),
+var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height"),
     radius = Math.min(width, height) / 2,
@@ -72,7 +73,7 @@ var color = d3.scaleOrdinal(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d5
 
 var pie = d3.pie()
     .sort(null)
-    .value(function(d) { return d.number; });
+    .value(function(d) { return d.population; });
 
 var path = d3.arc()
     .outerRadius(radius - 10)
@@ -82,8 +83,8 @@ var label = d3.arc()
     .outerRadius(radius - 40)
     .innerRadius(radius - 40);
 
-d3.csv("https://damianobacci.github.io/files/it-academics.csv", function(d) {
-  d.number = +d.number;
+d3.csv("https://damianobacci.github.io/files/data.csv", function(d) {
+  d.population = +d.population;
   return d;
 }, function(error, data) {
   if (error) throw error;
@@ -95,11 +96,12 @@ d3.csv("https://damianobacci.github.io/files/it-academics.csv", function(d) {
 
   arc.append("path")
       .attr("d", path)
-      .attr("fill", function(d) { return color(d.data.sector); });
+      .attr("fill", function(d) { return color(d.data.age); });
 
   arc.append("text")
       .attr("transform", function(d) { return "translate(" + label.centroid(d) + ")"; })
       .attr("dy", "0.35em")
-      .text(function(d) { return d.data.sector; });
+      .text(function(d) { return d.data.age; });
 });
+
 </script>
