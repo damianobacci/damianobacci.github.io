@@ -72,7 +72,7 @@ var color = d3.scaleOrdinal(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d5
 
 var pie = d3.pie()
     .sort(null)
-    .value(function(d) { return d.population; });
+    .value(function(d) { return d.number; });
 
 var path = d3.arc()
     .outerRadius(radius - 10)
@@ -83,7 +83,7 @@ var label = d3.arc()
     .innerRadius(radius - 40);
 
 d3.csv("https://damianobacci.github.io/files/it-academics.csv", function(d) {
-  d.population = +d.population;
+  d.number = +d.number;
   return d;
 }, function(error, data) {
   if (error) throw error;
@@ -95,11 +95,11 @@ d3.csv("https://damianobacci.github.io/files/it-academics.csv", function(d) {
 
   arc.append("path")
       .attr("d", path)
-      .attr("fill", function(d) { return color(d.data.age); });
+      .attr("fill", function(d) { return color(d.data.sector); });
 
   arc.append("text")
       .attr("transform", function(d) { return "translate(" + label.centroid(d) + ")"; })
       .attr("dy", "0.35em")
-      .text(function(d) { return d.data.age; });
+      .text(function(d) { return d.data.sector; });
 });
 </script>
