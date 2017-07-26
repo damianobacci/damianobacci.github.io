@@ -108,14 +108,14 @@ When the script is deployed it generates our **RSS Feed** that we can then expor
 Then it's pretty easy to set up an integration with a **Facebook page**:
 
 {:.text-center img}
-![Facebook page of Narni's Albopop]({{ site.urlimg }}media/albopop-tw.png "Facebook page of Narni's Albopop")
+![Facebook page of Narni's Albopop]({{ site.urlimg }}media/albopop-fb.jpg "Facebook page of Narni's Albopop")
 
 A **Twitter account**:
 
 {:.text-center img}
-![Twitter account of Narni's Albopop]({{ site.urlimg }}media/albopop-fb.png "Facebook page of Narni's Albopop")
+![Twitter account of Narni's Albopop]({{ site.urlimg }}media/albopop-tw.jpg "Facebook page of Narni's Albopop")
 
 Or a **Telegram channel** (using a **Telegram bot**):
 
 {:.text-center img}
-![Telegram channel of Narni's Albopop]({{ site.urlimg }}media/albopop-telegram.png "Telegram channel of Narni's Albopop")
+![Telegram channel of Narni's Albopop]({{ site.urlimg }}media/albopop-telegram.jpg "Telegram channel of Narni's Albopop")
