@@ -58,7 +58,7 @@ To get a little bit of context, the Higher Education Statistics Agency ([HESA](h
 }
 
 </style>
-<svg width="960" height="500"></svg>
+<svg width="600" height="600"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
