@@ -48,7 +48,7 @@ To get a little bit of context, the Higher Education Statistics Agency ([HESA](h
 
 <div id="pieChart"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js"></script>
-<script src="http://damianobacci,github.io/files/d3pie.min.js"></script>
+<script src="https://damianobacci,github.io/files/d3pie.min.js"></script>
 <script>
 var pie = new d3pie("pieChart", {
 	"header": {
