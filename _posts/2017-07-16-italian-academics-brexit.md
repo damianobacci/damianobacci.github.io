@@ -138,7 +138,7 @@ var pie = new d3pie("pieChart", {
 <img src="https://damianobacci.github.io/images/media/it-academics.png">
 </div>
 
-<svg id="grafico" width="640" height="300"></svg>
+<svg id="grafico" width="500" height="300"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -202,7 +202,7 @@ d3.csv("https://damianobacci.github.io/files/data.csv", function(d, i, columns) 
       .attr("fill", "#000")
       .attr("font-weight", "bold")
       .attr("text-anchor", "start")
-      .text("Population");
+      .text("Percentage %");
 
   var legend = g.append("g")
       .attr("font-family", "sans-serif")
