@@ -56,6 +56,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 ### Mapping
 
 * [Blueshift.io](https://blueshift.io/)
+* [MapboxGL](https://www.mapbox.com/mapbox-gl-js/api/)
 
 ### Scraping
 
