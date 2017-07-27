@@ -138,7 +138,7 @@ var pie = new d3pie("pieChart", {
 <img src="https://damianobacci.github.io/images/media/it-academics.png">
 </div>
 
-<svg id="grafico" width="500" height="300"></svg>
+<svg id="grafico" width="590" height="300"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
