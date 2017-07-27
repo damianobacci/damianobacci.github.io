@@ -136,6 +136,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [Introduction to Data Science - Using Python in the newsroom](https://tswicegood.github.io/python-data-science-intro/index.html)
 * [Python tutorial on Codeacademy](https://www.codecademy.com/learn/python)
 * [A playlist of Python's tutorials on Youtube](https://www.youtube.com/playlist?list=PLBaP9n-tgnz9iBXJPfDQBehg0j2DWbOpX)
+* [First Python Notebook](http://www.firstpythonnotebook.org/)
 
 ### Database
 
