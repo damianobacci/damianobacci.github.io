@@ -138,6 +138,13 @@ var pie = new d3pie("pieChart", {
 <img src="https://damianobacci.github.io/images/media/it-academics.png">
 </div>
 
+### Intention to leave
+
+> Are you thinking about leaving the UK?
+
+
+
+<div class="mobileHide">
 <svg id="grafico" width="590" height="300"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
@@ -202,7 +209,7 @@ d3.csv("https://damianobacci.github.io/files/data.csv", function(d, i, columns) 
       .attr("fill", "#000")
       .attr("font-weight", "bold")
       .attr("text-anchor", "start")
-      .text("Percentage %");
+      .text("Pctge %");
 
   var legend = g.append("g")
       .attr("font-family", "sans-serif")
@@ -225,5 +232,61 @@ d3.csv("https://damianobacci.github.io/files/data.csv", function(d, i, columns) 
       .attr("dy", "0.32em")
       .text(function(d) { return d; });
 });
+
+</script>
+</div>
+
+<script src="//d3js.org/d3.v4.min.js"></script>
+<script>
+
+var width = 960,
+    height = 1060;
+
+var format = d3.format(",d");
+
+var color = d3.scaleOrdinal()
+    .range(d3.schemeCategory10
+        .map(function(c) { c = d3.rgb(c); c.opacity = 0.6; return c; }));
+
+var stratify = d3.stratify()
+    .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
+
+var treemap = d3.treemap()
+    .size([width, height])
+    .padding(1)
+    .round(true);
+
+d3.csv("flare.csv", type, function(error, data) {
+  if (error) throw error;
+
+  var root = stratify(data)
+      .sum(function(d) { return d.value; })
+      .sort(function(a, b) { return b.height - a.height || b.value - a.value; });
+
+  treemap(root);
+
+  d3.select("body")
+    .selectAll(".node")
+    .data(root.leaves())
+    .enter().append("div")
+      .attr("class", "node")
+      .attr("title", function(d) { return d.id + "\n" + format(d.value); })
+      .style("left", function(d) { return d.x0 + "px"; })
+      .style("top", function(d) { return d.y0 + "px"; })
+      .style("width", function(d) { return d.x1 - d.x0 + "px"; })
+      .style("height", function(d) { return d.y1 - d.y0 + "px"; })
+      .style("background", function(d) { while (d.depth > 1) d = d.parent; return color(d.id); })
+    .append("div")
+      .attr("class", "node-label")
+      .text(function(d) { return d.id.substring(d.id.lastIndexOf(".") + 1).split(/(?=[A-Z][^A-Z])/g).join("\n"); })
+    .append("div")
+      .attr("class", "node-value")
+      .text(function(d) { return format(d.value); });
+});
+
+function type(d) {
+  d.value = +d.value;
+  return d;
+}
 
 </script>
