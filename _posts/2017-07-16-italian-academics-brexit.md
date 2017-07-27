@@ -137,11 +137,11 @@ var pie = new d3pie("pieChart", {
 <div class="mobileShow">
 <img src="https://damianobacci.github.io/images/media/it-academics.png">
 </div>
-<div id="grafico">
-<svg  width="400" height="200"></svg>
-</div>
+
+<svg id="grafico" width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
+
 var svg = d3.select("#grafico"),
     margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = +svg.attr("width") - margin.left - margin.right,
@@ -225,4 +225,5 @@ d3.csv("https://damianobacci.github.io/files/data.csv", function(d, i, columns) 
       .attr("dy", "0.32em")
       .text(function(d) { return d; });
 });
+
 </script>
