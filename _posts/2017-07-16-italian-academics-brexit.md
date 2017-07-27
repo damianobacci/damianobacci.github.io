@@ -209,7 +209,7 @@ d3.csv("https://damianobacci.github.io/files/data.csv", function(d, i, columns) 
       .attr("fill", "#000")
       .attr("font-weight", "bold")
       .attr("text-anchor", "start")
-      .text("Pctge %");
+      .text("Pct %");
 
   var legend = g.append("g")
       .attr("font-family", "sans-serif")
