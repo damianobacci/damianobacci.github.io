@@ -162,7 +162,7 @@ London hosts the largest number of italian academics with a total of 2,042 membe
 }
 
 </style>
-<svg id="grafico2" width="590" height="300"></svg>
+<svg id="grafico2" width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
