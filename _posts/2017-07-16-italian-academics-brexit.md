@@ -147,66 +147,82 @@ var pie = new d3pie("pieChart", {
 
 London hosts the largest number of italian academics with a total of 2,042 members (35% of the total Italian academic community)
 
-<style>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
 
-.bar {
-  fill: steelblue;
-}
+<div id="container" style="min-width:590px; height: 300px; margin: 0 auto"></div>
 
-.axis--x path {
-  display: none;
-}
-
-</style>
-<svg id="prova" width="590" height="300"></svg>
-<script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
-
-var chart2 = d3.select("#prova"),
-    margin2 = {top: 20, right: 20, bottom: 30, left: 40},
-    width2 = +chart2.attr("width") - margin2.left - margin2.right,
-    height2 = +chart2.attr("height") - margin2.top - margin2.bottom;
-
-var x = d3.scaleBand().rangeRound([0, width2]).padding(0.1),
-    y = d3.scaleLinear().rangeRound([height2, 0]);
-
-var g2 = chart2.append("g")
-    .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
-
-d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
-  d.frequency = +d.frequency;
-  return d;
-}, function(error, data) {
-  if (error) throw error;
-
-  x.domain(data.map(function(d) { return d.letter; }));
-  y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
-
-  g2.append("g")
-      .attr("class", "axis axis--x")
-      .attr("transform", "translate(0," + height2 + ")")
-      .call(d3.axisBottom(x));
-
-  g2.append("g")
-      .attr("class", "axis axis--y")
-      .call(d3.axisLeft(y).ticks(10, "%"))
-    .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", "0.71em")
-      .attr("text-anchor", "end")
-      .text("Frequency");
-
-  g2.selectAll(".bar")
-    .data(data)
-    .enter().append("rect")
-      .attr("class", "bar")
-      .attr("x", function(d) { return x(d.letter); })
-      .attr("y", function(d) { return y(d.frequency); })
-      .attr("width", x.bandwidth())
-      .attr("height", function(d) { return height2 - y(d.frequency); });
+Highcharts.chart('container', {
+    chart: {
+        type: 'column'
+    },
+    title: {
+        text: 'World\'s largest cities per 2014'
+    },
+    subtitle: {
+        text: 'Source: <a href="http://en.wikipedia.org/wiki/List_of_cities_proper_by_population">Wikipedia</a>'
+    },
+    xAxis: {
+        type: 'category',
+        labels: {
+            rotation: -45,
+            style: {
+                fontSize: '13px',
+                fontFamily: 'Verdana, sans-serif'
+            }
+        }
+    },
+    yAxis: {
+        min: 0,
+        title: {
+            text: 'Population (millions)'
+        }
+    },
+    legend: {
+        enabled: false
+    },
+    tooltip: {
+        pointFormat: 'Population in 2008: <b>{point.y:.1f} millions</b>'
+    },
+    series: [{
+        name: 'Population',
+        data: [
+            ['Shanghai', 23.7],
+            ['Lagos', 16.1],
+            ['Istanbul', 14.2],
+            ['Karachi', 14.0],
+            ['Mumbai', 12.5],
+            ['Moscow', 12.1],
+            ['São Paulo', 11.8],
+            ['Beijing', 11.7],
+            ['Guangzhou', 11.1],
+            ['Delhi', 11.1],
+            ['Shenzhen', 10.5],
+            ['Seoul', 10.4],
+            ['Jakarta', 10.0],
+            ['Kinshasa', 9.3],
+            ['Tianjin', 9.3],
+            ['Tokyo', 9.0],
+            ['Cairo', 8.9],
+            ['Dhaka', 8.9],
+            ['Mexico City', 8.9],
+            ['Lima', 8.9]
+        ],
+        dataLabels: {
+            enabled: true,
+            rotation: -90,
+            color: '#FFFFFF',
+            align: 'right',
+            format: '{point.y:.1f}', // one decimal
+            y: 10, // 10 pixels down from the top
+            style: {
+                fontSize: '13px',
+                fontFamily: 'Verdana, sans-serif'
+            }
+        }
+    }]
 });
-
 </script>
 
 
