@@ -147,7 +147,7 @@ var pie = new d3pie("pieChart", {
 
 London hosts the largest number of italian academics with a total of 2,042 members (35% of the total Italian academic community)
 
-<svg id="prova"width="590" height="300"></svg>
+<svg id="prova" width="590" height="300"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
