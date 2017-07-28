@@ -230,7 +230,27 @@ Highcharts.chart('container', {
 
 > Are you thinking about leaving the UK?
 
+<script src="//d3plus.org/js/d3.js"></script>
+<script src="//d3plus.org/js/d3plus.js"></script>
 
+<div id="viz"></div>
+<script>
+
+  var sample_data = [
+    {"value": 27, "intention": "Yes"},
+    {"value": 18, "intention": "No"},
+    {"value": 55, "intention": "Maybe"},
+
+  ]
+  // instantiate d3plus
+  var visualization = d3plus.viz()
+    .container("#viz")  // container DIV to hold the visualization
+    .data(sample_data)  // data to use with the visualization
+    .type("tree_map")   // visualization type
+    .id("intention")         // key for which our data is unique on
+    .size("value")      // sizing of blocks
+    .draw()             // finally, draw the visualization!
+</script>
 
 <div class="mobileHide">
 <svg id="grafico" width="590" height="300"></svg>
