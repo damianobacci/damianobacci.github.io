@@ -45,6 +45,13 @@ The **pharmacheutical industry** could also [follow them fast](http://bruegel.or
 Amidst all these negativity it's easy to imagine the academic sector in a similar situation: this is what is coming out from the survey of the **Impact of Brexit on Italian academics working in the UK**.
 
 To get a little bit of context, the Higher Education Statistics Agency ([HESA](https://www.hesa.ac.uk/data-and-analysis/staff)) has various statistics about the employment of the academic staff in British University.
+
+In the academic year 2014/2015 more than **28% of the academic staff in the UK** were **non-UK nationals**; **16%** of the total were **EU nationals**. The  Italian academic community in the UK was composed in the same period of 5755  staff  members  in British  universities, **representing the  second largest foreign scientific community**. In addition, there are **6749 Italian PhD and master’s students** attending UK higher education institutions.
+
+All data below refers only to staff members.
+
+The average age of members of the *Italian  academic  community*  is  **38**. Of the three ERC domains, *Social Sciences and Humanities* (SH) is the most popular (**2,052** Italian academics), followed by *Physics and Engineering* (PE, **1,490** Italian academics) and *Life Sciences* (LS, **1,290**).
+
 <div class="mobileHide">
 <div id="pieChart"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js"></script>
@@ -137,6 +144,9 @@ var pie = new d3pie("pieChart", {
 <div class="mobileShow">
 <img src="https://damianobacci.github.io/images/media/it-academics.png">
 </div>
+
+London hosts the largest number of italian academics with a total of 2,042 membersn(35% ofnthe total Italian academic community)
+
 
 ### Intention to leave
 
