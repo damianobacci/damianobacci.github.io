@@ -171,10 +171,10 @@ var svg2 = d3.select("#prova"),
     width = +svg2.attr("width") - margin.left - margin.right,
     height = +svg2.attr("height") - margin.top - margin.bottom;
 
-var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
-    y = d3.scaleLinear().rangeRound([height, 0]);
+var x2 = d3.scaleBand().rangeRound([0, width]).padding(0.1),
+    y2 = d3.scaleLinear().rangeRound([height, 0]);
 
-var g = svg2.append("g")
+var g2 = svg2.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
@@ -186,12 +186,12 @@ d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
   x.domain(data.map(function(d) { return d.letter; }));
   y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
 
-  g.append("g")
+  g2.append("g")
       .attr("class", "axis axis--x")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x));
 
-  g.append("g")
+  g2.append("g")
       .attr("class", "axis axis--y")
       .call(d3.axisLeft(y).ticks(10, "%"))
     .append("text")
@@ -201,7 +201,7 @@ d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
       .attr("text-anchor", "end")
       .text("Frequency");
 
-  g.selectAll(".bar")
+  g2.selectAll(".bar")
     .data(data)
     .enter().append("rect")
       .attr("class", "bar")
