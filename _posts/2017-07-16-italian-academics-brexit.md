@@ -235,19 +235,17 @@ Highcharts.chart('container', {
 
 <div id="viz" width="590" height="300"></div>
 <script>
-
   var sample_data = [
-    {"value": 27, "intention": "Yes"},
-    {"value": 18, "intention": "No"},
-    {"value": 55, "intention": "Maybe"},
+    {"Intention %": 27, "name": "Yes"},
+    {"Intention %": 18, "name": "No"},
+    {"Intention %": 55, "name": "Maybe"},
 
   ]
-  // instantiate d3plus
   var visualization = d3plus.viz()
     .container("#viz")  // container DIV to hold the visualization
     .data(sample_data)  // data to use with the visualization
     .type("tree_map")   // visualization type
-    .id("intention")         // key for which our data is unique on
+    .id("name")         // key for which our data is unique on
     .size("value")      // sizing of blocks
     .draw()             // finally, draw the visualization!
 </script>
