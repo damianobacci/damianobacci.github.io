@@ -166,15 +166,15 @@ London hosts the largest number of italian academics with a total of 2,042 membe
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-var svg = d3.select("#prova"),
+var svg2 = d3.select("#prova"),
     margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = +svg.attr("width") - margin.left - margin.right,
-    height = +svg.attr("height") - margin.top - margin.bottom;
+    width = +svg2.attr("width") - margin.left - margin.right,
+    height = +svg2.attr("height") - margin.top - margin.bottom;
 
 var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
     y = d3.scaleLinear().rangeRound([height, 0]);
 
-var g = svg.append("g")
+var g = svg2.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
