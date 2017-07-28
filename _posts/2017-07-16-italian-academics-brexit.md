@@ -147,6 +147,7 @@ var pie = new d3pie("pieChart", {
 
 London hosts the largest number of italian academics with a total of 2,042 members (35% of the total Italian academic community)
 
+<svg id="prova" width="590" height="300"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -158,7 +159,7 @@ var chart2 = d3.select("#prova"),
 var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
     y = d3.scaleLinear().rangeRound([height, 0]);
 
-var g = chart2.append("g")
+var g2 = chart2.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
@@ -170,12 +171,12 @@ d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
   x.domain(data.map(function(d) { return d.letter; }));
   y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
 
-  g.append("g")
+  g2.append("g")
       .attr("class", "axis axis--x")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x));
 
-  g.append("g")
+  g2.append("g")
       .attr("class", "axis axis--y")
       .call(d3.axisLeft(y).ticks(10, "%"))
     .append("text")
@@ -185,7 +186,7 @@ d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
       .attr("text-anchor", "end")
       .text("Frequency");
 
-  g.selectAll(".bar")
+  g2.selectAll(".bar")
     .data(data)
     .enter().append("rect")
       .attr("class", "bar")
@@ -196,7 +197,7 @@ d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
 });
 
 </script>
-<svg id="prova" width="590" height="300"></svg>
+
 
 ### Intention to leave
 
