@@ -173,11 +173,8 @@ var x = d3.scaleBand().rangeRound([0, width2]).padding(0.1),
 var g2 = chart2.append("g")
     .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
 
-d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d, i, columns) {
-  for (var i = 1, n = columns.length; i < n; ++i) d[columns[i]] = +d[columns[i]];
-  return d;
-}, function(error, data) {
-  if (error) throw error;
+  d3.tsv("https://damianobacci.github.io/files/data.tsv", type, function(error, data) {
+    y.domain([0, d3.max(data, function(d) { return d.value; })]);
 
   x.domain(data.map(function(d) { return d.letter; }));
   y.domain([0, d3.max(data, function(d) { return d.number; })]);
