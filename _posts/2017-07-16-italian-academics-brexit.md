@@ -162,19 +162,19 @@ London hosts the largest number of italian academics with a total of 2,042 membe
 }
 
 </style>
-<svg id="prova" width="590" height="300"></svg>
+<div id="prova" width="590" height="300"></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-var svg2 = d3.select("#prova"),
+var chart2 = d3.select("#prova"),
     margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = +svg2.attr("width") - margin.left - margin.right,
-    height = +svg2.attr("height") - margin.top - margin.bottom;
+    width = +chart2.attr("width") - margin.left - margin.right,
+    height = +chart2.attr("height") - margin.top - margin.bottom;
 
-var x2 = d3.scaleBand().rangeRound([0, width]).padding(0.1),
-    y2 = d3.scaleLinear().rangeRound([height, 0]);
+var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
+    y = d3.scaleLinear().rangeRound([height, 0]);
 
-var g2 = svg2.append("g")
+var g = chart2.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
@@ -186,12 +186,12 @@ d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
   x.domain(data.map(function(d) { return d.letter; }));
   y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
 
-  g2.append("g")
+  g.append("g")
       .attr("class", "axis axis--x")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x));
 
-  g2.append("g")
+  g.append("g")
       .attr("class", "axis axis--y")
       .call(d3.axisLeft(y).ticks(10, "%"))
     .append("text")
@@ -201,7 +201,7 @@ d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
       .attr("text-anchor", "end")
       .text("Frequency");
 
-  g2.selectAll(".bar")
+  g.selectAll(".bar")
     .data(data)
     .enter().append("rect")
       .attr("class", "bar")
