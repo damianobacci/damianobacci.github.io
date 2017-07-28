@@ -34,7 +34,7 @@ Since I strive to be *more international* every time I can, I also post content 
 
 ## Tools
 
-A quick take on the **tools section**: there are so many out there that it is virtually impossible to list everyone of them. Here I list my personal favourites (based on my limited experience), but you can find many more on [Data Journalism Tools](http://data-journalism-tools.silk.co/), [journalismtools.io](http://journalismtools.io/) and [Toolbox](http://iilab.github.io/influencemapping-toolbox/tools.html). In the future I'll add **WHY** these are the best for me, which I think it's more interesting to read rather than a list of names you can find anywhere.
+A quick take on the **tools section**: there are so many out there that it is virtually impossible to list everyone of them. Here I list my personal favourites (based on my limited experience), but you can find many more on [Data Journalism Tools](http://data-journalism-tools.silk.co/), [journalismtools.io](http://journalismtools.io/), and [Toolbox](http://iilab.github.io/influencemapping-toolbox/tools.html). In the future I'll add **WHY** these are the best for me, which I think it's more interesting to read rather than a list of names you can find anywhere.
 
 ### Charts
 
@@ -95,6 +95,7 @@ A quick take on the **tools section**: there are so many out there that it is vi
 * [School of Data introduction to data](http://schoolofdata.org/courses/#DataFundamentals)
 * [School of Data data journalism course](http://schoolofdata.org/courses/#SchoolOfDataJourn)
 * [Managing Data Journalism Projects](http://learno.net/courses/managing-data-journalism-projects)
+* [Accussì,...perché i tutorial sono il sudore delle persone che condividono conoscenza...](http://accussi.opendatasicilia.it/) (in coppia con [Petrusino](http://petrusino.opendatasicilia.it/))
 
 ### Data visualization
 
