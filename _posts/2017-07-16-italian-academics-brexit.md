@@ -221,15 +221,15 @@ d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
 
 
 <div class="mobileHide">
-<svg id="grafico" width="590" height="300"></svg>
+<div id="grafico" width="590" height="300"></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-var svg = d3.select("#grafico"),
+var chart1 = d3.select("#grafico"),
     margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = +svg.attr("width") - margin.left - margin.right,
-    height = +svg.attr("height") - margin.top - margin.bottom,
-    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    width = +chart1.attr("width") - margin.left - margin.right,
+    height = +chart1.attr("height") - margin.top - margin.bottom,
+    g = chart1.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 var x0 = d3.scaleBand()
     .rangeRound([0, width])
