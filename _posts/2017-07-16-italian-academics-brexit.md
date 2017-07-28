@@ -150,7 +150,7 @@ London hosts the largest number of italian academics with a total of 2,042 membe
 <script src="https://code.highcharts.com/highcharts.js"></script>
 <script src="https://code.highcharts.com/modules/exporting.js"></script>
 
-<div id="container" style="min-width:590px; height: 300px; margin: 0 auto"></div>
+<div id="container" style="min-width:630px; height: 350px; margin: 0 auto"></div>
 
 <script>
 Highcharts.chart('container', {
@@ -158,10 +158,7 @@ Highcharts.chart('container', {
         type: 'column'
     },
     title: {
-        text: 'World\'s largest cities per 2014'
-    },
-    subtitle: {
-        text: 'Source: <a href="http://en.wikipedia.org/wiki/List_of_cities_proper_by_population">Wikipedia</a>'
+        text: 'Italian staff in UK universities: number by city'
     },
     xAxis: {
         type: 'category',
@@ -176,38 +173,41 @@ Highcharts.chart('container', {
     yAxis: {
         min: 0,
         title: {
-            text: 'Population (millions)'
+            text: 'Numbers'
         }
     },
     legend: {
         enabled: false
     },
     tooltip: {
-        pointFormat: 'Population in 2008: <b>{point.y:.1f} millions</b>'
+        pointFormat: 'Italian staff in 20014/2015: <b>{point.y:.1f}</b>'
     },
     series: [{
-        name: 'Population',
+        name: 'Number',
         data: [
-            ['Shanghai', 23.7],
-            ['Lagos', 16.1],
-            ['Istanbul', 14.2],
-            ['Karachi', 14.0],
-            ['Mumbai', 12.5],
-            ['Moscow', 12.1],
-            ['São Paulo', 11.8],
-            ['Beijing', 11.7],
-            ['Guangzhou', 11.1],
-            ['Delhi', 11.1],
-            ['Shenzhen', 10.5],
-            ['Seoul', 10.4],
-            ['Jakarta', 10.0],
-            ['Kinshasa', 9.3],
-            ['Tianjin', 9.3],
-            ['Tokyo', 9.0],
-            ['Cairo', 8.9],
-            ['Dhaka', 8.9],
-            ['Mexico City', 8.9],
-            ['Lima', 8.9]
+            ['London', 2042],
+            ['Oxford', 333],
+            ['Cambridge', 269],
+            ['Birmingham', 240],
+            ['Manchester', 195],
+            ['Edimburgh', 163],
+            ['Glasgow', 151],
+            ['Notthingham', 137],
+            ['Southampton', 128],
+            ['Bristol', 118],
+            ['Liverpool', 97],
+            ['Brighton', 92],
+            ['Leicester', 91],
+            ['Leeds', 89],
+            ['Newcastle', 82],
+            ['Kent', 79],
+            ['Cardiff', 78],
+            ['Milton Keynes', 74],
+            ['Reading', 71],
+            ['Durham', 66],
+            ['Aberdeen', 62],
+            ['Belfast', 60],
+            ['Bath', 58]
         ],
         dataLabels: {
             enabled: true,
