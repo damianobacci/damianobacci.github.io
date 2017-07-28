@@ -153,10 +153,6 @@ London hosts the largest number of italian academics with a total of 2,042 membe
   fill: steelblue;
 }
 
-.bar:hover {
-  fill: brown;
-}
-
 .axis--x path {
   display: none;
 }
@@ -178,13 +174,13 @@ var g2 = chart2.append("g")
     .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
 
 d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
-  d.frequency = +d.frequency;
+  d.number = +d.number;
   return d;
 }, function(error, data) {
   if (error) throw error;
 
   x.domain(data.map(function(d) { return d.letter; }));
-  y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
+  y.domain([0, d3.max(data, function(d) { return d.number; })]);
 
   g2.append("g")
       .attr("class", "axis axis--x")
@@ -199,16 +195,16 @@ d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
       .attr("y", 6)
       .attr("dy", "0.71em")
       .attr("text-anchor", "end")
-      .text("Frequency");
+      .text("Number");
 
   g2.selectAll(".bar")
     .data(data)
     .enter().append("rect")
       .attr("class", "bar")
       .attr("x", function(d) { return x(d.letter); })
-      .attr("y", function(d) { return y(d.frequency); })
+      .attr("y", function(d) { return y(d.number); })
       .attr("width", x.bandwidth())
-      .attr("height", function(d) { return height2 - y(d.frequency); });
+      .attr("height", function(d) { return height2 - y(d.number); });
 });
 
 </script>
