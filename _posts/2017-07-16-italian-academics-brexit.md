@@ -233,7 +233,7 @@ Highcharts.chart('container', {
 <script src="//d3plus.org/js/d3.js"></script>
 <script src="//d3plus.org/js/d3plus.js"></script>
 
-<div id="viz"></div>
+<div id="viz" width="590" height="300"></div>
 <script>
 
   var sample_data = [
