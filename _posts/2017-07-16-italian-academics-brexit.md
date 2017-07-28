@@ -173,35 +173,38 @@ var x = d3.scaleBand().rangeRound([0, width2]).padding(0.1),
 var g2 = chart2.append("g")
     .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
 
-  d3.tsv("https://damianobacci.github.io/files/data.tsv", type, function(error, data) {
-    y.domain([0, d3.max(data, function(d) { return d.value; })]);
+d3.tsv("https://damianobacci.github.io/files/data.tsv", function(d) {
+  d.frequency = +d.frequency;
+  return d;
+}, function(error, data) {
+  if (error) throw error;
 
   x.domain(data.map(function(d) { return d.letter; }));
-  y.domain([0, d3.max(data, function(d) { return d.number; })]);
+  y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
 
   g2.append("g")
       .attr("class", "axis axis--x")
-      .attr("transform", "translate(0," + height2 + ")", "rotate(-90)")
+      .attr("transform", "translate(0," + height2 + ")")
       .call(d3.axisBottom(x));
 
   g2.append("g")
       .attr("class", "axis axis--y")
       .call(d3.axisLeft(y).ticks(10, "%"))
-    .append("number")
+    .append("text")
       .attr("transform", "rotate(-90)")
       .attr("y", 6)
       .attr("dy", "0.71em")
       .attr("text-anchor", "end")
-      .text("Number");
+      .text("Frequency");
 
   g2.selectAll(".bar")
     .data(data)
     .enter().append("rect")
       .attr("class", "bar")
       .attr("x", function(d) { return x(d.letter); })
-      .attr("y", function(d) { return y(d.number); })
+      .attr("y", function(d) { return y(d.frequency); })
       .attr("width", x.bandwidth())
-      .attr("height", function(d) { return height2 - y(d.number); });
+      .attr("height", function(d) { return height2 - y(d.frequency); });
 });
 
 </script>
