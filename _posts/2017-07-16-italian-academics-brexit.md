@@ -145,7 +145,7 @@ var pie = new d3pie("pieChart", {
 <img src="https://damianobacci.github.io/images/media/it-academics.png">
 </div>
 
-London hosts the largest number of italian academics with a total of 2,042 members (35% of the total Italian academic community)
+*London* hosts the **largest number** of italian academics with a total of **2,042** members (35% of the total Italian academic community). After London are **Oxford**, **Cambridge**, **Birmingham** and **Manchester**. In *Scotland*, the top two cities for Italian academic are **Edinburgh** and **Glasgow**.
 
 <script src="https://code.highcharts.com/highcharts.js"></script>
 <script src="https://code.highcharts.com/modules/exporting.js"></script>
