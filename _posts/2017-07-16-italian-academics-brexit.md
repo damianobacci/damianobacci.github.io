@@ -234,7 +234,7 @@ Highcharts.chart('container', {
 
 <svg width="220" height="220">
 <circle cx="110" cy="110" r="110" fill="#80BD9E" />
-<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Maybe</text>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="1.5px">Maybe</text>
 </svg>
 
 <svg width="108" height="108">
@@ -244,7 +244,7 @@ Highcharts.chart('container', {
 
 <svg width="72" height="72">
 <circle cx="36" cy="36" r="36" fill="#89DA59" />
-<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="3px">No</text>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="1.5px">No</text>
 </svg>
 </div>
 
