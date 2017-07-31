@@ -34,6 +34,12 @@ var dylanIcon = L.icon({
         iconSize: [38, 38],
         popupAnchor: [0,-15]
         });
+var ramonesIcon = L.icon({
+                iconUrl: 'https://damianobacci.github.io/images/media/ramones-icon.png',
+                iconSize: [38, 38],
+                popupAnchor: [0,-15]
+                });
 var marker = L.marker([40.73154, -74.01018], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Blonde on Blonde</h4><img src='https://damianobacci.github.io/images/media/dylan-blonde.jpg'><p>Cover photo by Jerry Schatzberg.</p><p>Album cover location: 375 West Street at Morton Street, Greenwich Village, New York City. (The building has been replaced.)</p>").addTo(map);
 var marker2 = L.marker([40.76860, -73.98149], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Modern Times</h4><img src='https://damianobacci.github.io/images/media/dylan-blonde.jpg'><p>The cover uses a Ted Croner photo from 1947, entitled 'Taxi, New York, Night.'</p><p>Album cover location: Columbus Circle (59th and Broadway), New York City.").addTo(map);
+var marker3 = L.marker([40.72514, -73.99061], {icon: ramonesIcon}).bindPopup("<h4>Ramones - Ramones</h4><img src='https://damianobacci.github.io/images/media/ramones-self.jpg'>").addTo(map);
 </script>
