@@ -230,6 +230,20 @@ Highcharts.chart('container', {
 
 > Are you thinking about leaving the UK?
 
+<div>
+<svg width="50" height="50">
+<circle cx="25" cy="25" r="25" fill="purple" />
+</svg>
+
+<svg width="50" height="50">
+<circle cx="25" cy="25" r="25" fill="purple" />
+</svg>
+
+<svg width="50" height="50">
+<circle cx="25" cy="25" r="25" fill="purple" />
+</svg>
+</div>
+
 <div class="mobileHide">
 <svg id="grafico" width="590" height="300"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
