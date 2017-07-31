@@ -233,15 +233,15 @@ Highcharts.chart('container', {
 <div>
 <svg width="50" height="50">
 <circle cx="25" cy="25" r="25" fill="purple" />
-</svg>
+</svg> YES
 
 <svg width="50" height="50">
 <circle cx="25" cy="25" r="25" fill="purple" />
-</svg>
+</svg> NO
 
 <svg width="50" height="50">
 <circle cx="25" cy="25" r="25" fill="purple" />
-</svg>
+</svg> MAYBE
 </div>
 
 <div class="mobileHide">
