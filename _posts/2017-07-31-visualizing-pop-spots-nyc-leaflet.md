@@ -17,7 +17,7 @@ noindex: false
 nofollow: false
 ---
 
-[PopSpotsNYC](http://www.popspotsnyc.com/) is a wonderful website by **Bob Egan** tracking all the **original locations** of iconic **pieces of art** (paintings, album covers, famous photos).
+[PopSpotsNYC](http://www.popspotsnyc.com/) is a wonderful website by **Bob Egan** tracking all the **original locations** of iconic **pieces of art** (paintings, album covers, famous photos) in New York City.
 
 <!--more-->
 
