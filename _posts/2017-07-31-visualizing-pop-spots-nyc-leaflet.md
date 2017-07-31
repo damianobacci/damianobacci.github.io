@@ -25,6 +25,15 @@ For this project I'm going to experiment a bit with [Leaflet.js](http://leafletj
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet/1.0.3/leaflet.css">
 <script src="https://cdn.jsdelivr.net/leaflet/1.0.3/leaflet.js"></script>
+<style>
+body {
+    padding:	0;
+    margin:	0;				
+}
+html,	body,	#map	{
+    height:	100%;								
+}
+</style>
 <div	id="map"	style="width:	600px;	height:	400px"></div>
 <script>
 var	map	=	L.map('map',	{ center:	[40.7339,	-74.0245], zoom:	12 });
