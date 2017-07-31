@@ -359,3 +359,41 @@ d3.csv("https://damianobacci.github.io/files/data.csv", function(d, i, columns) 
 
 </script>
 </div>
+
+### Negative consequences of Brexit in the work field
+
+Now it's time for the scariest part, the actual testimony from scholars:
+
+> An alarming result that emerged from our survey is that already 81% of the respondents have faced or felt adverse effects of  Brexit in their work, directly or indirectly. In the 314  open answers that we collected, the major negative consequences that have been reported are:
+
+>
+* Decreasing numbersof EU students, PhD applications from EU students, PhD offers to EU students, and Erasmus applications
+* Difficulty in recruiting EU academics and researchers (many EU researchers have declined job offers)
+* A general sense of insecurity, discontent and demoralisation
+* Social tension and antagonism towards Europeans and foreigners in general, with clear episodes of discrimination
+* Exclusions from directing EU projects as members of a British institution, difficulties collaborating with researchers from EU institutions in Horizon 2020 and sometimes explicit exclusions from participating
+* Reduced access to EU funding
+* Uncertainty over future EU grants
+* Increasing costs for research facilities and equipment
+* Collaborations with EU universities slowing down
+* Massive moving of EU academics from British universities to other EU institutions
+
+Here's a sample of the most representative answers:
+
+> We have been formally warned not to give PhD scholarships to EU students. Informally, many colleagues have been advised not to apply for EU grants as ERC grant since it is very unlikely that those grants will be assigned to P.I. affiliated to British universities (the duration of the grant being more than 2 years)
+
+> Although it seems still possible to obtain EU funding for research, I personally know many internationally renowned researchers and professors who – even though they have obtained this funding – are thinking about moving somewhere else in the European Union because they are not quite sure about what is going to happen when the UK leaves the EU
+
+> All the attempts to collaborate with EU colleagues for EU research funding are basically frozen
+
+> There is a clear evidence that EU partners are uncertain about incorporating colleagues from UK universities in proposals for EU funding
+
+> I work at the Joint European Torus and more directly I work at the Culham Centre for Fusion Energy (MAST and MAST-U), which  depends on the EU for 60% of its funding. The feeling of uncertainty about the future of JET and about research on fusion  energy in UK (also considering the exit from Euratom) has an incredibly negative effect on planning future research activities and on the spirit of researchers
+
+> I personally know colleagues who have been asked to renounce big collaborative grants
+
+> During the application phase, research groups based abroad pulled back their invitation to collaborate
+
+> I have been excluded from two different research groups because the other partners were afraid that the presence of a British institution weakens the application
+
+> One of my colleagues wasasked to withdraw from the EU research group with which he was applying to H2020. Currently, having a partner from a British institution is considered a weak point in the referees' eye
