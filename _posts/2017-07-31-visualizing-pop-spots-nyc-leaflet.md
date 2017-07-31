@@ -31,7 +31,8 @@ body {
     margin:	0;				
 }
 html,	body,	#map	{
-    height:	100%;								
+    height:	100%;
+    width: auto;								
 }
 </style>
 <div	id="map"	style="width:	600px;	height:	400px"></div>
