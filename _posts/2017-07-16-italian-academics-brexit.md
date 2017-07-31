@@ -243,7 +243,7 @@ To this question only 18% of the respondents said ‘no’ whilst 82% are consid
 </svg>
 <svg width="72" height="72">
 <circle cx="36" cy="36" r="36" fill="#89DA59" />
-<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">No</text>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Noes</text>
 </svg>
 </div>
 
