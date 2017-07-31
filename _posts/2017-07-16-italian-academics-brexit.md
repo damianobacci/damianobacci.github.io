@@ -230,24 +230,39 @@ Highcharts.chart('container', {
 
 > Are you thinking about leaving the UK?
 
-<div>
+To this question only 18% of the respondents said ‘no’ whilst 82% are considering leaving the UK.
 
+<div>
 <svg width="220" height="220">
 <circle cx="110" cy="110" r="110" fill="#80BD9E" />
-<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="1.7px">Maybe</text>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Maybe</text>
 </svg>
-
 <svg width="108" height="108">
 <circle cx="54" cy="54" r="54" fill="#FF420E" />
 <text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Yes</text>
 </svg>
-
 <svg width="72" height="72">
 <circle cx="36" cy="36" r="36" fill="#89DA59" />
-<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="1.7px">No</text>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">No</text>
 </svg>
 </div>
 
+> “If yes, where would you move?"
+
+<div>
+<svg width="228" height="228">
+<circle cx="114" cy="114" r="114" fill="#003399"/>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">EU</text>
+</svg>
+<svg width="116" height="126">
+<circle cx="58" cy="58" r="58" fill="#444c5c"/>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Italy</text>
+</svg>
+<svg width="60" height="60">
+<circle cx="30" cy="30" r="30" fill="#89DA59"/>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Non-EU</text>
+</svg>
+</div>
 
 <div class="mobileHide">
 <svg id="grafico" width="590" height="300"></svg>
