@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visualizing PopSpotsNYCwith Leaflet"
+title: "Visualizing PopSpotsNYC with Leaflet.js"
 date: 2017-7-31
 description: "Because our Pop Culture is important"
 category:
@@ -29,5 +29,6 @@ PopSpotsNYC is a wonderful website by Bob Egan tracking all the original locatio
     crossorigin=""></script>
 <script>
 var	map	=	L.map('map',{center:	[35.10418,	-106.62987], zoom:	10 });
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png').addTo(map);
 </script>
-<div id="mapid" width="400px" height="400px"></div>
+<div id="map" width="400px" height="400px"></div>
