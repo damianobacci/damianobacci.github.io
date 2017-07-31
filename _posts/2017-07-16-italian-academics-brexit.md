@@ -233,15 +233,18 @@ Highcharts.chart('container', {
 <div>
 <svg width="54" height="54">
 <circle cx="27" cy="27" r="27" fill="#FF420E" />
-</svg> **YES**
+<text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Look, I’m centered!Look, I’m centered!</text>
+</svg>
 
 <svg width="36" height="36">
 <circle cx="18" cy="18" r="18" fill="#89DA59" />
-</svg> **NO**
+<text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Look, I’m centered!Look, I’m centered!</text>
+</svg>
 
 <svg width="110" height="110">
 <circle cx="55" cy="55" r="55" fill="#80BD9E" />
-</svg> **MAYBE**
+<text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Look, I’m centered!Look, I’m centered!</text>
+</svg>
 </div>
 
 <div class="mobileHide">
