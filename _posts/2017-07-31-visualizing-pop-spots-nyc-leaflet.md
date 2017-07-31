@@ -26,6 +26,8 @@ For this project I'm going to experiment a bit with [Leaflet.js](http://leafletj
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet/1.0.3/leaflet.css">
 <script src="https://cdn.jsdelivr.net/leaflet/1.0.3/leaflet.js"></script>
 <div	id="map"	style="width:	600px;	height:	400px"></div>
-<script> var	map	=	L.map('map',	{ center:	[40.7339,	-74.0245], zoom:	12 });
+<script>
+var	map	=	L.map('map',	{ center:	[40.7339,	-74.0245], zoom:	12 });
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+varmyMarker	=	L.marker([40.73154,	-74.01018], {title:"Bob Dylan - Blonde on Blonde",alt:"Bob Dylan - Blonde on Blonde",draggable:true}).addTo(map); 
 </script>
