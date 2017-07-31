@@ -231,17 +231,17 @@ Highcharts.chart('container', {
 > Are you thinking about leaving the UK?
 
 <div>
-<svg width="50" height="50">
-<circle cx="25" cy="25" r="25" fill="#FF420E" />
-</svg> YES
+<svg width="54" height="54">
+<circle cx="27" cy="27" r="27" fill="#FF420E" />
+</svg> **YES**
 
-<svg width="50" height="50">
-<circle cx="25" cy="25" r="25" fill="#89DA59" />
-</svg> NO
+<svg width="36" height="36">
+<circle cx="18" cy="18" r="18" fill="#89DA59" />
+</svg> **NO**
 
-<svg width="50" height="50">
-<circle cx="25" cy="25" r="25" fill="#80BD9E" />
-</svg> MAYBE
+<svg width="110" height="110">
+<circle cx="55" cy="55" r="55" fill="#80BD9E" />
+</svg> **MAYBE**
 </div>
 
 <div class="mobileHide">
