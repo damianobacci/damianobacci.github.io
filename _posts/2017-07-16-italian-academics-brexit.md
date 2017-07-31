@@ -232,15 +232,15 @@ Highcharts.chart('container', {
 
 <div>
 <svg width="50" height="50">
-<circle cx="25" cy="25" r="25" fill="purple" />
+<circle cx="25" cy="25" r="25" fill="#FF420E" />
 </svg> YES
 
 <svg width="50" height="50">
-<circle cx="25" cy="25" r="25" fill="purple" />
+<circle cx="25" cy="25" r="25" fill="#89DA59" />
 </svg> NO
 
 <svg width="50" height="50">
-<circle cx="25" cy="25" r="25" fill="purple" />
+<circle cx="25" cy="25" r="25" fill="#80BD9E" />
 </svg> MAYBE
 </div>
 
