@@ -30,5 +30,5 @@ PopSpotsNYC is a wonderful website by Bob Egan tracking all the original locatio
 <div id="map" width="400px" height="400px"></div>
 <script>
 var	map	=	L.map('map',{center:	[35.10418,	-106.62987], zoom:	10 });
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png').addTo(map);
+L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png').addTo(map);
 </script>
