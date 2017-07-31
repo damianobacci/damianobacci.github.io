@@ -231,19 +231,19 @@ Highcharts.chart('container', {
 > Are you thinking about leaving the UK?
 
 <div>
-<svg width="54" height="54">
-<circle cx="27" cy="27" r="27" fill="#FF420E" />
-<text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Look, I’m centered!Look, I’m centered!</text>
+<svg width="108" height="108">
+<circle cx="54" cy="54" r="54" fill="#FF420E" />
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px" dy=".3em">YES</text>
 </svg>
 
-<svg width="36" height="36">
-<circle cx="18" cy="18" r="18" fill="#89DA59" />
-<text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Look, I’m centered!Look, I’m centered!</text>
+<svg width="72" height="72">
+<circle cx="36" cy="36" r="36" fill="#89DA59" />
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px" dy=".3em">NO</text>
 </svg>
 
-<svg width="110" height="110">
-<circle cx="55" cy="55" r="55" fill="#80BD9E" />
-<text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Look, I’m centered!Look, I’m centered!</text>
+<svg width="220" height="220">
+<circle cx="110" cy="110" r="110" fill="#80BD9E" />
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px" dy=".3em">MAYBE</text>
 </svg>
 </div>
 
