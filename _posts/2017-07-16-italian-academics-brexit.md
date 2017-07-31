@@ -230,7 +230,7 @@ Highcharts.chart('container', {
 
 > Are you thinking about leaving the UK?
 
-To this question only 18% of the respondents said ‘no’ whilst 82% are considering leaving the UK.
+To this question only 18% of the respondents said *no* whilst 82% are considering **leaving the UK**:
 
 <div>
 <svg width="220" height="220">
@@ -249,6 +249,8 @@ To this question only 18% of the respondents said ‘no’ whilst 82% are consid
 
 > “If yes, where would you move?"
 
+According to the survey, the vast majority of members who replied *yes* and *maybe* would move to another **EU country** (57%). A significant proportion of researchers would like to go **back to Italy** (29%):
+
 <div>
 <svg width="228" height="228">
 <circle cx="114" cy="114" r="114" fill="#ce5a47"/>
@@ -263,6 +265,8 @@ To this question only 18% of the respondents said ‘no’ whilst 82% are consid
 <text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Other</text>
 </svg>
 </div>
+
+These are the decisions by different groups (young researchers, senior researchers and professors):
 
 <div class="mobileHide">
 <svg id="grafico" width="590" height="300"></svg>
