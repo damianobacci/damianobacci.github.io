@@ -29,6 +29,5 @@ For this project I'm going to experiment a bit with [Leaflet.js](http://leafletj
 <script>
 var	map	=	L.map('map',	{ center:	[40.7339,	-74.0245], zoom:	12 });
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
-var customPopup = "<h4>Bob Dylan</h4><br><p>Testo</p>";
-var marker = L.marker([40.73154, -74.01018]).bindPopup(customPopup).addTo(map);
+var marker = L.marker([40.73154, -74.01018]).bindPopup("<h4>Bob Dylan</h4><br><p>Testo</p>").addTo(map);
 </script>
