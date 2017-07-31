@@ -72,5 +72,5 @@ var marker4 = L.marker([40.72005, -73.98858], {icon: bbIcon}).bindPopup("<h4>Bea
 var marker5 = L.marker([40.70645, -74.00685], {icon: vanIcon}).bindPopup("<h4>Van Morrison - Too Long In Exile</h4><img src='https://damianobacci.github.io/images/media/van-morrison-exile.jpg'>").addTo(map);
 var marker6 = L.marker([40.70993, -74.00390], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - I Want You</h4>").addTo(map);
 var marker7 = L.marker([40.70821, -73.99887], {icon: willieIcon}).bindPopup("<h4>Willie Colon - Cosa Nuestra</h4><img src='https://damianobacci.github.io/images/media/willie-cosa.jpg'>").addTo(map);
-var marker8 = L.marker([40.71248, -74.00660], {icon: breckerIcon}).bindPopup("<h4>Brecker Brothers - Straphangin'</h4><img src='https://damianobacci.github.io/images/media/brecker-strap.jpg'>").addTo(map);
+var marker8 = L.marker([40.71248, -74.00660], {icon: breckerIcon}).bindPopup("<h4>Brecker Brothers - Straphangin'</h4><img src='https://damianobacci.github.io/images/media/brecker-strap.gif'>").addTo(map);
 </script>
