@@ -31,7 +31,7 @@ var	map	=	L.map('map',	{ center:	[40.7339,	-74.0245], zoom:	12 });
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 var dylanIcon = L.icon({
         iconUrl: 'https://damianobacci.github.io/images/media/dylan-icon.png',
-        iconSize: [38, 95],
+        iconSize: [38, 38],
         popupAnchor: [0,-15]
         });
 var marker = L.marker([40.73154, -74.01018], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Blonde on Blonde</h4><img src='https://damianobacci.github.io/images/media/dylan-blonde.jpg'><p>Cover photo by Jerry Schatzberg.</p><p>Album cover location: 375 West Street at Morton Street, Greenwich Village, New York City. (The building has been replaced.)</p>").addTo(map);
