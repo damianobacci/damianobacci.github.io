@@ -243,7 +243,7 @@ To this question only 18% of the respondents said ‘no’ whilst 82% are consid
 </svg>
 <svg width="72" height="72">
 <circle cx="36" cy="36" r="36" fill="#89DA59" />
-<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Noes</text>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">No</text>
 </svg>
 </div>
 
@@ -251,7 +251,7 @@ To this question only 18% of the respondents said ‘no’ whilst 82% are consid
 
 <div>
 <svg width="228" height="228">
-<circle cx="114" cy="114" r="114" fill="#003399"/>
+<circle cx="114" cy="114" r="114" fill="#ce5a47"/>
 <text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">EU</text>
 </svg>
 <svg width="116" height="126">
@@ -259,8 +259,8 @@ To this question only 18% of the respondents said ‘no’ whilst 82% are consid
 <text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Italy</text>
 </svg>
 <svg width="60" height="60">
-<circle cx="30" cy="30" r="30" fill="#89DA59"/>
-<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Non-EU</text>
+<circle cx="30" cy="30" r="30" fill="#78a5a3"/>
+<text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="2px">Other</text>
 </svg>
 </div>
 
