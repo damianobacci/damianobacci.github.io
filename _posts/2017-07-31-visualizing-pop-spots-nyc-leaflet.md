@@ -17,10 +17,12 @@ noindex: false
 nofollow: false
 ---
 
-PopSpotsNYC is a wonderful website by Bob Egan tracking all the original locations of iconic pieces of art (paintings, album covers, famous photos).
+[PopSpotsNYC](http://www.popspotsnyc.com/) is a wonderful website by **Bob Egan** tracking all the **original locations** of iconic **pieces of art** (paintings, album covers, famous photos).
 
 <!--more-->
 
+For this project I'm going to experiment a bit with [Leaflet.js](http://leafletjs.com), a powerful library to create beautiful and embeddable maps.
+ 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet/1.0.3/leaflet.css">
 <script src="https://cdn.jsdelivr.net/leaflet/1.0.3/leaflet.js"></script>
 <div	id="map"	style="width:	600px;	height:	400px"></div>
