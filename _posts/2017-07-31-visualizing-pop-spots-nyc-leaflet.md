@@ -29,5 +29,5 @@ For this project I'm going to experiment a bit with [Leaflet.js](http://leafletj
 <script>
 var	map	=	L.map('map',	{ center:	[40.7339,	-74.0245], zoom:	12 });
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
-var marker =	L.marker([40.73154,	-74.01018]).addTo(map);
+var marker =	L.marker([40.73154,	-74.01018]).addTo(map).bindPopup("<h3>Bob Dylan - Blonde on Blonde</h3><br><img src="https://damianobacci.github.io/images/media/dylan-blonde.jpg"><br><p>Bob Dylan's BLONDE ON BLONDE (1966) cover photo by Jerry Schatzberg. Album cover location: 375 West Street at Morton Street, Greenwich Village, New York City. (The building has been replaced.)</p>");
 </script>
