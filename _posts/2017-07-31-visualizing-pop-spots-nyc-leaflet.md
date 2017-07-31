@@ -29,5 +29,5 @@ For this project I'm going to experiment a bit with [Leaflet.js](http://leafletj
 <script>
 var	map	=	L.map('map',	{ center:	[40.7339,	-74.0245], zoom:	12 });
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
-varmyMarker	=	L.marker([40.73154,	-74.01018]).addTo(map).bindPopup("Cazzo");
+varmyMarker	=	L.marker([40.73154,	-74.01018]).addTo(map);
 </script>
