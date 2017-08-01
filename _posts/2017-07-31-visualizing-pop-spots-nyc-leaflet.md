@@ -67,6 +67,7 @@ var willieIcon = L.icon({
 var breckerIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/brecker-icon.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var generalMusicIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/general-music.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var rightBrosIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/right-bros-icon.png', iconSize: [38, 38], popupAnchor: [0,-15]});
+var youngIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/neil-young.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var marker = L.marker([40.73154, -74.01018], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Blonde on Blonde</h4><img src='https://damianobacci.github.io/images/media/dylan-blonde.jpg'>").addTo(map);
 var marker2 = L.marker([40.76860, -73.98149], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Modern Times</h4><img src='https://damianobacci.github.io/images/media/dylan-modern.jpg'>").addTo(map);
 var marker3 = L.marker([40.72514, -73.99061], {icon: ramonesIcon}).bindPopup("<h4>Ramones - Ramones</h4><img src='https://damianobacci.github.io/images/media/ramones-self.jpg'>").addTo(map);
@@ -77,4 +78,5 @@ var marker7 = L.marker([40.70821, -73.99887], {icon: willieIcon}).bindPopup("<h4
 var marker8 = L.marker([40.71248, -74.00660], {icon: breckerIcon}).bindPopup("<h4>The Brecker Brothers - Straphangin'</h4><img src='https://damianobacci.github.io/images/media/brecker-strap.gif'>").addTo(map);
 var marker8 = L.marker([40.70514, -74.00977], {icon: generalMusicIcon}).bindPopup("<h4>The Fifth Avenue Band - self-titled</h4><img src='https://damianobacci.github.io/images/media/fifth-avenue.jpg'>").addTo(map);
 var marker9 = L.marker([40.70542, -74.01894], {icon: rightBrosIcon}).bindPopup("<h4>The Righteous Brothers - Go Ahed and Cry</h4><img src='https://damianobacci.github.io/images/media/right-bros-cry.jpg'>").addTo(map);
+var marker10 = L.marker([40.73023, -73.99935], {icon: youngIcon}).bindPopup("<h4>Neil Young - After the Gold Rush</h4><img src='https://damianobacci.github.io/images/media/young-gold.jpg'><p><a href='http://www.popspotsnyc.com/afterthegoldrush'>Page on PopSpotsNYC</a></p>").addTo(map);
 </script>
