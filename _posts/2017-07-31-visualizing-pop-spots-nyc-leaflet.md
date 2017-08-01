@@ -68,6 +68,8 @@ var breckerIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/
 var generalMusicIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/general-music.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var rightBrosIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/right-bros-icon.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var youngIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/neil-young.png', iconSize: [38, 38], popupAnchor: [0,-15]});
+var bruceIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/bruce-springsteen.png', iconSize: [38, 38], popupAnchor: [0,-15]});
+var simonIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/paul-simon.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var marker = L.marker([40.73154, -74.01018], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Blonde on Blonde</h4><img src='https://damianobacci.github.io/images/media/dylan-blonde.jpg'>").addTo(map);
 var marker2 = L.marker([40.76860, -73.98149], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Modern Times</h4><img src='https://damianobacci.github.io/images/media/dylan-modern.jpg'>").addTo(map);
 var marker3 = L.marker([40.72514, -73.99061], {icon: ramonesIcon}).bindPopup("<h4>Ramones - Ramones</h4><img src='https://damianobacci.github.io/images/media/ramones-self.jpg'>").addTo(map);
@@ -81,4 +83,6 @@ var marker9 = L.marker([40.70542, -74.01894], {icon: rightBrosIcon}).bindPopup("
 var marker10 = L.marker([40.73023, -73.99935], {icon: youngIcon}).bindPopup("<h4>Neil Young - After the Gold Rush</h4><img src='https://damianobacci.github.io/images/media/young-gold.jpg'><p><a href='http://www.popspotsnyc.com/afterthegoldrush'>Page on PopSpotsNYC</a></p>").addTo(map);
 var marker11 = L.marker([40.73829, -73.98677], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Highway 61 Revisited</h4><img src='https://damianobacci.github.io/images/media/dylan-highway.jpg'><p><a href='http://www.popspotsnyc.com/highway_61_revisited/index.html'>Page on PopSpotsNYC</a></p>").addTo(map);
 var marker12 = L.marker([40.7628, -73.9839], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Another Side of Bob Dylan</h4><img src='https://damianobacci.github.io/images/media/dylan-another.jpg'><p><a href='http://www.popspotsnyc.com/highway_61_revisited/index.html'>Page on PopSpotsNYC</a></p>").addTo(map);
+var marker13 = L.marker([40.76640, -73.99032], {icon: bruceIcon}).bindPopup("<h4>Photo of Bruce Springsteen on Tenth Avenue</h4><img src='https://damianobacci.github.io/images/media/bruce-tenth.jpg'><p><a href='http://www.popspotsnyc.com/tenthavenue/'>Page on PopSpotsNYC</a></p>").addTo(map);
+var marker14 = L.marker([40.71997, -74.00034], {icon: simonIcon}).bindPopup("<h4>Paul Simon - Still Crazy After All These Years</h4><img src='https://damianobacci.github.io/images/media/simon-crazy.jpg'><p><a href='http://www.popspotsnyc.com/stillcrazy/'>Page on PopSpotsNYC</a></p>").addTo(map);
 </script>
