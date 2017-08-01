@@ -72,6 +72,7 @@ var bruceIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/br
 var simonIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/paul-simon.png', iconSize: [38, 40], popupAnchor: [0,-15]});
 var westIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/west-side.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var simonGarIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/simon-garfunkel.png', iconSize: [38, 38], popupAnchor: [0,-15]});
+var steelyIconGarIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/steely-dan.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var whoIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/who.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var marker = L.marker([40.73154, -74.01018], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Blonde on Blonde</h4><img src='https://damianobacci.github.io/images/media/dylan-blonde.jpg'>").addTo(map);
 var marker2 = L.marker([40.76860, -73.98149], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Modern Times</h4><img src='https://damianobacci.github.io/images/media/dylan-modern.jpg'>").addTo(map);
@@ -92,4 +93,5 @@ var marker15 = L.marker([40.7390, -73.9900], {icon: dylanIcon}).bindPopup("<h4>B
 var marker16 = L.marker([40.76764, -73.98735], {icon: westIcon}).bindPopup("<h4>West Side Story - Original Broadway Cast Album</h4><img src='https://damianobacci.github.io/images/media/west-side-album.jpg'><p><a href='http://www.popspotsnyc.com/westsidestory/'>Page on PopSpotsNYC</a></p>").addTo(map);
 var marker17 = L.marker([40.76051, -73.97583], {icon: simonGarIcon}).bindPopup("<h4> Simon & Garfunkel: Wednesday Morning, 3AM</h4><img src='https://damianobacci.github.io/images/media/simon-wednesday.jpg'><p><a href='http://www.popspotsnyc.com/simonandgarfunkel/'>Page on PopSpotsNYC</a></p>").addTo(map);
 var marker18 = L.marker([40.80603, -73.95914], {icon: whoIcon}).bindPopup("<h4>The Who - The Kids Are Alright</h4><img src='https://damianobacci.github.io/images/media/who-kids.jpg'><p><a href='http://www.popspotsnyc.com/thewho/'>Page on PopSpotsNYC</a></p>").addTo(map);
+var marker19 = L.marker([40.77716, -73.96375], {icon: steelyIcon}).bindPopup("<h4>Steely Dan - Pretzel Logi</h4><img src='https://damianobacci.github.io/images/media/steely-pretzel.jpg'><p><a href='http://www.popspotsnyc.com/pretzel_logic/'>Page on PopSpotsNYC</a></p>").addTo(map);
 </script>
