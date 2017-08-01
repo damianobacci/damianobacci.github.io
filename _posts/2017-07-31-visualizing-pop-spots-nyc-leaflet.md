@@ -68,7 +68,7 @@ var breckerIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/
 var generalMusicIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/general-music.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var rightBrosIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/right-bros-icon.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var youngIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/neil-young.png', iconSize: [38, 38], popupAnchor: [0,-15]});
-var bruceIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/bruce-springsteen.png', iconSize: [38, 38], popupAnchor: [0,-15]});
+var bruceIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/bruce-springsteen.jpg', iconSize: [38, 38], popupAnchor: [0,-15]});
 var simonIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/paul-simon.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var marker = L.marker([40.73154, -74.01018], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Blonde on Blonde</h4><img src='https://damianobacci.github.io/images/media/dylan-blonde.jpg'>").addTo(map);
 var marker2 = L.marker([40.76860, -73.98149], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Modern Times</h4><img src='https://damianobacci.github.io/images/media/dylan-modern.jpg'>").addTo(map);
