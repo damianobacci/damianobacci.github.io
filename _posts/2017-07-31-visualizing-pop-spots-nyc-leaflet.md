@@ -70,6 +70,7 @@ var rightBrosIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/medi
 var youngIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/neil-young.png', iconSize: [38, 38], popupAnchor: [0,-15]});
 var bruceIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/bruce-springsteen.jpg', iconSize: [38, 38], popupAnchor: [0,-15]});
 var simonIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/paul-simon.png', iconSize: [38, 40], popupAnchor: [0,-15]});
+var westIcon = L.icon({iconUrl: 'https://damianobacci.github.io/images/media/west-side.png', iconSize: [38, 40], popupAnchor: [0,-15]});
 var marker = L.marker([40.73154, -74.01018], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Blonde on Blonde</h4><img src='https://damianobacci.github.io/images/media/dylan-blonde.jpg'>").addTo(map);
 var marker2 = L.marker([40.76860, -73.98149], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Modern Times</h4><img src='https://damianobacci.github.io/images/media/dylan-modern.jpg'>").addTo(map);
 var marker3 = L.marker([40.72514, -73.99061], {icon: ramonesIcon}).bindPopup("<h4>Ramones - Ramones</h4><img src='https://damianobacci.github.io/images/media/ramones-self.jpg'>").addTo(map);
@@ -86,4 +87,5 @@ var marker12 = L.marker([40.7628, -73.9839], {icon: dylanIcon}).bindPopup("<h4>B
 var marker13 = L.marker([40.76640, -73.99032], {icon: bruceIcon}).bindPopup("<h4>Photo of Bruce Springsteen on Tenth Avenue</h4><img src='https://damianobacci.github.io/images/media/bruce-tenth.jpg'><p><a href='http://www.popspotsnyc.com/tenthavenue/'>Page on PopSpotsNYC</a></p>").addTo(map);
 var marker14 = L.marker([40.71997, -74.00034], {icon: simonIcon}).bindPopup("<h4>Paul Simon - Still Crazy After All These Years</h4><img src='https://damianobacci.github.io/images/media/simon-crazy.jpg'><p><a href='http://www.popspotsnyc.com/stillcrazy/'>Page on PopSpotsNYC</a></p>").addTo(map);
 var marker15 = L.marker([40.7390, -73.9900], {icon: dylanIcon}).bindPopup("<h4>Bob Dylan - Chronicles</h4><img src='https://damianobacci.github.io/images/media/dylan-chronicles.jpg'><p><a href='http://www.popspotsnyc.com/chronicles/'>Page on PopSpotsNYC</a></p>").addTo(map);
+var marker16 = L.marker([40.76764, -73.98735], {icon: westIcon}).bindPopup("<h4>West Side Story - Original Broadway Cast Album</h4><img src='https://damianobacci.github.io/images/media/west-side-album.jpg'><p><a href='http://www.popspotsnyc.com/westsidestory/'>Page on PopSpotsNYC</a></p>").addTo(map);
 </script>
