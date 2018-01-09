@@ -21,8 +21,8 @@ Basketball and data journalism have come a long way together. If you missed the 
 <!--more-->
 
 {:.text-center img}
-[![NBA Jersey numbers]({{ site.urlimg }}media/nba-numbers.png "AlboPop")](https://damianobacci.github.io/media/nba-numbers.png)(click to enlarge)
+[![NBA Jersey numbers]({{ site.urlimg }}media/nba-numbers.png "AlboPop")](https://damianobacci.github.io/images/media/nba-numbers.png)(click to enlarge)
 
-<a href="https://damianobacci.github.io/media/nba-numbers.png" target="_blank">
-<img src="https://damianobacci.github.io/media/nba-numbers.png">
+<a href="https://damianobacci.github.io/images/media/nba-numbers.png" target="_blank">
+<img src="https://damianobacci.github.io/images/media/nba-numbers.png">
 </a>
