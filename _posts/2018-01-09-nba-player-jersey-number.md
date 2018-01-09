@@ -26,3 +26,7 @@ Basketball and data journalism have come a long way together. If you missed the 
 <a href="https://damianobacci.github.io/images/media/nba-numbers.png" target="_blank">
 <img src="https://damianobacci.github.io/images/media/nba-numbers.png">
 </a>
+
+<a href="https://damianobacci.github.io/images/media/nba-numbers.svg" target="_blank">
+<img src="https://damianobacci.github.io/images/media/nba-numbers.svg">
+</a>
