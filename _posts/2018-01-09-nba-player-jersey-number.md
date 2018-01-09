@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How many NBA players have the same jersey number and why?"
-date: 2017-1-09
+date: 2018-1-09
 description: "Basketball!"
 category:
   - views
@@ -21,4 +21,4 @@ Basketball and data journalism have come a long way together. If you missed the 
 <!--more-->
 
 {:.text-center img}
-[![NBA Jersey]({{ site.urlimg }}media/albo-pop.png "AlboPop")](https://www.prova.it)
+[![NBA Jersey numbers]({{ site.urlimg }}media/nba-numbers.png "AlboPop")](https://damiabacci.github.io/media/nba-numbers.png)
