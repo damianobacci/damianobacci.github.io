@@ -20,7 +20,7 @@ Basketball and data journalism have come a long way together. If you missed the 
 
 <!--more-->
 
-<iframe width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsg0IaOY9n15wPfwUD-61WSxcv4nbzhcnJ6wrrBrAvv5CD7hUL47qihrXgAq3E2Avhkt8jmGYViDx2/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="405px" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsg0IaOY9n15wPfwUD-61WSxcv4nbzhcnJ6wrrBrAvv5CD7hUL47qihrXgAq3E2Avhkt8jmGYViDx2/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <a href="https://damianobacci.github.io/images/media/nba-numbers.svg" target="_blank">
 <img src="https://damianobacci.github.io/images/media/nba-numbers.svg">
