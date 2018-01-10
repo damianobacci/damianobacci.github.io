@@ -51,5 +51,8 @@ This rule has been applied at least since the 60s, because famous college player
 There are some nice quotes explaining the origin of this strange rule (which is not used in Europe, albeit there were different limitations):
 
 > The uniform policy — adhered to by the N.C.A.A. and the National Federation of State High School Associations (the national governing body for high school athletics) — is said to be intended to simplify the hand signaling made by officials.
-
 When a player is whistled for a foul, the referee signals to the scorer’s table the uniform number of the offender by using his hands. John Adams, the N.C.A.A.’s men’s basketball officiating coordinator, said the system is set up so that referees flash only two hands to make their signals, making things easier for the scorer to interpret.
+
+You can see a video of the flashing signal in action here (of course it seems pretty stupid because the rest of the world is following the FIBA rules for signaling numbers)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/8lgTxzgvmzw' frameborder='0' allowfullscreen></iframe></div>
