@@ -20,16 +20,18 @@ Basketball and data journalism have come a long way together. If you missed the 
 
 <!--more-->
 
-I decided to do a quick experiment after a talk with ex-teammates about **jersey numbers**. Back in the day some of us picked a number depending on their relation with a star player (number 8 and 24 for **Kobe**, number 23 for **Jordan**, 15 for **Vince Carter** etc) or for other futile motives (69...). I dediced to check if I could find *some patterns* in jersey numbers that were used in the NBA up until now.
+I decided to do a quick experiment after a talk with ex-teammates about **jersey numbers**. Back in the day some of us picked a number depending on their relation with a star player (number 8 and 24 for **Kobe**, number 23 for **Jordan**, 15 for **Vince Carter** etc) or for other futile motives (69...). I tried to check if I could find *some patterns* in jersey numbers that has been used in the NBA up until now.
 
 I used a database available online on [Basketball-Reference.com](https://www.basketball-reference.com/friv/numbers.cgi), a great source for NBA statistics and other cool stuff basketball-related.
 
 This dataset has been scraped using the [Scraper Chrome browser extension](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd) and hosted on Google Drive.
 
 <iframe width="405px" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsg0IaOY9n15wPfwUD-61WSxcv4nbzhcnJ6wrrBrAvv5CD7hUL47qihrXgAq3E2Avhkt8jmGYViDx2/pubhtml?widget=true&amp;headers=false"></iframe>
-
+<br>
 The data visualization has been done with [RAWGraphs](http://rawgraphs.io/), an Italian data visualization platform based on D3.js.
 
 <a href="https://damianobacci.github.io/images/media/nba-numbers.svg" target="_blank">
 <img src="https://damianobacci.github.io/images/media/nba-numbers.svg">
 </a> (click to enlarge)
+<br>
+### Finding patterns
