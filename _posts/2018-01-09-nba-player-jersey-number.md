@@ -70,4 +70,4 @@ Those numbers belong the the **Rochester Royal**, one of the incarnations of the
 I still can't explain why only the Royals had these numbers, maybe there is a funny story somewhere waiting to be told.
 
 {:.text-center img}
-![Rochester Royals 1951-52]({{ site.urlimg }}media/rochester-royals-195s.jpg "Rochester Royals 1951-52")
+![Rochester Royals 1951-52]({{ site.urlimg }}media/rochester-royals-1951.jpg "Rochester Royals 1951-52")
