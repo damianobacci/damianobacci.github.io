@@ -53,6 +53,21 @@ There are some nice quotes explaining the origin of this strange rule (which is 
 > The uniform policy — adhered to by the N.C.A.A. and the National Federation of State High School Associations (the national governing body for high school athletics) — is said to be intended to simplify the hand signaling made by officials.
 When a player is whistled for a foul, the referee signals to the scorer’s table the uniform number of the offender by using his hands. John Adams, the N.C.A.A.’s men’s basketball officiating coordinator, said the system is set up so that referees flash only two hands to make their signals, making things easier for the scorer to interpret.
 
-You can see a video of the flashing signal in action here (of course it seems pretty stupid because the rest of the world is following the FIBA rules for signaling numbers)
+You can see a video of the flashing signal in action here (of course it seems pretty stupid because the rest of the world is following the FIBA rules for signaling numbers, which use both hands).
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/8lgTxzgvmzw' frameborder='0' allowfullscreen></iframe></div>
+
+### Fun side note
+
+In the chart there are also number **0** and **00**, which are not uncommon (howeever they can't exist at the same time on the same team). However at the end you can notice numbers like **03**, **07** and **09**.
+
+Those numbers belong the the **Rochester Royal**, one of the incarnations of the present-day **Sacramento Kings**:
+
+* **03** has been used by [**Pep Saul**]() during the 1949-50 and 1950-51 seasons, by [**Sam Ranzino**]() through the 1951-52 season and by [**Jack McMahon**]() from 1953 to 1955.
+* **07** has been used by [**Paul Noel**]() through the 1950-51 season.
+* **09** has been used by [**Bobby Wanzer**]() during all his tenure with the Rochester Royals, from 1949 to 1955 (Wanzer was a Hall of Famer and the first NBA player to shoot over 90 percent from the free-throw line in a season)
+
+I still can't explain why only the Royals had these numbers, maybe there is a funny story somewhere waiting to be told.
+
+{:.text-center img}
+![Rochester Royals 1951-52]({{ site.urlimg }}media/rochester-royals-195s.jpg "Rochester Royals 1951-52")
