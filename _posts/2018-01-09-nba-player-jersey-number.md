@@ -38,7 +38,18 @@ The data visualization has been done with [RAWGraphs](http://rawgraphs.io/), an 
 
 We can find some interesting patterns by simply look up at the data: for example we can clearly see that there is a sharp drop for numbers **16-19**, **26-29**, **36-39**, **46-49**, completely disappearing after 55.
 
-The reason is pretty simple and it has nothing to do with the NBA itself, but with the rule regarding jersey numbers in high school and NCAA college. The NBA is now an international league but up until the 80s not many foreign players were allowed, thus the near total of the players came from NCAA colleges, which have a particular rule regarding jersey number:
+The reason is pretty simple and it has nothing to do with the NBA itself, but with the rule regarding jersey numbers in **high school** and **NCAA college**. The NBA is now an international league but up until the 80s not many foreign players were allowed, thus the near total of the players came from NCAA colleges, which have a **particular rule** regarding jersey numbers ([from NCAA Rule 1, Section 22, Article 7, clause b.2](https://ncaambb.arbitersports.com/Groups/104883/Library/files/BR15.pdf)):
 
 {:.text-center img}
 ![NCAA allowed numbers]({{ site.urlimg }}media/ncaa-rule-numbers.png "NCAA allowed numbers")
+
+Since players tend to retain the same number they wore in college, we can pretty much understand this difference in the data.
+This rule has been applied at least since the 60s, because famous college players of the lates 50s like **Bill Russell** could wore different numbers (Russell wore n.6 at the University of San Francisco).
+
+[Zach Schonbrun](https://twitter.com/zschonbrun) wrote a [piece on the New York Times](https://www.nytimes.com/2015/03/31/sports/ncaabasketball/numerals-on-college-basketball-jerseys-you-can-count-them-on-one-hand.html) citing the lack of numbers in some colleges, based on the fact that many numbers has been retired during these years.
+
+There are some nice quotes explaining the origin of this strange rule (which is not used in Europe, albeit there were different limitations):
+
+> The uniform policy — adhered to by the N.C.A.A. and the National Federation of State High School Associations (the national governing body for high school athletics) — is said to be intended to simplify the hand signaling made by officials.
+
+When a player is whistled for a foul, the referee signals to the scorer’s table the uniform number of the offender by using his hands. John Adams, the N.C.A.A.’s men’s basketball officiating coordinator, said the system is set up so that referees flash only two hands to make their signals, making things easier for the scorer to interpret.
