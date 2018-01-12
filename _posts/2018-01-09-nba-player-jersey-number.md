@@ -59,9 +59,9 @@ You can see a video of the flashing signal in action here (of course it seems pr
 
 ### Fun side note
 
-In the chart there are also number **0** and **00**, which are not uncommon (howeever they can't exist at the same time on the same team). However at the end you can notice numbers like **03**, **07** and **09**.
+In the chart there are also number **0** and **00**, which are not uncommon (but they can't exist at the same time on the same team). However at the end you can notice numbers like **03**, **07** and **09**.
 
-Those numbers belong the the **Rochester Royal**, one of the incarnations of the present-day **Sacramento Kings**:
+Those numbers belong the the [**Rochester Royals**](https://en.wikipedia.org/wiki/1950%E2%80%9351_Rochester_Royals_season), one of the incarnations of the present-day **Sacramento Kings**:
 
 * **03** has been used by [**Pep Saul**]() during the 1949-50 and 1950-51 seasons, by [**Sam Ranzino**]() through the 1951-52 season and by [**Jack McMahon**]() from 1953 to 1955.
 * **07** has been used by [**Paul Noel**]() through the 1950-51 season.
