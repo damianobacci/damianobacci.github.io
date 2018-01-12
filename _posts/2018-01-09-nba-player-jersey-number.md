@@ -43,7 +43,7 @@ The reason is pretty simple and it has nothing to do with the NBA itself, but wi
 {:.text-center img}
 ![NCAA allowed numbers]({{ site.urlimg }}media/ncaa-rule-numbers.png "NCAA allowed numbers")
 
-Since players tend to retain the same number they wore in college, we can pretty much understand this difference in the data.
+Since players *tend to retain the same number they wore in college*, we can pretty much understand this difference in the data.
 This rule has been applied at least since the 60s, because famous college players of the lates 50s like **Bill Russell** could wore different numbers (Russell wore n.6 at the University of San Francisco).
 
 [Zach Schonbrun](https://twitter.com/zschonbrun) wrote a [piece on the New York Times](https://www.nytimes.com/2015/03/31/sports/ncaabasketball/numerals-on-college-basketball-jerseys-you-can-count-them-on-one-hand.html) citing the lack of numbers in some colleges, based on the fact that many numbers has been retired during these years.
