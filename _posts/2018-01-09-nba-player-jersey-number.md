@@ -6,7 +6,7 @@ description: "Basketball!"
 category:
   - views
 tag:
-  - experiments
+  - articles
 comments: true
 show_meta: true
 comments: true
