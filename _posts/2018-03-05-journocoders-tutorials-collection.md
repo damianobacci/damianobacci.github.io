@@ -21,12 +21,12 @@ Journocoders is free monthly meetup in London dedicated to help developing techn
 <!--more-->
 
 [**Journocoders**](https://www.meetup.com/it-IT/Journocoders) is highly recommended if you are in London: a pleasant way to network with professionals in a super relaxed environment.
-It's organized by [**Max Harlow**](https://twitter.com/maxharlow) and [**Leila Haddou**](https://twitter.com/LeilaHaddou)
+It's organized by [**Max Harlow**](https://twitter.com/maxharlow) and [**Leila Haddou**](https://twitter.com/LeilaHaddou).
 
 <blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">And we’re underway! This month we’re learning how to use R to scrape data from the web! <a href="https://t.co/fPinTjm52s">pic.twitter.com/fPinTjm52s</a></p>&mdash; Journocoders (@journocoders) <a href="https://twitter.com/journocoders/status/928717761815175169?ref_src=twsrc%5Etfw">9 novembre 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Here is a list of all the topics covered in various meetups, with a link to a tutorial.
+Here is a list of all topics covered in various meetups, with a link to a tutorial.
 
 * Building newsgames with Inky ([tutorial]()) - March 2018
 * Building virtual reality visuals with A-Frame ([tutorial](https://aframe.io/aframe-school/#/)) - February 2018
@@ -55,7 +55,7 @@ Here is a list of all the topics covered in various meetups, with a link to a tu
 * BBC HTML5 video compositor ([tutorial](https://github.com/journocoders/html5-video-compositor)) - March 2016
 * Let’s make a map with D3 ([tutorial](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c)) - February 2016
 * Scraping with Python (episode two) ([tutorial](https://first-web-scraper.readthedocs.io/en/latest/)) - January 2016
-* Cleaning data with Open Refine ([tutorial](https://#)) - December 2015
+* Cleaning data with Open Refine (<s>tutorial</s>) - December 2015
 * Exploring networks with Neo4j ([tutorial](http://leilahaddou.github.io/neo4j-tutorial/)) - November 2015
 * Building Twitter bots at the Guardian ([tutorial](https://www.bryanbraun.com/2014/12/13/how-to-set-up-a-simple-javascript-twitter-bot/)) - October 2015
 * Data viz with D3 ([tutorial](https://www.dashingd3js.com/d3js-first-steps)) - September 2015
