@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A collection of tutorials created for the Journocoders meetup"
+title: "A collection of tutorials used for the Journocoders meetup"
 date: 2018-3-5
 description: "If you want to dive into data-driven journalism, start from this list"
 category:
