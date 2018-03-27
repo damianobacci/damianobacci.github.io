@@ -28,7 +28,7 @@ It's organized by [**Max Harlow**](https://twitter.com/maxharlow) and [**Leila H
 
 Here is a list of all topics covered in various meetups, with a link to a tutorial.
 
-* Building newsgames with Inky (<s>tutorial</s>) - March 2018
+* Building newsgames with Inky ([tutorial 1](https://medium.com/journocoders/create-a-news-game-with-ink-react-and-redux-part-i-scripting-in-inky-fba5f681601c), [tutorial 2](https://medium.com/journocoders/create-a-news-game-with-ink-react-and-redux-part-ii-playing-your-game-on-the-web-5216e33043df)) - March 2018
 * Building virtual reality visuals with A-Frame ([tutorial](https://aframe.io/aframe-school/#/)) - February 2018
 * Visualising geographical data with QGis ([tutorial](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/blob/master/Workshops/Thematic%20Mapping%20Techniques/Thematic%20Mapping%20Techniques%20Workbook.pdf)) - January 2018
 * Building satellite flythroughs with Google Earth ([tutorial](https://github.com/edlowther/gep-flythroughs)) - December 2017
