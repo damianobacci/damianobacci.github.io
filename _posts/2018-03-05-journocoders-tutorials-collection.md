@@ -28,6 +28,11 @@ It's organized by [**Max Harlow**](https://twitter.com/maxharlow) and [**Leila H
 
 Here is a list of all topics covered in various meetups, with a link to a tutorial.
 
+* Exploring how public money is spent with Open Contracting ([presentation](https://docs.google.com/presentation/d/1yxLQKHJRdHCdIl3Dsf-4AskxwWn7KWcJRum6_7sE0qw/edit#slide=id.g3e08804eb8_0_0), [instructions](https://docs.google.com/document/d/10f61pIScc_wkSz9vBa8zI1AWrY5bPraLtNAT6szV46A/edit)) - August 2018
+* Clean, scrape and analyse data with Workbench ([tutorial](https://app.workbenchdata.com/lessons/)) - July 2018
+* Getting data from the web using APIs ([tutorial](https://www.dropbox.com/s/qakx07l9s0f11o0/API_Tipsheet.pdf?dl=0)) - June 2018
+* Making maps with R ([tutorial](https://www.sharpsightlabs.com/blog/mapping-seattle-crime/)) - May 2018
+* Finding needles in haystacks with fuzzy matching ([tutorial](https://github.com/maxharlow/tutorials/tree/master/find-connections-with-fuzzy-matching)) - April 2018
 * Building newsgames with Inky ([tutorial 1](https://medium.com/journocoders/create-a-news-game-with-ink-react-and-redux-part-i-scripting-in-inky-fba5f681601c), [tutorial 2](https://medium.com/journocoders/create-a-news-game-with-ink-react-and-redux-part-ii-playing-your-game-on-the-web-5216e33043df)) - March 2018
 * Building virtual reality visuals with A-Frame ([tutorial](https://aframe.io/aframe-school/#/)) - February 2018
 * Visualising geographical data with QGis ([tutorial](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/blob/master/Workshops/Thematic%20Mapping%20Techniques/Thematic%20Mapping%20Techniques%20Workbook.pdf)) - January 2018
